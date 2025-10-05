@@ -1,27 +1,130 @@
 
 [
     {
-        "title": "Indie Vibes [PLACEHOLDER FOR DEMO]",
-        "venue": "SOhO Restaurant & Music Club",
-        "date": "Friday, March 15, 2024 • 8:00 PM",
-        "description": "Experience the best indie bands from the California coast."
+        "title": "Stephen Kellogg with Pete Muller",
+        "venue": "Soho Restaurant & Music Club",
+        "date": "Monday, October 6, 2025 • 7:30 PM",
+        "description": "A night of music, humor, and storytelling with Stephen Kellogg and special guest Pete Muller. Expect a mix of heartfelt songs and engaging anecdotes."
     },
     {
-        "title": "Jazz Under the Stars [PLACEHOLDER FOR DEMO]",
+        "title": "Katy Guillen & The Drive",
+        "venue": "Ventura Music Hall",
+        "date": "Monday, October 6, 2025 • 7:00 PM",
+        "description": "Indie roots rock band from Kansas City, blending garage rock and soulful country torch songs. Their debut album 'Another One Gained' received critical acclaim."
+    },
+    {
+        "title": "Robin Trower",
+        "venue": "Ventura Music Hall",
+        "date": "Monday, October 6, 2025 • 8:00 PM",
+        "description": "Legendary guitarist Robin Trower brings his signature blues-rock sound to Ventura, delivering powerful solos and timeless classics."
+    },
+    {
+        "title": "Kiki Andersen",
+        "venue": "Libertine Brewing Company",
+        "date": "Tuesday, October 7, 2025 • 8:00 PM",
+        "description": "Stand-up comedy night featuring Kiki Andersen, co-headlining with Keith Carey. Prepare for an evening of sharp wit and humor."
+    },
+    {
+        "title": "Colin Hay",
         "venue": "Lobero Theatre",
-        "date": "Saturday, March 23, 2024 • 7:30 PM",
-        "description": "An evening of smooth jazz in Santa Barbara's historic venue."
+        "date": "Wednesday, October 8, 2025 • 7:30 PM",
+        "description": "Colin Hay, known for his work with Men at Work and solo career, performs an intimate solo show filled with storytelling and acoustic renditions of his hits."
     },
     {
-        "title": "Rock the Coast [PLACEHOLDER FOR DEMO]",
+        "title": "TheRealTheWarrior",
+        "venue": "Ventura Music Hall",
+        "date": "Wednesday, October 8, 2025 • 7:00 PM",
+        "description": "TheRealTheWarrior (Jackson Fillmore) brings his unique blend of genres to Ventura, showcasing his latest music and dynamic stage presence."
+    },
+    {
+        "title": "TD Lind and The Aviators",
+        "venue": "Soho Restaurant & Music Club",
+        "date": "Thursday, October 9, 2025 • 8:00 PM",
+        "description": "An evening of Americana and roots music with TD Lind and The Aviators, featuring Shawn Jones Band. A night of soulful melodies and storytelling."
+    },
+    {
+        "title": "CG5",
+        "venue": "Ventura Music Hall",
+        "date": "Thursday, October 9, 2025 • 7:00 PM",
+        "description": "CG5's 'TOO MANY SONGS' tour stops in Ventura, offering fans a high-energy performance filled with his latest hits and fan favorites."
+    },
+    {
+        "title": "Rebirth Brass Band",
+        "venue": "Fremont Theater",
+        "date": "Thursday, October 9, 2025 • 8:00 PM",
+        "description": "New Orleans' own Rebirth Brass Band brings their infectious blend of jazz, funk, and soul to San Luis Obispo for an unforgettable night."
+    },
+    {
+        "title": "Keller Williams",
+        "venue": "Soho Restaurant & Music Club",
+        "date": "Friday, October 10, 2025 • 8:00 PM",
+        "description": "Keller Williams returns to Santa Barbara for an evening of solo acoustic music, looping, and improvisation that defies genre."
+    },
+    {
+        "title": "Benise",
+        "venue": "Lobero Theatre",
+        "date": "Friday, October 10, 2025 • 8:00 PM",
+        "description": "Benise presents 'Nights of Fire', a theatrical fusion of flamenco, classical, and contemporary music, featuring a live band and dancers."
+    },
+    {
+        "title": "Grateful Shred",
+        "venue": "Ventura Music Hall",
+        "date": "Friday, October 10, 2025 • 8:00 PM",
+        "description": "Grateful Shred delivers a tribute to the Grateful Dead, capturing the spirit and sound of the iconic band with their own twist."
+    },
+    {
+        "title": "Elizabeth Gilbert",
+        "venue": "Arlington Theatre",
+        "date": "Saturday, October 11, 2025 • 7:30 PM",
+        "description": "Author Elizabeth Gilbert discusses her latest work, sharing insights and stories from her writing journey."
+    },
+    {
+        "title": "The Graduates (The Sound of Simon & Garfunkel)",
+        "venue": "Lobero Theatre",
+        "date": "Saturday, October 11, 2025 • 8:00 PM",
+        "description": "The Graduates pay tribute to the timeless music of Simon & Garfunkel, performing their greatest hits with acoustic precision."
+    },
+    {
+        "title": "HAIM",
         "venue": "Santa Barbara Bowl",
-        "date": "Sunday, March 31, 2024 • 6:00 PM",
-        "description": "Classic and modern rock hits with ocean views."
+        "date": "Saturday, October 11, 2025 • 8:00 PM",
+        "description": "Indie pop trio HAIM brings their infectious energy and chart-topping hits to the Santa Barbara Bowl stage."
     },
     {
-        "title": "Acoustic Sessions [PLACEHOLDER FOR DEMO]",
-        "venue": "The Wildcat Lounge",
-        "date": "Thursday, April 4, 2024 • 9:00 PM",
-        "description": "Intimate acoustic performances by local singer-songwriters."
+        "title": "Brick Top Blaggers",
+        "venue": "Ventura County Fairgrounds",
+        "date": "Saturday, October 11, 2025 • 8:00 PM",
+        "description": "Celtic punk band Brick Top Blaggers delivers high-energy performances with a mix of traditional and original tunes."
+    },
+    {
+        "title": "Trish Toledo",
+        "venue": "The Majestic Ventura Theater",
+        "date": "Saturday, October 11, 2025 • 8:00 PM",
+        "description": "Soul singer Trish Toledo performs her blend of classic and contemporary R&B, captivating audiences with her powerful vocals."
+    },
+    {
+        "title": "Diggin Dirt",
+        "venue": "Ventura Music Hall",
+        "date": "Saturday, October 11, 2025 • 8:00 PM",
+        "description": "Funk and soul band Diggin Dirt brings their infectious grooves and dynamic stage presence to Ventura."
+    },
+    {
+        "title": "The Emo Night Tour",
+        "venue": "Fremont Theater",
+        "date": "Saturday, October 11, 2025 • 8:00 PM",
+        "description": "The Emo Night Tour returns to San Luis Obispo, featuring DJs spinning your favorite emo hits and an unforgettable night of nostalgia."
+    },
+    {
+        "title": "Zongo All-Stars",
+        "venue": "SLO Brew Rock",
+        "date": "Saturday, October 11, 2025 • 8:00 PM",
+        "description": "Zongo All-Stars bring their Afro-Cuban rhythms and high-energy performance to San Luis Obispo for a night of dancing and celebration."
+    },
+    {
+        "title": "Eslabon Armado",
+        "venue": "Vina Robles Amphitheatre",
+        "date": "Saturday, October 11, 2025 • 8:00 PM",
+        "description": "Regional Mexican band Eslabon Armado performs their chart-topping hits, delivering a night of Latin music and culture."
     }
 ]
+
