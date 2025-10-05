@@ -1,0 +1,250 @@
+/* Reset and Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f8f9fa;
+}
+
+/* Header */
+header {
+    background-color: #fff;
+    text-align: center;
+    padding: 3rem 1rem 2rem;
+    border-bottom: 3px solid #6366f1;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    color: #6366f1;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+}
+
+.tagline {
+    font-size: 1.1rem;
+    color: #6b7280;
+}
+
+/* Main Content */
+main {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+}
+
+section {
+    background-color: #fff;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+section h2 {
+    font-size: 1.8rem;
+    color: #1f2937;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid #6366f1;
+    padding-bottom: 0.5rem;
+}
+
+.section-description {
+    color: #6b7280;
+    margin-bottom: 1.5rem;
+}
+
+/* Concert List */
+.concert-list {
+    display: grid;
+    gap: 1.5rem;
+}
+
+.concert-item {
+    padding: 1.5rem;
+    border-left: 4px solid #6366f1;
+    background-color: #f8f9fa;
+    border-radius: 4px;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.concert-item:hover {
+    transform: translateX(4px);
+    box-shadow: 0 4px 6px rgba(99, 102, 241, 0.15);
+}
+
+.concert-item h3 {
+    font-size: 1.4rem;
+    color: #1f2937;
+    margin-bottom: 0.5rem;
+}
+
+.venue {
+    color: #6366f1;
+    font-weight: 600;
+    margin-bottom: 0.3rem;
+}
+
+.date {
+    color: #6b7280;
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+}
+
+.description {
+    color: #4b5563;
+    font-size: 0.95rem;
+}
+
+/* Spotify Playlist */
+.spotify-embed {
+    margin-top: 1rem;
+}
+
+.spotify-embed iframe {
+    width: 100%;
+}
+
+/* Signup Form */
+.signup form {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+input[type="email"] {
+    width: 100%;
+    padding: 0.875rem 1rem;
+    font-size: 1rem;
+    border: 2px solid #e5e7eb;
+    border-radius: 6px;
+    transition: border-color 0.3s;
+}
+
+input[type="email"]:focus {
+    outline: none;
+    border-color: #6366f1;
+}
+
+input[type="email"].error {
+    border-color: #ef4444;
+}
+
+.error-message {
+    display: block;
+    color: #ef4444;
+    font-size: 0.875rem;
+    margin-top: 0.25rem;
+    min-height: 1.25rem;
+}
+
+button[type="submit"] {
+    width: 100%;
+    padding: 0.875rem 1.5rem;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #fff;
+    background-color: #6366f1;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.1s;
+}
+
+button[type="submit"]:hover {
+    background-color: #4f46e5;
+}
+
+button[type="submit"]:active {
+    transform: scale(0.98);
+}
+
+.success-message {
+    color: #10b981;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 1rem;
+    min-height: 1.5rem;
+}
+
+/* Footer */
+footer {
+    background-color: #1f2937;
+    color: #d1d5db;
+    text-align: center;
+    padding: 2rem 1rem;
+    margin-top: 2rem;
+}
+
+footer p {
+    margin: 0.5rem 0;
+}
+
+.footer-links {
+    margin-top: 1rem;
+}
+
+.footer-links a {
+    color: #6366f1;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.footer-links a:hover {
+    color: #818cf8;
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2rem;
+    }
+
+    .tagline {
+        font-size: 1rem;
+    }
+
+    section {
+        padding: 1.5rem;
+    }
+
+    section h2 {
+        font-size: 1.5rem;
+    }
+
+    .concert-item h3 {
+        font-size: 1.2rem;
+    }
+
+    main {
+        padding: 1rem 0.5rem;
+    }
+}
+
+@media (max-width: 480px) {
+    header {
+        padding: 2rem 1rem 1.5rem;
+    }
+
+    header h1 {
+        font-size: 1.75rem;
+    }
+
+    section {
+        padding: 1rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .concert-item {
+        padding: 1rem;
+    }
+}
