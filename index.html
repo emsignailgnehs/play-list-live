@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Play List Live - Santa Barbara Concerts</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Play List Live</h1>
+        <p class="tagline">Your guide to local concerts in Santa Barbara</p>
+    </header>
+
+    <main>
+        <section class="concerts">
+            <h2>Upcoming Concerts</h2>
+            <div class="concert-list">
+            </div>
+        </section>
+
+        <section class="playlist">
+            <h2>Featured Playlist</h2>
+            <p class="section-description">Listen to tracks from artists performing in Santa Barbara</p>
+            <div class="spotify-embed">
+                <iframe data-testid="embed-iframe" style="border-radius:12px"
+                    src="https://open.spotify.com/embed/playlist/4kILi5ByhHAHVLjEDhusXp?utm_source=generator&theme=0"
+                    width="100%"
+                    height="352"
+                    frameBorder="0"
+                    allowfullscreen=""
+                    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
+                </iframe>
+            </div>
+        </section>
+
+        <section class="signup">
+            <h2>Stay Updated</h2>
+            <p class="section-description">Get concert alerts and exclusive presale access</p>
+            <form id="signup-form">
+                <div class="form-group">
+                    <input 
+                        type="email" 
+                        id="email" 
+                        name="email" 
+                        placeholder="Enter your email address"
+                        required
+                        aria-label="Email address"
+                    >
+                    <span class="error-message" id="email-error"></span>
+                </div>
+                <button type="submit">Sign Up</button>
+                <p class="success-message" id="success-message"></p>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Play List Live. Bringing music to Santa Barbara.</p>
+        <p class="footer-links">
+            <a href="#concerts">Concerts</a> • 
+            <a href="#playlist">Playlist</a> • 
+            <a href="#signup">Newsletter</a>
+        </p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
