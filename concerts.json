@@ -1,0 +1,27 @@
+
+[
+    {
+        "title": "Indie Vibes [PLACEHOLDER FOR DEMO]",
+        "venue": "SOhO Restaurant & Music Club",
+        "date": "Friday, March 15, 2024 • 8:00 PM",
+        "description": "Experience the best indie bands from the California coast."
+    },
+    {
+        "title": "Jazz Under the Stars [PLACEHOLDER FOR DEMO]",
+        "venue": "Lobero Theatre",
+        "date": "Saturday, March 23, 2024 • 7:30 PM",
+        "description": "An evening of smooth jazz in Santa Barbara's historic venue."
+    },
+    {
+        "title": "Rock the Coast [PLACEHOLDER FOR DEMO]",
+        "venue": "Santa Barbara Bowl",
+        "date": "Sunday, March 31, 2024 • 6:00 PM",
+        "description": "Classic and modern rock hits with ocean views."
+    },
+    {
+        "title": "Acoustic Sessions [PLACEHOLDER FOR DEMO]",
+        "venue": "The Wildcat Lounge",
+        "date": "Thursday, April 4, 2024 • 9:00 PM",
+        "description": "Intimate acoustic performances by local singer-songwriters."
+    }
+]

@@ -1,5 +1,24 @@
 // Email validation and form submission
 document.addEventListener('DOMContentLoaded', function() {
+    // Fetch and render concerts
+    fetch('concerts.json')
+        .then(response => response.json())
+        .then(concerts => {
+            const concertList = document.querySelector('.concert-list');
+            concertList.innerHTML = ''; // Clear existing content
+            concerts.forEach(concert => {
+                const concertItem = document.createElement('div');
+                concertItem.classList.add('concert-item');
+                concertItem.innerHTML = `
+                    <h3>${concert.title}</h3>
+                    <p class="venue">${concert.venue}</p>
+                    <p class="date">${concert.date}</p>
+                    <p class="description">${concert.description}</p>
+                `;
+                concertList.appendChild(concertItem);
+            });
+        })
+        .catch(error => console.error('Error fetching concerts:', error));
     const form = document.getElementById('signup-form');
     const emailInput = document.getElementById('email');
     const errorMessage = document.getElementById('email-error');
