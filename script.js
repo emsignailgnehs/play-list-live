@@ -12,9 +12,23 @@ document.addEventListener('DOMContentLoaded', function() {
                     <h3>${concert.title}</h3>
                     <p class="venue">${concert.venue}</p>
                     <p class="date">${concert.date}</p>
-                    <p class="description">${concert.description}</p>
+                    <details>
+                        <summary>Read More (+)</summary>
+                        <p class="description">${concert.description}</p>
+                    </details>
                 `;
                 concertList.appendChild(concertItem);
+
+                const detailsElement = concertItem.querySelector('details');
+                const summaryElement = concertItem.querySelector('summary');
+
+                detailsElement.addEventListener('toggle', () => {
+                    if (detailsElement.open) {
+                        summaryElement.textContent = 'Hide (-)';
+                    } else {
+                        summaryElement.textContent = 'Read More (+)';
+                    }
+                });
             });
         })
         .catch(error => console.error('Error fetching concerts:', error));
