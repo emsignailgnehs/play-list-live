@@ -16,7 +16,7 @@ body {
 header {
     background-color: #fff;
     text-align: center;
-    padding: 3rem 1rem 2rem;
+    padding: 1.5rem 1rem 1rem;
     border-bottom: 3px solid #6366f1;
 }
 
@@ -36,13 +36,13 @@ header h1 {
 main {
     max-width: 900px;
     margin: 0 auto;
-    padding: 2rem 1rem;
+    padding: 1rem 1rem;
 }
 
 section {
     background-color: #fff;
-    padding: 2rem;
-    margin-bottom: 2rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
@@ -53,6 +53,7 @@ section h2 {
     margin-bottom: 1rem;
     border-bottom: 2px solid #6366f1;
     padding-bottom: 0.5rem;
+    text-align: center;
 }
 
 .section-description {
@@ -100,6 +101,23 @@ section h2 {
 .description {
     color: #4b5563;
     font-size: 0.95rem;
+    text-align: justify;
+}
+
+details {
+    margin-top: 0.5rem;
+}
+
+summary {
+    color: #6366f1;
+    cursor: pointer;
+    font-weight: 600;
+    list-style: none; /* Remove default arrow */
+    font-size: 0.95rem;
+}
+
+summary::-webkit-details-marker {
+    display: none; /* Remove default arrow for webkit browsers */
 }
 
 /* Spotify Playlist */
@@ -203,48 +221,39 @@ footer p {
     color: #818cf8;
 }
 
-/* Mobile Responsive */
-@media (max-width: 768px) {
-    header h1 {
-        font-size: 2rem;
-    }
 
-    .tagline {
-        font-size: 1rem;
-    }
-
-    section {
-        padding: 1.5rem;
-    }
-
-    section h2 {
-        font-size: 1.5rem;
-    }
-
-    .concert-item h3 {
-        font-size: 1.2rem;
-    }
-
+/* Desktop Layout (Two Columns) */
+@media (min-width: 1024px) {
     main {
-        padding: 1rem 0.5rem;
+        display: grid;
+        grid-template-columns: 2fr 1fr; /* Concerts (left) wider than Playlist/Signup (right) */
+        gap: 2rem; /* Space between columns */
+        max-width: 1200px; /* Allow main to expand more */
+        padding: 2rem;
+    }
+
+    .concerts {
+        margin-bottom: 0; /* Remove bottom margin when in grid layout */
+    }
+
+    .right-column {
+        display: flex;
+        flex-direction: column;
+        gap: 2rem; /* Space between playlist and signup sections */
+    }
+
+    .signup form {
+        max-width: none; /* Allow form to take full width of its column */
+    }
+
+    .spotify-embed {
+        margin-top: 0; /* Adjust margin as needed */
+    }
+
+    /* Ensure sections within right-column fill available width */
+    .right-column section {
+        width: 100%;
+        margin-bottom: 0; /* Remove bottom margin for sections within right-column */
     }
 }
 
-@media (max-width: 480px) {
-    header {
-        padding: 2rem 1rem 1.5rem;
-    }
-
-    header h1 {
-        font-size: 1.75rem;
-    }
-
-    section {
-        padding: 1rem;
-        margin-bottom: 1.5rem;
-    }
-
-    .concert-item {
-        padding: 1rem;
-    }
-}

@@ -9,7 +9,7 @@
 <body>
     <header>
         <h1>Play List Live</h1>
-        <p class="tagline">Your guide to local concerts in Santa Barbara</p>
+        <p class="tagline">Weekly Santa Barbara live events</p>
     </header>
 
     <main>
@@ -19,44 +19,46 @@
             </div>
         </section>
 
-        <section class="playlist">
-            <h2>Featured Playlist</h2>
-            <p class="section-description">Listen to tracks from artists performing in Santa Barbara</p>
-            <div class="spotify-embed">
-                <iframe data-testid="embed-iframe" style="border-radius:12px"
-                    src="https://open.spotify.com/embed/playlist/4kILi5ByhHAHVLjEDhusXp?utm_source=generator&theme=0"
-                    width="100%"
-                    height="352"
-                    frameBorder="0"
-                    allowfullscreen=""
-                    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
-                </iframe>
-            </div>
-        </section>
-
-        <section class="signup">
-            <h2>Stay Updated</h2>
-            <p class="section-description">Get concert alerts and exclusive presale access</p>
-            <form id="signup-form">
-                <div class="form-group">
-                    <input 
-                        type="email" 
-                        id="email" 
-                        name="email" 
-                        placeholder="Enter your email address"
-                        required
-                        aria-label="Email address"
-                    >
-                    <span class="error-message" id="email-error"></span>
+        <div class="right-column">
+            <section class="playlist">
+                <h2>Live Playlist</h2>
+                <p class="section-description">Listen to artists performing this week</p>
+                <div class="spotify-embed">
+                    <iframe data-testid="embed-iframe" style="border-radius:12px"
+                        src="https://open.spotify.com/embed/playlist/4kILi5ByhHAHVLjEDhusXp?utm_source=generator&theme=0"
+                        width="100%"
+                        height="352"
+                        frameBorder="0"
+                        allowfullscreen=""
+                        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
+                    </iframe>
                 </div>
-                <button type="submit">Sign Up</button>
-                <p class="success-message" id="success-message"></p>
-            </form>
-        </section>
+            </section>
+
+            <section class="signup">
+                <h2>Stay Updated</h2>
+                <p class="section-description">Subscribe to weekly newsletter</p>
+                <form id="signup-form">
+                    <div class="form-group">
+                        <input 
+                            type="email" 
+                            id="email" 
+                            name="email" 
+                            placeholder="Enter your email address"
+                            required
+                            aria-label="Email address"
+                        >
+                        <span class="error-message" id="email-error"></span>
+                    </div>
+                    <button type="submit">Sign Up</button>
+                    <p class="success-message" id="success-message"></p>
+                </form>
+            </section>
+        </div>
     </main>
 
     <footer>
-        <p>&copy; 2024 Play List Live. Bringing music to Santa Barbara.</p>
+        <p>&copy; 2025 Play List Live. Bringing music to Santa Barbara.</p>
         <p class="footer-links">
             <a href="#concerts">Concerts</a> • 
             <a href="#playlist">Playlist</a> • 
