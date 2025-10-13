@@ -1,4 +1,19 @@
 document.addEventListener('DOMContentLoaded', function() {
+    // Helper function to format date and time
+    function formatConcertDateTime(dateString, timeString) {
+        const date = new Date(`${dateString}T${timeString}`);
+        const options = {
+            weekday: 'long',
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric',
+            hour: 'numeric',
+            minute: 'numeric',
+            hour12: true
+        };
+        return date.toLocaleString('en-US', options);
+    }
+
     // Fetch and render concerts
     fetch('concerts.json')
         .then(response => response.json())
@@ -9,9 +24,9 @@ document.addEventListener('DOMContentLoaded', function() {
                 const concertItem = document.createElement('div');
                 concertItem.classList.add('concert-item');
                 concertItem.innerHTML = `
-                    <h3>${concert.title}</h3>
-                    <p class="venue">${concert.venue}</p>
-                    <p class="date">${concert.date}</p>
+                    <h3>${concert.event_name}</h3>
+                    <p class="venue">${concert.venue_name} - ${concert.city}</p>
+                    <p class="date">${formatConcertDateTime(concert.date_of_show, concert.time_of_show)}</p>
                     <details>
                         <summary>Read More (+)</summary>
                         <p class="description">${concert.description}</p>
