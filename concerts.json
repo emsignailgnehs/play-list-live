@@ -16,11 +16,11 @@
         "latitude": "34.28030489999999",
         "longitude": "-119.291439",
         "description": {
-            "event type": "Original Music/Artist Performances",
+            "event_type": "Original Music/Artist Performances",
             "band": {
                 "summary": "Purity Ring is a Canadian electronic pop band formed in Edmonton, Alberta, in 2010 by multi-instrumentalist/producer Corin Roddick and vocalist Megan James. They are known for their unique blend of electronic music, often incorporating elements of synth-pop, dream pop, and witch house, with James's distinctive vocals and lyrics that combine the macabre with the poetic. They have released several critically acclaimed albums, including 'Shrines' (2012), 'Another Eternity' (2015), 'Womb' (2020), and their self-titled album 'Purity Ring' (2025).",
                 "genre": "Electronic / Dance, Pop, Hip-Hop / Rap, Punk / Alternative / Indie",
-                "top songs": [
+                "top_songs": [
                     "Fineshrine",
                     "Begin Again",
                     "Place of My Own",
@@ -53,11 +53,11 @@
         "latitude": "34.240229",
         "longitude": "-119.176274",
         "description": {
-            "event type": "Recurring Local Events (Non-Band Specific)",
+            "event_type": "Recurring Local Events (Non-Band Specific)",
             "band": {
                 "summary": "There is no specific band named 'Taco Tuesday' that is consistently performing. The term 'Taco Tuesday' refers to a recurring event, often at bars and restaurants, that features food and drink specials, and may include live music. Copper Blues Rock Pub & Kitchen in Oxnard is known for its live music, including various genres, and hosts events like \"Taco Tuesday.\"",
                 "genre": "N/A",
-                "top songs": []
+                "top_songs": []
             },
             "google_search_link": "https://www.google.com/search?q=Taco+Tuesday+%40+Oxnard+Copper+Blues+Rock+Pub+%26+Kitchen"
         }
@@ -79,11 +79,11 @@
         "latitude": "34.2765458",
         "longitude": "-119.2935556",
         "description": {
-            "event type": "Original Music/Artist Performances",
+            "event_type": "Original Music/Artist Performances",
             "band": {
                 "summary": "The Witch and the Burro is a musical duo consisting of Vic Ruggiero (also of The Slackers) and Lauren Napier. Their music has been described as having an eerie, spooky, and narrative quality, often exploring themes of time travel and haunted settings. They have released music including the EP \"Graz Tracks\" and the song \"Sin Is the Same Across the Sea.\"",
                 "genre": "Rock, Indie, Folk, Punk / Alternative / Indie",
-                "top songs": [
+                "top_songs": [
                     "Sin Is the Same Across the Sea",
                     "Last House on the Left",
                     "Is It You?"
@@ -141,11 +141,11 @@
         "latitude": "34.2736015",
         "longitude": "-119.2593536",
         "description": {
-            "event type": "Original Music/Artist Performances",
+            "event_type": "Original Music/Artist Performances",
             "band": {
                 "summary": "David Franz is a Los Angeles-based musician, producer, engineer, multi-instrumentalist, performer, and educator. He is the founder of Underground Sun, an artist development company and music studio, and co-founder of Underground Sol, an EDM artist development and event production company. Franz has written, produced, and engineered music for various artists across multiple genres including Electronic, Pop, R&B, Hip-hop, Rock, and Americana. His music has been featured in television shows, movies, and advertisements. He is also the author of books on music production, including 'Producing in the Home Studio with Pro Tools.'",
                 "genre": "Rock, Pop, R&B, Hip-Hop / Rap, Electronic / Dance, Folk, Americana, Blues, Soul, Desert Soul",
-                "top songs": [
+                "top_songs": [
                     "New Infatuation",
                     "Baby Please",
                     "E. The Unknown",
@@ -180,11 +180,11 @@
         "latitude": "34.2736015",
         "longitude": "-119.2593536",
         "description": {
-            "event type": "Original Music/Artist Performances",
+            "event_type": "Original Music/Artist Performances",
             "band": {
                 "summary": "TD Lind and The Aviators is an indie rock band from Southern California, formed in 2022. The band is known for its old-soul storytelling, powerful vocals, and energetic live shows. TD Lind, the frontman, has a career spanning 30 years, including four critically-acclaimed albums and sharing stages with artists like Sting and Bad Company. The current lineup, formed in 2022, includes David Franz on production and bass, Karl Hunter on saxophone, Greg Weiser on drums, and Sam Kulchin on guitar. Their music incorporates elements that evoke gospel and jazz, expanding into rock glory. They have released a live album, \"Into the Light\" (2023), recorded at The Grape, and a studio album, \"Golden\" (2024).",
                 "genre": "Rock, Indie, Blues, Soul",
-                "top songs": [
+                "top_songs": [
                     "I'm Sorry (Not Sorry)",
                     "Trying Times",
                     "I Will Wait",
@@ -216,11 +216,11 @@
         "latitude": "34.2765458",
         "longitude": "-119.2935556",
         "description": {
-            "event type": "Original Music/Artist Performances",
+            "event_type": "Original Music/Artist Performances",
             "band": {
                 "summary": "The Witch and the Burro is a musical duo consisting of Vic Ruggiero and Lauren Napier. They have released music such as the EP 'Graz Tracks' in 2024, featuring songs like 'Sin Is the Same Across the Sea' and 'Last House on the Left'. They are known for their eerie, narrative-driven songs, sometimes filmed in haunted locations.",
                 "genre": "Punk / Alternative / Indie",
-                "top songs": [
+                "top_songs": [
                     "Sin Is the Same Across the Sea",
                     "Last House on the Left",
                     "Is It You?"
@@ -246,11 +246,11 @@
         "latitude": "34.417371",
         "longitude": "-119.695827",
         "description": {
-            "event type": "Original Music/Artist Performances",
+            "event_type": "Original Music/Artist Performances",
             "band": {
                 "summary": "Jayden Secor is a musician whose sound is influenced by Dwight Yoakam, Muscadine Bloodline, and ZZ Top. He is known for infusing his music with elements of rock, country, and blues.",
                 "genre": "Country, Rock, Blues",
-                "top songs": [
+                "top_songs": [
                     "Honky Tonk Diamond",
                     "I'm Alright With That",
                     "She Ain't Fine",
@@ -352,11 +352,11 @@
         "latitude": "35.2776921",
         "longitude": "-120.663135",
         "description": {
-            "event type": "Original Music/Artist Performances",
+            "event_type": "Original Music/Artist Performances",
             "band": {
                 "summary": "The Framers are an indie rock band formed in Santa Barbara, California, in 2020. Their music combines elements of indie rock, garage rock, and riot grrrl, characterized by a punchy, nostalgic, and story-driven sound. The band members are Jesse Prior (vocals), Franky Sansone (rhythm guitar), Oliver Chavez (lead guitar), Allison Corwin (bass), and Jake Morenc (drums). They have released EPs and an album titled 'I'm Feeling Fine'.",
                 "genre": "Indie Rock, Garage Rock, Riot Grrrl, Punk, Alternative Rock",
-                "top songs": [
+                "top_songs": [
                     "Angel",
                     "wendy",
                     "wonder why",
@@ -389,11 +389,11 @@
         "latitude": "34.2736015",
         "longitude": "-119.2593536",
         "description": {
-            "event type": "Original Music/Artist Performances",
+            "event_type": "Original Music/Artist Performances",
             "band": {
                 "summary": "Joy Clark is a singer-songwriter and guitarist from New Orleans, Louisiana. Raised in a deeply religious family, she began her musical journey in church. Clark's music blends folk, blues, funk, soul, and gospel influences, often with themes of peace, love, freedom, and self-acceptance. She is also a proud, queer, Black woman whose experiences inform her songwriting. Clark has toured with notable artists such as Allison Russell, Brandi Carlile, and Cyril Neville.",
                 "genre": "Folk, Blues, Funk, Soul, Gospel, Americana, R&B",
-                "top songs": [
+                "top_songs": [
                     "Good Thing",
                     "Tell it to the Wind",
                     "Lesson",
@@ -421,11 +421,11 @@
         "latitude": "35.281867",
         "longitude": "-120.6605319",
         "description": {
-            "event type": "Original Music/Artist Performances",
+            "event_type": "Original Music/Artist Performances",
             "band": {
                 "summary": "HIRIE, fronted by singer-songwriter Trish Jetton, is a reggae-pop band known for their energetic live performances and fusion of reggae, pop, R&B, ska, and electronic influences. Born in the Philippines and raised across Italy and Hawaii, HIRIE's music often explores themes of self-love, healing, and empowerment with upbeat, danceable melodies. The band has released several Billboard-charting albums and performed at major festivals like Reggae Rise Up and Cali Roots.",
                 "genre": "Reggae, Pop, R&B, Ska, Electronic",
-                "top songs": [
+                "top_songs": [
                     "Diamond",
                     "Thief In The Night",
                     "Blacklist",
@@ -495,11 +495,11 @@
         "latitude": "34.416473",
         "longitude": "-119.695495",
         "description": {
-            "event type": "Original Music/Artist Performances",
+            "event_type": "Original Music/Artist Performances",
             "band": {
                 "summary": "Gemm is a four-piece rock band from Arizona, formed from a previous hardcore outfit. Their music, including their latest effort 'Spun Out,' addresses hard-hitting topics while maintaining a positive outlook. They describe their sound as alternative, post-grunge, and rock, aiming to evoke the feeling of 90s grunge music with a contemporary edge.",
                 "genre": "Rock, Alternative, Post-grunge",
-                "top songs": [
+                "top_songs": [
                     "Spun Out"
                 ]
             },
@@ -523,11 +523,11 @@
         "latitude": "34.423621",
         "longitude": "-119.70549199999999",
         "description": {
-            "event type": "Original Music/Artist Performances",
+            "event_type": "Original Music/Artist Performances",
             "band": {
                 "summary": "Couch Dog is an indie rock band formed in San Luis Obispo, California, in 2019. Their music is characterized by a blend of surf rock, with influences from bands like The Frights and Mom Jeans, and lyrical styles reminiscent of Peach Pit and The Lumineers. The band describes their sound as \"music to kiss to, music to cry to, music to mosh to,\" often featuring upbeat, friendly-sounding music paired with heavier or sadder lyrics, creating a juxtaposition that adds layers to their songs. The members are Max Ferrer (vocals, guitar), Tasha Lee (bass), Pablo Acosta (lead guitar), and Josh Cheruvelil (drums).",
                 "genre": "Indie Rock, Alternative Rock, Surf Rock",
-                "top songs": [
+                "top_songs": [
                     "Punch Drunk",
                     "Dial Tone",
                     "SBJL",
@@ -560,11 +560,11 @@
         "latitude": "35.2578997",
         "longitude": "-120.6428572",
         "description": {
-            "event type": "Original Music/Artist Performances",
+            "event_type": "Original Music/Artist Performances",
             "band": {
                 "summary": "Carry the 9 is a four-piece melodic skate punk band formed in late 2018 from the Central Coast of California. The band members reconnected after more than 20 years and decided to write music together, drawing on their shared influences from 90s punk rock. They aim to keep the style of punk rock they grew up on alive and well. Their music is available on major streaming platforms like Spotify, Apple Music, and Amazon.",
                 "genre": "Punk, Skate Punk, Pop Punk",
-                "top songs": [
+                "top_songs": [
                     "4th and Forever",
                     "Roots - EP Remix",
                     "Backfire Effect",
@@ -598,7 +598,7 @@
             "band": {
                 "summary": "Los Amigos is a London-based Spanish and Latin party band known for performing music by artists like the Gipsy Kings, Buenavista Social Club, and Santana. They offer a repertoire of Spanish rumba, Cuban son, and danceable Latin hits, as well as English covers with a Latin flavor. The band can perform as a duo up to a five-piece ensemble and is available for various events such as weddings, parties, and corporate functions.",
                 "genre": "Latin, R&B / Soul, World / Traditional / Ethnic, Pop",
-                "top songs": [
+                "top_songs": [
                     "A Mi Manera",
                     "Bailame",
                     "Bamboleo",
@@ -626,11 +626,11 @@
         "latitude": "34.42167399999999",
         "longitude": "-119.70002799999997",
         "description": {
-            "event type": "Tribute/Cover Bands",
+            "event_type": "Tribute/Cover Bands",
             "band": {
                 "summary": "Fleetwood Mask is a tribute band that aims to authentically recreate the Fleetwood Mac concert experience. They perform music spanning from the mid-1970s to Fleetwood Mac's later releases, including Stevie Nicks' solo hits. The band is known for its attention to detail in replicating visual realism, musicianship, stage performance, and sound quality, using period-accurate equipment and stage wear.",
                 "genre": "Rock, Pop",
-                "top songs": [
+                "top_songs": [
                     "Dreams",
                     "The Chain",
                     "Go Your Own Way",
@@ -662,11 +662,11 @@
         "latitude": "35.596337",
         "longitude": "-120.693951",
         "description": {
-            "event type": "Original Music/Artist Performances",
+            "event_type": "Original Music/Artist Performances",
             "band": {
                 "summary": "Mike Pinto is a singer-songwriter and guitarist known for blending reggae, ska, and dub styles with a smooth acoustic sound. Originally from the outskirts of Philadelphia, he has been a prominent figure in the Southern California music scene for over a decade. His music often tells stories, drawing from his East Coast roots and California lifestyle. Pinto's albums have charted on iTunes and Billboard, and he has toured nationally with various bands.",
                 "genre": "Reggae / Ska / Dancehall, Punk / Alternative / Indie, Folk",
-                "top songs": [
+                "top_songs": [
                     "Backburner",
                     "Bad Luck",
                     "Tricky Nicky",
@@ -695,11 +695,11 @@
         "latitude": "34.1930971",
         "longitude": "-119.1881204",
         "description": {
-            "event type": "Original Music/Artist Performances",
+            "event_type": "Original Music/Artist Performances",
             "band": {
                 "summary": "Da'mario Donshay Horne-McCullough (born May 11, 1994), known professionally as Rio da Yung OG, is an American rapper from Flint, Michigan. He is known for his raw, direct, and provocative style, often described as 'blunt rap,' and is a prominent figure in the Flint and Detroit rap scenes. He has released several projects, including mixtapes with RMC Mike and albums like 'City on My Back.' His career has included periods of incarceration but he has continued to release music. He is signed to Ghetto Boyz Entertainment.",
                 "genre": "Hip-Hop / Rap",
-                "top songs": [
+                "top_songs": [
                     "Movie",
                     "Legendary",
                     "Too Legendary",
@@ -732,11 +732,11 @@
         "latitude": "34.2745925",
         "longitude": "-119.2730736",
         "description": {
-            "event type": "Original Music/Artist Performances",
+            "event_type": "Original Music/Artist Performances",
             "band": {
                 "summary": "Slaughterhouse was an American hip-hop supergroup formed in late 2008, consisting of rappers Joe Budden, Joell Ortiz, Kxng Crooked, and Royce da 5'9\". They released their self-titled debut album in 2009 and later signed with Shady Records for their 2012 album, \"Welcome to: Our House.\" The group disbanded in 2018..",
                 "genre": "Hip-Hop / Rap",
-                "top songs": [
+                "top_songs": [
                     "My Life",
                     "Throw That",
                     "Move On"
@@ -762,11 +762,11 @@
         "latitude": "35.279185",
         "longitude": "-120.663549",
         "description": {
-            "event type": "Tribute/Cover Bands",
+            "event_type": "Tribute/Cover Bands",
             "band": {
                 "summary": "Steely Dead is a Denver-based band that performs a fusion of music by Steely Dan and the Grateful Dead. Formed in January 2019, the band combines the studio precision and arrangements of Steely Dan with the improvisational and free-flowing nature of the Grateful Dead. The band's repertoire includes songs from both artists, often with unique segues and mashups. Members have ties to other notable bands in the jam and Grateful Dead scenes. They tour nationally and are known for their electrifying performances.",
                 "genre": "Rock, Jazz Rock, Jam Band",
-                "top songs": [
+                "top_songs": [
                     "Kid Charlemagne",
                     "Dirty Work",
                     "Bodhisattva",
@@ -816,11 +816,11 @@
         "latitude": "34.423621",
         "longitude": "-119.70549199999999",
         "description": {
-            "event type": "Original Music/Artist Performances",
+            "event_type": "Original Music/Artist Performances",
             "band": {
                 "summary": "Alastair Greene is an American blues-rock singer, guitarist, and songwriter born in Santa Barbara, California. He has released nine albums and has performed with notable artists such as Eric Burdon, Walter Trout, and Alan Parsons. His music is described as blues-rock, often with a 70s hard rock influence. He is a multi-charting Top 10 Billboard artist and has been leading his blues-rock trio for over 25 years.",
                 "genre": "Blues, Rock",
-                "top songs": [
+                "top_songs": [
                     "The New World Blues",
                     "Bayou Mile",
                     "Back at the Poor House",
@@ -897,11 +897,11 @@
         "latitude": "35.36703819999999",
         "longitude": "-120.84976619999998",
         "description": {
-            "event type": "Original Music/Artist Performances",
+            "event_type": "Original Music/Artist Performances",
             "band": {
                 "summary": "S\u014dleffect is a dynamic band from California's Central Coast, known for their fusion of rock, funk, blues, reggae, and jazz. Featuring two female vocalists, Bethany and Laura, they create a unique sound with their harmonies. The band utilizes guitar, bass, trumpet, keys, and drums to deliver both covers and original music, often with uplifting messages. They perform at various venues including wineries, bars, festivals, and private events.",
                 "genre": "Rock, Funk, Blues, Reggae, Jazz",
-                "top songs": [
+                "top_songs": [
                     "Write My Story",
                     "Be the Change",
                     "What If",
@@ -930,11 +930,11 @@
         "latitude": "34.4162718",
         "longitude": "-119.84528669999997",
         "description": {
-            "event type": "Original Music/Artist Performances",
+            "event_type": "Original Music/Artist Performances",
             "band": {
                 "summary": "Noam Pikelny is an American banjoist known for his virtuosic playing and for being a founding member of the progressive bluegrass band Punch Brothers. He has also been a member of Leftover Salmon and the John Cowan Band and has released several solo albums. Pikelny is a multi-Grammy nominee and won a Grammy for Best Folk Album with Punch Brothers. He is also a recipient of the Steve Martin Prize for Excellence in Banjo and Bluegrass.",
                 "genre": "Progressive bluegrass, Bluegrass, Folk",
-                "top songs": [
+                "top_songs": [
                     "Road to Columbus",
                     "Brown County Breakdown",
                     "Lonesome Moonlight Waltz",
@@ -972,11 +972,11 @@
         "latitude": "34.1930971",
         "longitude": "-119.1881204",
         "description": {
-            "event type": "Original Music/Artist Performances",
+            "event_type": "Original Music/Artist Performances",
             "band": {
                 "summary": "Steve Goddard is a singer-songwriter, guitarist, and violinist based in Los Angeles and New England. He is known for his songwriting, which often features memorable melodies and thought-provoking lyrics about life and love. Goddard has been involved with LA's Tribe, a group of musicians who perform charity concerts. The Steve Goddard Band has performed with notable artists like Don Felder and has released an EP titled 'Can't Get Out of My Own Way'.",
                 "genre": "Rock, Pop",
-                "top songs": [
+                "top_songs": [
                     "Can't Get Out of My Own Way",
                     "I Wish You Love",
                     "Can't Find My Way Home",
@@ -1040,11 +1040,11 @@
         "latitude": "35.293565",
         "longitude": "-120.67211",
         "description": {
-            "event type": "Original Music/Artist Performances",
+            "event_type": "Original Music/Artist Performances",
             "band": {
                 "summary": "Lewd Jaw is a punk rock band from Sacramento, California, formed in 2020. They have released several singles and EPs, including 'Ritual' and 'Lewd Jaw'. Their music is influenced by punk rock and they have covered songs by bands like Nirvana and Black Sabbath.",
                 "genre": "Punk / Alternative / Indie, Rock, Metal",
-                "top songs": [
+                "top_songs": [
                     "Like A Libertine",
                     "Burning the Chain",
                     "Red Stage",
@@ -1072,11 +1072,11 @@
         "latitude": "34.1930971",
         "longitude": "-119.1881204",
         "description": {
-            "event type": "Original Music/Artist Performances",
+            "event_type": "Original Music/Artist Performances",
             "band": {
                 "summary": "John Waite is an English rock singer and musician, born on July 4, 1952. He is known for his solo career and as the lead vocalist for the rock bands The Babys and Bad English. Waite achieved significant commercial success, with his 1984 hit single \"Missing You\" reaching number 1 on the US Billboard Hot 100. He has released ten studio albums as a solo artist and has been a fixture on album-oriented rock radio.",
                 "genre": "Rock, Pop, Hard rock, Power pop, Country",
-                "top songs": [
+                "top_songs": [
                     "Missing You",
                     "Tears",
                     "Change",
@@ -1104,11 +1104,11 @@
         "latitude": "34.2736015",
         "longitude": "-119.2593536",
         "description": {
-            "event type": "Original Music/Artist Performances",
+            "event_type": "Original Music/Artist Performances",
             "band": {
                 "summary": "Brian Charette is a New York City-based organist and pianist known for his unique approach to the Hammond organ trio. He is a regular in Downbeat Magazine's Critic's Poll and has been described as \"the last word on what it truly means to play jazz organ.\" He is also a prolific composer for large ensembles.",
                 "genre": "Jazz, Funk, R&B / Soul",
-                "top songs": "N/A"
+                "top_songs": "N/A"
             },
             "google_search_link": "https://www.google.com/search?q=Brian+Charette+B3+Funk+Party+with+Danny+Carey+summary+genre+top+songs"
         }
@@ -1130,11 +1130,11 @@
         "latitude": "34.2745925",
         "longitude": "-119.2730736",
         "description": {
-            "event type": "Original Music/Artist Performances",
+            "event_type": "Original Music/Artist Performances",
             "band": {
                 "summary": "Mallrat (Grace Kathleen Elizabeth Shaw) is an Australian musician, singer, and rapper from Brisbane. Her music blends genres of electronica, hip-hop, and indie pop, characterized by her distinctive sound, captivating beats, and often introspective lyrics. She gained initial recognition with her EPs, including \"Uninvited\" (2016), \"In the Sky\" (2018), and \"Driving Music\" (2019), before releasing her debut studio album, \"Butterfly Blue\" (2022).",
                 "genre": "Electronic, Hip-Hop / Rap, Indie Pop, Pop",
-                "top songs": [
+                "top_songs": [
                     "Groceries",
                     "Charlie",
                     "Wish on an Eyelash, Pt. 2",
@@ -1167,11 +1167,11 @@
         "latitude": "34.4181573",
         "longitude": "-119.6944892",
         "description": {
-            "event type": "DJ Sets/Electronic Music",
+            "event_type": "DJ Sets/Electronic Music",
             "band": {
                 "summary": "Techno Takeover appears to be a recurring event or a collective focused on electronic dance music, particularly techno. Information suggests it's associated with the underground techno scene, emphasizing energy, drive, and innovative soundscapes. While not a traditional band with a singular history, it represents a movement within the electronic music culture.",
                 "genre": "Electronic / Dance, Techno",
-                "top songs": "N/A"
+                "top_songs": "N/A"
             },
             "google_search_link": "https://www.google.com/search?q=Techno+Takeover+band+summary+genre+top+songs"
         }
@@ -1193,11 +1193,11 @@
         "latitude": "34.240229",
         "longitude": "-119.176274",
         "description": {
-            "event type": "DJ Sets/Electronic Music",
+            "event_type": "DJ Sets/Electronic Music",
             "band": {
                 "summary": "DJ Slic Vic, also known as Slic Vic, is a DJ and producer associated with the Jam Pony Express crew, which originated in Fort Lauderdale, Florida, in 1981. Their style of performance involved \"regulating\" on the microphone, by lowering the music and talking over the lyrics to create a new song. DJ Slic Vic has released various mixes and compilations, with genres including Funk, Hip-Hop & Soul, Turntablism, and Witchstep.",
                 "genre": "Funk, Hip-Hop / Rap, Electronic / Dance, Turntablism, Witchstep",
-                "top songs": [
+                "top_songs": [
                     "Do It for Daddy",
                     "Twerk That Booty (feat. DJ Ice)",
                     "Jam Pony Revamped (feat. Dj Slic Vic) [Radio Edit]"
@@ -1223,11 +1223,11 @@
         "latitude": "35.5732449",
         "longitude": "-120.7350846",
         "description": {
-            "event type": "Original Music/Artist Performances",
+            "event_type": "Original Music/Artist Performances",
             "band": {
                 "summary": "Talie Copen is a musician based in California's Central Coast, known for her versatile vocal performances. She performs in various configurations, including solo, duo (with James or Sarah), and with full bands like Talie's Trailer Park Revival and Talie & The Troublemakers. Her music spans genres such as folk Americana, country, 80s and 90s rock, blues, and original compositions. She is also recognized for her storytelling abilities in her songwriting.",
                 "genre": "Folk, Americana, Country, Rock, Blues",
-                "top songs": "N/A"
+                "top_songs": "N/A"
             },
             "google_search_link": "https://www.google.com/search?q=Talie+Copen+genre+music+style+summary+top+songs"
         }
@@ -1249,11 +1249,11 @@
         "latitude": "34.42167399999999",
         "longitude": "-119.70002799999997",
         "description": {
-            "event type": "Comedy/Spoken Word/Other Performances",
+            "event_type": "Comedy/Spoken Word/Other Performances",
             "band": {
                 "summary": "John Waters is a filmmaker, writer, and artist known for his provocative and transgressive cult films such as 'Pink Flamingos,' 'Female Trouble,' and 'Hairspray.' He is often referred to as 'The Pope of Trash' and is celebrated for his unique blend of humor, social commentary, and exploration of 'good bad taste.' His one-man shows, like 'The Naked Truth,' continue this tradition, offering candid storytelling and irreverent anecdotes.",
                 "genre": "Spoken Word",
-                "top songs": [
+                "top_songs": [
                     "It's a Punk Rock Christmas",
                     "Jingle Bells",
                     "Proud New Father",
@@ -1343,11 +1343,11 @@
         "latitude": "35.24168",
         "longitude": "-120.64115900000002",
         "description": {
-            "event type": "Original Music/Artist Performances",
+            "event_type": "Original Music/Artist Performances",
             "band": {
                 "summary": "Ty Segall is an American multi-instrumentalist, singer-songwriter, and record producer known for his prolific solo career and involvement in various bands like Fuzz and G\u00d8GGS. His music spans genres including garage rock revival, psychedelic rock, indie rock, punk rock, and heavy metal. He is recognized for his energetic live performances and a prolific output of albums, often experimenting with different sounds and styles across his releases.",
                 "genre": "Garage rock revival, psychedelic rock, indie rock, punk rock, heavy metal, noise rock, blues, folk",
-                "top songs": [
+                "top_songs": [
                     "My Sunshine",
                     "Tell Me What's Inside Your Heart",
                     "Orange Color Queen",
@@ -1375,11 +1375,11 @@
         "latitude": "34.2745925",
         "longitude": "-119.2730736",
         "description": {
-            "event type": "Tribute/Cover Bands",
+            "event_type": "Tribute/Cover Bands",
             "band": {
                 "summary": "Steely Dead is a Denver-based touring band that performs a fusion of music by Steely Dan and the Grateful Dead. They blend Steely Dan's precise studio arrangements and jazz-rock elements with the Grateful Dead's improvisational style and free-flowing jams. The band often incorporates original jam elements and unique segues between songs from both artists, sometimes even creating mashups or altering vocal harmonies. They aim to capture the essence of both bands while offering a distinct musical experience.",
                 "genre": "Rock, Jazz-Rock, Psychedelic Rock",
-                "top songs": [
+                "top_songs": [
                     "Kid Charlemagne",
                     "Dirty Work",
                     "Bodhisattva",
