@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     <p class="date">${formatConcertDateTime(concert.date_of_show, concert.time_of_show)}</p>
                     <details>
                         <summary>Read More (+)</summary>
-                        <p class="description">${concert.description}</p>
+                        <p class="description">${concert.description.band.summary}</p>
                     </details>
                 `;
                 concertList.appendChild(concertItem);
