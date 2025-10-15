@@ -1,0 +1,22 @@
+{
+  "Classical": "Western art music spanning Baroque, Romantic, and modern eras.",
+  "Jazz": "Improvisational music rooted in blues and swing; includes bebop, fusion, and smooth jazz.",
+  "Blues": "Expressive music rooted in African American traditions; includes Delta, Chicago, and electric blues.",
+  "Rock": "Guitar-driven music evolving from blues and pop; spans classic rock, punk, grunge, and indie.",
+  "Pop": "Mainstream melodic music emphasizing accessibility, melody, and production quality.",
+  "Hip-Hop / Rap": "Lyric- and rhythm-based genre with roots in urban storytelling; includes old-school, trap, and drill.",
+  "R&B / Soul": "Smooth, vocal-driven music evolving from gospel and blues; focuses on emotion and groove.",
+  "Electronic / Dance": "Electronic sound production; includes techno, house, trance, drum & bass, and ambient styles.",
+  "Folk": "Traditional and contemporary storytelling music rooted in community or cultural identity.",
+  "Country": "American roots music emphasizing personal storytelling and regional identity.",
+  "Reggae / Ska / Dancehall": "Caribbean rhythm-focused music with social and spiritual themes.",
+  "Latin / Afro-Latin": "Includes salsa, bachata, reggaetón, bossa nova, and tango—rhythmic and dance-oriented.",
+  "Afrobeat / Highlife / African Traditional": "Modern and traditional African styles blending rhythm, melody, and community energy.",
+  "Metal": "Heavy offshoot of rock emphasizing power, speed, and dark or epic themes.",
+  "Punk / Alternative / Indie": "Independent, anti-mainstream expressions branching from rock and pop.",
+  "Funk / Disco": "Rhythm- and bass-driven music built for dance and movement.",
+  "Gospel / Christian / Spiritual": "Religious or spiritual music celebrating faith through vocal harmony and emotion.",
+  "World / Traditional / Ethnic": "Indigenous and folk music from all regions, often tied to ceremony or cultural heritage.",
+  "Experimental / Avant-Garde": "Music that explores new sonic, structural, or conceptual territories.",
+  "Soundtrack / Score / Stage": "Composed for film, theater, or games; focuses on enhancing narrative emotion."
+}
