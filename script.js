@@ -14,14 +14,48 @@ document.addEventListener('DOMContentLoaded', function() {
         return date.toLocaleString('en-US', options);
     }
 
+    // Fetch list of genres and cache as a variable
+    const genres = [];
+    fetch('list_of_genres.json')
+        .then(response => response.json())
+        .then(data => {
+            genres.push(...data);
+        })
+        .catch(error => console.error('Error fetching genres:', error));
+
+    // Fetch list of event categories and cache as a variable
+    const eventCategories = [];
+    fetch('list_of_event_categories.json')
+        .then(response => response.json())
+        .then(data => {
+            eventCategories.push(...data);
+        })
+        .catch(error => console.error('Error fetching event categories:', error));
+
+    function getGenreNameById(id) {
+        const genre = genres.find(g => g.id === id);
+        return genre ? genre.name : 'Unknown Genre';
+    }
+
+    function getEventCategoryNameById(id) {
+        // loop through eventCategories to find matching id
+        for (let i = 0; i < eventCategories.length; i++) {
+            console.log(`comparing ${eventCategories[i].id} to ${id}`);
+            if (eventCategories[i].id === id) {
+                return eventCategories[i].name;
+            }
+        }
+        return 'Unknown Categoryyyyy';
+    }
+
     function renderConcertItem(concertItem) {
         // console.log(concertItem);
         const concertItemDiv = document.createElement('div');
         concertItemDiv.classList.add('concert-item');
         concertItemDiv.innerHTML = `
             <span class="city">${concertItem.city}</span>
-            <span class="event-type">${concertItem.description.event_type}</span>
-            <h3>${concertItem.event_name}</h3>
+            <span class="event-type">${getEventCategoryNameById(concertItem.description.event_type)}</span>
+            <h3>${concertItem.band}</h3>
             <p class="venue">${concertItem.venue_name}</p>
             <p class="date">${formatConcertDateTime(concertItem.date_of_show, concertItem.time_of_show)}</p>
             <details>
@@ -32,8 +66,10 @@ document.addEventListener('DOMContentLoaded', function() {
         const detailsElement = concertItemDiv.querySelector('details');
         const summaryElement = concertItemDiv.querySelector('summary');
         const cityElement = concertItemDiv.querySelector('.city');
-        // apply css class to city badge regardless
+        const eventTypeElement = concertItemDiv.querySelector('.event-type');
+        // apply css class to badges
         cityElement.classList.add('city-badge');
+        eventTypeElement.classList.add(`event-type-badge`);
 
         detailsElement.addEventListener('toggle', () => {
             if (detailsElement.open) {
