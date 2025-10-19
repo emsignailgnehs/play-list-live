@@ -1,7 +1,37 @@
-{
-  "Tribute/Cover Bands": "Events featuring bands that perform as tributes to other famous artists or focus on playing their music.",
-  "Original Music/Artist Performances": "Concerts and shows where bands and artists perform their own original material.",
-  "DJ Sets/Electronic Music": "Events focused on disc jockeys (DJs) and electronic music performances.",
-  "Comedy/Spoken Word/Other Performances": "Events that fall outside typical music concerts, such as comedy shows, spoken word performances, or unique artistic presentations.",
-  "Recurring Local Events (Non-Band Specific)": "Regularly scheduled local events named after an activity rather than a specific musical act, though music might be part of the event."
-}
+[
+  {
+    "id": "tribute",
+    "name": "Tribute / Cover Bands",
+    "aliases": ["tribute bands", "cover bands"],
+    "keywords": ["tribute", "cover", "impersonation", "classic hits"],
+    "description": "Events featuring bands that perform as tributes to other famous artists or focus on playing their music."
+  },
+  {
+    "id": "original",
+    "name": "Original Music / Artist Performances",
+    "aliases": ["original music", "artist showcase"],
+    "keywords": ["original", "songwriter", "performance", "live music"],
+    "description": "Concerts and shows where bands and artists perform their own original material."
+  },
+  {
+    "id": "dj",
+    "name": "DJ Sets / Electronic Music",
+    "aliases": ["dj set", "edm", "electronic"],
+    "keywords": ["dance", "beats", "remix", "club"],
+    "description": "Events focused on disc jockeys (DJs) and electronic music performances."
+  },
+  {
+    "id": "comedy",
+    "name": "Comedy / Spoken Word / Other Performances",
+    "aliases": ["stand-up", "spoken word", "variety show"],
+    "keywords": ["comedy", "spoken", "performance", "art"],
+    "description": "Events that fall outside typical music concerts, such as comedy shows, spoken word performances, or unique artistic presentations."
+  },
+  {
+    "id": "local",
+    "name": "Recurring Local Events (Non-Band Specific)",
+    "aliases": ["local event", "weekly event", "community event"],
+    "keywords": ["recurring", "community", "local", "gathering"],
+    "description": "Regularly scheduled local events named after an activity rather than a specific musical act, though music might be part of the event."
+  }
+]
