@@ -40,12 +40,11 @@ document.addEventListener('DOMContentLoaded', function() {
     function getEventCategoryNameById(id) {
         // loop through eventCategories to find matching id
         for (let i = 0; i < eventCategories.length; i++) {
-            console.log(`comparing ${eventCategories[i].id} to ${id}`);
             if (eventCategories[i].id === id) {
                 return eventCategories[i].name;
             }
         }
-        return 'Unknown Categoryyyyy';
+        return 'Unknown Category';
     }
 
     function renderConcertItem(concertItem) {
@@ -53,14 +52,18 @@ document.addEventListener('DOMContentLoaded', function() {
         const concertItemDiv = document.createElement('div');
         concertItemDiv.classList.add('concert-item');
         concertItemDiv.innerHTML = `
-            <span class="city">${concertItem.city}</span>
             <span class="event-type">${getEventCategoryNameById(concertItem.description.event_type)}</span>
+            <br/>
+            <span class="city">${concertItem.city}</span>
             <h3>${concertItem.band}</h3>
             <p class="venue">${concertItem.venue_name}</p>
             <p class="date">${formatConcertDateTime(concertItem.date_of_show, concertItem.time_of_show)}</p>
+            <div class="genre-badges-container">
+                ${concertItem.description && concertItem.description.band && concertItem.description.band.genre ? concertItem.description.band.genre.map(genreId => `<span class="genre-badge">${getGenreNameById(genreId)}</span>`).join('') : ''}
+            </div>
             <details>
                 <summary>Read More (+)</summary>
-                <p class="description">${concertItem.description.band.summary}</p>
+                <p class="description">${concertItem.description && concertItem.description.band && concertItem.description.band.summary ? concertItem.description.band.summary : ''}</p>
             </details>
         `;
         const detailsElement = concertItemDiv.querySelector('details');
