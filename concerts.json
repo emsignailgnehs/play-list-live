@@ -495,7 +495,7 @@
         "description": {
             "event_type": "comedy",
             "band": {
-                "summary": "Miyo is a comedic storyteller based in Los Angeles with a solo show that blends humor with heart. :contentReference[oaicite:0]{index=0}",
+                "summary": "Miyo is a comedic storyteller based in Los Angeles with a solo show that blends humor with heart.",
                 "genre": [],
                 "top_songs": []
             },
@@ -1013,7 +1013,7 @@
         "latitude": "34.2406983",
         "longitude": "-119.1767442",
         "description": {
-            "event_type": "other",
+            "event_type": "comedy",
             "band": {
                 "summary": "Corey B is a comedian, radio personality, and content creator known for his work in radio for over ten years, with a significant following on TikTok and Facebook. He has also ventured into releasing his own BBQ sauce and has equity in a New York restaurant and cookie company.",
                 "genre": [],
