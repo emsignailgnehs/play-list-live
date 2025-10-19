@@ -43,7 +43,7 @@
         "latitude": "34.421566",
         "longitude": "-119.6999893",
         "description": {
-            "event_type": "other",
+            "event_type": "comedy",
             "band": {
                 "summary": "John Waters is an American filmmaker, writer, and artist known for his transgressive cult films, often exploring themes of unconventional sexuality and social anarchism with a darkly satirical take on American culture. He is also known for his campy aesthetic, subversive humor, and performances as a stand-up comedian.",
                 "genre": [],
@@ -485,62 +485,44 @@
         "city": "Ojai",
         "time_of_show": "18:00:00",
         "venue_name": "Ojai Art Center",
-        "event_name": "Miyo @ Ojai Art Center",
-        "ticket_price": "",
+        "event_name": "Miyo @ Ojai Art Center (Story Slam)",
+        "ticket_price": "30",
         "street_address": "113 S Montgomery St",
         "region": "CA",
         "country": "United States",
         "latitude": "34.4471147",
         "longitude": "-119.2436535",
         "description": {
-            "event_type": "other",
+            "event_type": "comedy",
             "band": {
-                "summary": "Miyo is a Polish alternative hip hop artist known for emotive lyrics that touch on themes of personal growth and overcoming obstacles. Their music combines conventional hip hop beats with unconventional elements, often featuring intricate rhythms and insightful lyrics.",
-                "genre": [
-                    "hiphop",
-                    "punk",
-                    "folk"
-                ],
-                "top_songs": [
-                    "Bedzie Lepiej",
-                    "Jungla",
-                    "Choker",
-                    "Caly Swiat",
-                    "Sniadanie w Massachusetts"
-                ]
+                "summary": "Miyo is a comedic storyteller based in Los Angeles with a solo show that blends humor with heart. :contentReference[oaicite:0]{index=0}",
+                "genre": [],
+                "top_songs": []
             },
-            "google_search_link": "https://www.google.com/search?q=Miyo+band+summary+genre+top+songs"
+            "google_search_link": "https://www.google.com/search?q=Miyo+storyteller+Ojai"
         }
     },
     {
         "date_of_show": "2025-10-23",
         "band": "Champagne Sunday",
+        "event_name": "Champagne Sunday @ Margarita Villa",
         "city": "Ventura",
         "time_of_show": "18:00:00",
         "venue_name": "Margarita Villa",
-        "event_name": "Champagne Sunday @ Margarita Villa",
-        "ticket_price": "",
         "street_address": "1567 Spinnaker Dr #200",
         "region": "CA",
         "country": "United States",
         "latitude": "34.2408095",
         "longitude": "-119.2646476",
+        "ticket_price": "",
         "description": {
-            "event_type": "original",
+            "event_type": "local",
             "band": {
-                "summary": "Champagne Sunday is a \"glam folk\" duo formed in Ventura, CA in 2005 by Jessi and Jared Fredeen. They later relocated to Tacoma, WA. Their music blends influences from folk, rock, R&B, soul, funk, country, and punk, often with a message of positivity. They have released ten albums and have been described as \"Pearl Jam meets Bette Midler.\"",
-                "genre": [
-                    "folk",
-                    "rock",
-                    "country"
-                ],
-                "top_songs": [
-                    "The Elephant",
-                    "Dressed Up",
-                    "10 Best Dressed"
-                ]
+                "summary": "Champagne Sunday is a recurring Sunday live-music/entertainment event at Margarita Villa in Ventura Harbor.",
+                "genre": [],
+                "top_songs": []
             },
-            "google_search_link": "https://www.google.com/search?q=Champagne+Sunday+band+summary"
+            "google_search_link": "https://www.google.com/search?q=Champagne+Sunday+Margarita+Villa+Ventura"
         }
     },
     {
@@ -611,37 +593,6 @@
                 ]
             },
             "google_search_link": "https://www.google.com/search?q=Lila+Downs+genre+summary+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-23",
-        "band": "THE LONG RUN - Experience The Eagles",
-        "city": "Arroyo Grande",
-        "time_of_show": "19:30:00",
-        "venue_name": "Clark Center For the Performing Arts",
-        "event_name": "THE LONG RUN - Experience The Eagles @ Clark Center For the Performing Arts",
-        "ticket_price": "",
-        "street_address": "487 Fair Oaks Ave",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "35.1163368",
-        "longitude": "-120.5818862",
-        "description": {
-            "event_type": "tribute",
-            "band": {
-                "summary": "THE LONG RUN is a tribute band that performs the music of the Eagles. The original Eagles were an American rock band formed in Los Angeles in 1971, known for their blend of rock, country, and folk music. Their career spanned decades, marked by numerous hit songs and significant lineup changes, including the departure of founding member Randy Meisner and the addition of Timothy B. Schmit and Joe Walsh.",
-                "genre": [
-                    "rock",
-                    "country"
-                ],
-                "top_songs": [
-                    "Heartache Tonight",
-                    "The Long Run",
-                    "I Can't Tell You Why",
-                    "Hotel California"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=THE+LONG+RUN+-+Experience+The+Eagles+band+summary+genre+top+songs"
         }
     },
     {
