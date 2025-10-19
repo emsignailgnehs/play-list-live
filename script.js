@@ -3,15 +3,85 @@ document.addEventListener('DOMContentLoaded', function() {
     function formatConcertDateTime(dateString, timeString) {
         const date = new Date(`${dateString}T${timeString}`);
         const options = {
-            weekday: 'long',
+            weekday: 'short',
             year: 'numeric',
-            month: 'long',
+            month: 'short',
             day: 'numeric',
             hour: 'numeric',
             minute: 'numeric',
             hour12: true
         };
         return date.toLocaleString('en-US', options);
+    }
+
+    // Fetch list of genres and cache as a variable
+    const genres = [];
+    fetch('list_of_genres.json')
+        .then(response => response.json())
+        .then(data => {
+            genres.push(...data);
+        })
+        .catch(error => console.error('Error fetching genres:', error));
+
+    // Fetch list of event categories and cache as a variable
+    const eventCategories = [];
+    fetch('list_of_event_categories.json')
+        .then(response => response.json())
+        .then(data => {
+            eventCategories.push(...data);
+        })
+        .catch(error => console.error('Error fetching event categories:', error));
+
+    function getGenreNameById(id) {
+        const genre = genres.find(g => g.id === id);
+        return genre ? genre.name : 'Unknown Genre';
+    }
+
+    function getEventCategoryNameById(id) {
+        // loop through eventCategories to find matching id
+        for (let i = 0; i < eventCategories.length; i++) {
+            if (eventCategories[i].id === id) {
+                return eventCategories[i].name;
+            }
+        }
+        return 'Unknown Category';
+    }
+
+    function renderConcertItem(concertItem) {
+        // console.log(concertItem);
+        const concertItemDiv = document.createElement('div');
+        concertItemDiv.classList.add('concert-item');
+        concertItemDiv.innerHTML = `
+            <span class="event-type">${getEventCategoryNameById(concertItem.description.event_type)}</span>
+            <br/>
+            <span class="city">${concertItem.city}</span>
+            <h3>${concertItem.band}</h3>
+            <p class="venue">${concertItem.venue_name}</p>
+            <p class="date">${formatConcertDateTime(concertItem.date_of_show, concertItem.time_of_show)}</p>
+            <div class="genre-badges-container">
+                ${concertItem.description && concertItem.description.band && concertItem.description.band.genre ? concertItem.description.band.genre.map(genreId => `<span class="genre-badge">${getGenreNameById(genreId)}</span>`).join('') : ''}
+            </div>
+            <details>
+                <summary>Read More (+)</summary>
+                <p class="description">${concertItem.description && concertItem.description.band && concertItem.description.band.summary ? concertItem.description.band.summary : ''}</p>
+            </details>
+        `;
+        const detailsElement = concertItemDiv.querySelector('details');
+        const summaryElement = concertItemDiv.querySelector('summary');
+        const cityElement = concertItemDiv.querySelector('.city');
+        const eventTypeElement = concertItemDiv.querySelector('.event-type');
+        // apply css class to badges
+        cityElement.classList.add('city-badge');
+        eventTypeElement.classList.add(`event-type-badge`);
+
+        detailsElement.addEventListener('toggle', () => {
+            if (detailsElement.open) {
+                summaryElement.textContent = 'Hide (-)';
+            } else {
+                summaryElement.textContent = 'Read More (+)';
+            }
+        });
+        return concertItemDiv;
     }
 
     // Fetch and render concerts
@@ -21,29 +91,8 @@ document.addEventListener('DOMContentLoaded', function() {
             const concertList = document.querySelector('.concert-list');
             concertList.innerHTML = ''; // Clear existing content
             concerts.forEach(concert => {
-                const concertItem = document.createElement('div');
-                concertItem.classList.add('concert-item');
-                concertItem.innerHTML = `
-                    <h3>${concert.event_name}</h3>
-                    <p class="venue">${concert.venue_name} - ${concert.city}</p>
-                    <p class="date">${formatConcertDateTime(concert.date_of_show, concert.time_of_show)}</p>
-                    <details>
-                        <summary>Read More (+)</summary>
-                        <p class="description">${concert.description.band.summary}</p>
-                    </details>
-                `;
+                const concertItem = renderConcertItem(concert);
                 concertList.appendChild(concertItem);
-
-                const detailsElement = concertItem.querySelector('details');
-                const summaryElement = concertItem.querySelector('summary');
-
-                detailsElement.addEventListener('toggle', () => {
-                    if (detailsElement.open) {
-                        summaryElement.textContent = 'Hide (-)';
-                    } else {
-                        summaryElement.textContent = 'Read More (+)';
-                    }
-                });
             });
         })
         .catch(error => console.error('Error fetching concerts:', error));

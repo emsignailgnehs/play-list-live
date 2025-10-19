@@ -1,22 +1,142 @@
-{
-  "Classical": "Western art music spanning Baroque, Romantic, and modern eras.",
-  "Jazz": "Improvisational music rooted in blues and swing; includes bebop, fusion, and smooth jazz.",
-  "Blues": "Expressive music rooted in African American traditions; includes Delta, Chicago, and electric blues.",
-  "Rock": "Guitar-driven music evolving from blues and pop; spans classic rock, punk, grunge, and indie.",
-  "Pop": "Mainstream melodic music emphasizing accessibility, melody, and production quality.",
-  "Hip-Hop / Rap": "Lyric- and rhythm-based genre with roots in urban storytelling; includes old-school, trap, and drill.",
-  "R&B / Soul": "Smooth, vocal-driven music evolving from gospel and blues; focuses on emotion and groove.",
-  "Electronic / Dance": "Electronic sound production; includes techno, house, trance, drum & bass, and ambient styles.",
-  "Folk": "Traditional and contemporary storytelling music rooted in community or cultural identity.",
-  "Country": "American roots music emphasizing personal storytelling and regional identity.",
-  "Reggae / Ska / Dancehall": "Caribbean rhythm-focused music with social and spiritual themes.",
-  "Latin / Afro-Latin": "Includes salsa, bachata, reggaetón, bossa nova, and tango—rhythmic and dance-oriented.",
-  "Afrobeat / Highlife / African Traditional": "Modern and traditional African styles blending rhythm, melody, and community energy.",
-  "Metal": "Heavy offshoot of rock emphasizing power, speed, and dark or epic themes.",
-  "Punk / Alternative / Indie": "Independent, anti-mainstream expressions branching from rock and pop.",
-  "Funk / Disco": "Rhythm- and bass-driven music built for dance and movement.",
-  "Gospel / Christian / Spiritual": "Religious or spiritual music celebrating faith through vocal harmony and emotion.",
-  "World / Traditional / Ethnic": "Indigenous and folk music from all regions, often tied to ceremony or cultural heritage.",
-  "Experimental / Avant-Garde": "Music that explores new sonic, structural, or conceptual territories.",
-  "Soundtrack / Score / Stage": "Composed for film, theater, or games; focuses on enhancing narrative emotion."
-}
+[
+  {
+    "id": "classical",
+    "name": "Classical",
+    "aliases": ["western art music"],
+    "keywords": ["symphony", "orchestra", "baroque", "romantic", "modern"],
+    "description": "Western art music spanning Baroque, Romantic, and modern eras."
+  },
+  {
+    "id": "jazz",
+    "name": "Jazz",
+    "aliases": ["bebop", "fusion", "smooth jazz"],
+    "keywords": ["improvisation", "swing", "blues", "saxophone"],
+    "description": "Improvisational music rooted in blues and swing; includes bebop, fusion, and smooth jazz."
+  },
+  {
+    "id": "blues",
+    "name": "Blues",
+    "aliases": ["delta blues", "chicago blues", "electric blues"],
+    "keywords": ["soulful", "guitar", "emotion", "12-bar"],
+    "description": "Expressive music rooted in African American traditions; includes Delta, Chicago, and electric blues."
+  },
+  {
+    "id": "rock",
+    "name": "Rock",
+    "aliases": ["classic rock", "punk rock", "grunge", "indie rock"],
+    "keywords": ["guitar", "band", "energy", "drums"],
+    "description": "Guitar-driven music evolving from blues and pop; spans classic rock, punk, grunge, and indie."
+  },
+  {
+    "id": "pop",
+    "name": "Pop",
+    "aliases": ["popular music"],
+    "keywords": ["melody", "mainstream", "chorus", "production"],
+    "description": "Mainstream melodic music emphasizing accessibility, melody, and production quality."
+  },
+  {
+    "id": "hiphop",
+    "name": "Hip-Hop / Rap",
+    "aliases": ["rap", "trap", "drill", "old-school hip-hop"],
+    "keywords": ["lyrics", "rhythm", "beats", "urban"],
+    "description": "Lyric- and rhythm-based genre with roots in urban storytelling; includes old-school, trap, and drill."
+  },
+  {
+    "id": "rnb",
+    "name": "R&B / Soul",
+    "aliases": ["rhythm and blues", "soul"],
+    "keywords": ["vocals", "emotion", "groove", "gospel"],
+    "description": "Smooth, vocal-driven music evolving from gospel and blues; focuses on emotion and groove."
+  },
+  {
+    "id": "electronic",
+    "name": "Electronic / Dance",
+    "aliases": ["edm", "techno", "house", "trance", "drum & bass", "ambient"],
+    "keywords": ["synth", "beat", "dj", "club"],
+    "description": "Electronic sound production; includes techno, house, trance, drum & bass, and ambient styles."
+  },
+  {
+    "id": "folk",
+    "name": "Folk",
+    "aliases": ["traditional folk", "contemporary folk"],
+    "keywords": ["storytelling", "acoustic", "community", "heritage"],
+    "description": "Traditional and contemporary storytelling music rooted in community or cultural identity."
+  },
+  {
+    "id": "country",
+    "name": "Country",
+    "aliases": ["americana", "bluegrass", "country rock"],
+    "keywords": ["story", "guitar", "roots", "american"],
+    "description": "American roots music emphasizing personal storytelling and regional identity."
+  },
+  {
+    "id": "reggae",
+    "name": "Reggae / Ska / Dancehall",
+    "aliases": ["ska", "dancehall", "roots reggae"],
+    "keywords": ["caribbean", "rhythm", "island", "social themes"],
+    "description": "Caribbean rhythm-focused music with social and spiritual themes."
+  },
+  {
+    "id": "latin",
+    "name": "Latin / Afro-Latin",
+    "aliases": ["salsa", "bachata", "reggaeton", "bossa nova", "tango"],
+    "keywords": ["dance", "rhythm", "spanish", "percussion"],
+    "description": "Includes salsa, bachata, reggaetón, bossa nova, and tango—rhythmic and dance-oriented."
+  },
+  {
+    "id": "african",
+    "name": "Afrobeat / Highlife / African Traditional",
+    "aliases": ["afrobeat", "highlife", "african folk"],
+    "keywords": ["drums", "community", "rhythm", "call and response"],
+    "description": "Modern and traditional African styles blending rhythm, melody, and community energy."
+  },
+  {
+    "id": "metal",
+    "name": "Metal",
+    "aliases": ["heavy metal", "thrash", "death metal"],
+    "keywords": ["heavy", "guitar", "dark", "speed"],
+    "description": "Heavy offshoot of rock emphasizing power, speed, and dark or epic themes."
+  },
+  {
+    "id": "punk",
+    "name": "Punk / Alternative / Indie",
+    "aliases": ["alternative", "indie"],
+    "keywords": ["independent", "rebellion", "underground"],
+    "description": "Independent, anti-mainstream expressions branching from rock and pop."
+  },
+  {
+    "id": "funk",
+    "name": "Funk / Disco",
+    "aliases": ["funk", "disco"],
+    "keywords": ["bass", "groove", "dance", "rhythm"],
+    "description": "Rhythm- and bass-driven music built for dance and movement."
+  },
+  {
+    "id": "gospel",
+    "name": "Gospel / Christian / Spiritual",
+    "aliases": ["christian", "spiritual"],
+    "keywords": ["faith", "harmony", "worship", "soul"],
+    "description": "Religious or spiritual music celebrating faith through vocal harmony and emotion."
+  },
+  {
+    "id": "world",
+    "name": "World / Traditional / Ethnic",
+    "aliases": ["world music", "ethnic music"],
+    "keywords": ["indigenous", "folk", "cultural", "heritage"],
+    "description": "Indigenous and folk music from all regions, often tied to ceremony or cultural heritage."
+  },
+  {
+    "id": "experimental",
+    "name": "Experimental / Avant-Garde",
+    "aliases": ["avant-garde", "noise", "sound art"],
+    "keywords": ["abstract", "structure", "concept", "sound"],
+    "description": "Music that explores new sonic, structural, or conceptual territories."
+  },
+  {
+    "id": "soundtrack",
+    "name": "Soundtrack / Score / Stage",
+    "aliases": ["film score", "game music", "musical theater"],
+    "keywords": ["cinematic", "orchestral", "theme", "narrative"],
+    "description": "Composed for film, theater, or games; focuses on enhancing narrative emotion."
+  }
+]
