@@ -1,184 +1,5 @@
 [
     {
-        "date_of_show": "2025-10-19",
-        "band": "Talie Copen",
-        "city": "Paso Robles",
-        "time_of_show": "12:00:00",
-        "venue_name": "Grey Wolf Cellars & Barton Family Wines",
-        "event_name": "Talie Copen @ Grey Wolf Cellars & Barton Family Wines",
-        "ticket_price": "",
-        "street_address": "2174 CA-46",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "35.5732449",
-        "longitude": "-120.7350846",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "Talie Copen is a vocalist and songwriter from California's Central Coast known for her genre-bending performances. She blends folk Americana, country, 80s and 90s rock, and original music, performing both solo and with various band configurations, including Talie & James, Talie's Trailer Park Revival, Talie & The Troublemakers, and Veronica Street. Her music is characterized by heartfelt storytelling and energetic performances.",
-                "genre": [
-                    "folk",
-                    "country",
-                    "rock",
-                    "blues"
-                ],
-                "top_songs": [
-                    "Puttin' In The Work"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=Talie+Copen+genre"
-        }
-    },
-    {
-        "date_of_show": "2025-10-19",
-        "band": "John Waters",
-        "city": "Santa Barbara",
-        "time_of_show": "15:00:00",
-        "venue_name": "Lobero Theatre",
-        "event_name": "John Waters @ Lobero Theatre",
-        "ticket_price": "",
-        "street_address": "33 E Canon Perdido St",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "34.421566",
-        "longitude": "-119.6999893",
-        "description": {
-            "event_type": "comedy",
-            "band": {
-                "summary": "John Waters is an American filmmaker, writer, and artist known for his transgressive cult films, often exploring themes of unconventional sexuality and social anarchism with a darkly satirical take on American culture. He is also known for his campy aesthetic, subversive humor, and performances as a stand-up comedian.",
-                "genre": [],
-                "top_songs": []
-            },
-            "google_search_link": "https://www.google.com/search?q=John+Waters+%22The+Naked+Truth+Halloween+Show%22+Lobero+Theatre"
-        }
-    },
-    {
-        "date_of_show": "2025-10-19",
-        "band": "DJ Scratch",
-        "city": "Oxnard",
-        "time_of_show": "17:00:00",
-        "venue_name": "Oxnard Copper Blues Rock Pub & Kitchen",
-        "event_name": "DJ Scratch @ Oxnard Copper Blues Rock Pub & Kitchen",
-        "ticket_price": "",
-        "street_address": "581 Collections Blvd",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "34.240229",
-        "longitude": "-119.176274",
-        "description": {
-            "event_type": "dj",
-            "band": {
-                "summary": "DJ Scratch, born George Spivey on June 21, 1968, is an acclaimed American hip-hop DJ and producer from Brooklyn, New York. He is known for his innovative scratching techniques and has produced music for numerous prominent artists, including EPMD, Busta Rhymes, 50 Cent, and LL Cool J. DJ Scratch has won multiple awards for his DJing and production skills, including the New Music Seminar Battle For World Supremacy in 1988 and the Master of the Mix in 2010. He also hosted \"The DJ Scratch Show\" on Rock The Bells Radio.",
-                "genre": [
-                    "hiphop",
-                    "electronic"
-                ],
-                "top_songs": []
-            },
-            "google_search_link": "https://www.google.com/search?q=DJ+Scratch+Oxnard+Copper+Blues+Rock+Pub+%26+Kitchen"
-        }
-    },
-    {
-        "date_of_show": "2025-10-19",
-        "band": "Heart of Gold - Celebrating the Music of Neil Young",
-        "city": "Santa Barbara",
-        "time_of_show": "19:00:00",
-        "venue_name": "Soho Restaurant & Music Club",
-        "event_name": "Heart of Gold - Celebrating the Music of Neil Young @ Soho Restaurant & Music Club",
-        "ticket_price": "",
-        "street_address": "1221 State St #205",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "34.423621",
-        "longitude": "-119.70549199999999",
-        "description": {
-            "event_type": "tribute",
-            "band": {
-                "summary": "Heart of Gold - Celebrating the Music of Neil Young is a tribute band that performs the music of Neil Young, focusing on his \"Harvest\" album and greatest hits. Neil Young is a Canadian-American singer-songwriter known for his distinctive voice and passionate lyrics, blending folk, country, and rock elements throughout his career.",
-                "genre": [
-                    "rock",
-                    "folk",
-                    "country"
-                ],
-                "top_songs": [
-                    "Heart of Gold",
-                    "Old Man",
-                    "Harvest Moon",
-                    "The Needle and the Damage Done",
-                    "Cinnamon Girl",
-                    "After the Gold Rush"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=Heart+of+Gold+-+Celebrating+the+Music+of+Neil+Young+band+summary+genre+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-19",
-        "band": "Ty Segall",
-        "city": "San Luis Obispo",
-        "time_of_show": "19:00:00",
-        "venue_name": "SLO Brew Rock",
-        "event_name": "Ty Segall @ SLO Brew Rock",
-        "ticket_price": "",
-        "street_address": "855 Aerovista Ln",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "35.24168",
-        "longitude": "-120.64115900000002",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "Ty Garrett Segall (born June 8, 1987) is an American multi-instrumentalist, singer-songwriter, and record producer known for his prolific solo career and his involvement in various bands. His music is often described as garage rock, psychedelic rock, indie rock, and punk rock, with influences from glam rock and heavy metal. He has released numerous studio albums since 2008, exploring a diverse range of styles from raw and lo-fi to more refined and acoustic.",
-                "genre": [
-                    "rock",
-                    "punk",
-                    "metal",
-                    "blues",
-                    "folk"
-                ],
-                "top_songs": [
-                    "My Lady's On Fire",
-                    "Feel",
-                    "Goodbye Bread",
-                    "Caesar",
-                    "Love Fuzz",
-                    "Girlfriend",
-                    "Finger",
-                    "The Main Pretender",
-                    "Thank God For Sinners",
-                    "Time"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=Ty+Segall+genre+and+summary"
-        }
-    },
-    {
-        "date_of_show": "2025-10-19",
-        "band": "Steely Dead",
-        "city": "Ventura",
-        "time_of_show": "20:00:00",
-        "venue_name": "Ventura Music Hall",
-        "event_name": "Steely Dead @ Ventura Music Hall",
-        "ticket_price": "",
-        "street_address": "1888 E Thompson Blvd",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "34.2745925",
-        "longitude": "-119.2730736",
-        "description": {
-            "event_type": "tribute",
-            "band": {
-                "summary": "Steely Dead is a national touring band that performs a unique blend of music from The Grateful Dead and Steely Dan. Formed in Denver, Colorado, the band consists of Dave Abear (guitar), Matt Abear (bass), Chris Sheldon (drums), and Dylan Teifer (keys). Their repertoire fuses the precise studio arrangements of Steely Dan with the improvisational style and segues of the Grateful Dead, creating an original jam element. They are known for their electrifying performances and for bringing fans together for a communal musical experience.",
-                "genre": [
-                    "rock",
-                    "jazz"
-                ],
-                "top_songs": []
-            },
-            "google_search_link": "https://www.google.com/search?q=Steely+Dead+band+genre"
-        }
-    },
-    {
         "date_of_show": "2025-10-21",
         "band": "Taco Tuesday",
         "city": "Oxnard",
@@ -194,11 +15,11 @@
         "description": {
             "event_type": "local",
             "band": {
-                "summary": "The search results indicate that \"Taco Tuesday\" is a recurring event series at the Oxnard Copper Blues Rock Pub & Kitchen, rather than a specific band. The venue offers various taco specials and promotions on Tuesdays. There is no information to suggest 'Taco Tuesday' is a musical artist or band.",
+                "summary": "",
                 "genre": [],
                 "top_songs": []
             },
-            "google_search_link": "https://www.google.com/search?q=Taco+Tuesday+Oxnard+Copper+Blues+Rock+Pub+%26+Kitchen"
+            "google_search_link": "https://www.google.com/search?q=Taco+Tuesday+Oxnard+Copper+Blues+Rock+Pub+%26+Kitchen+event+type"
         }
     },
     {
@@ -217,7 +38,7 @@
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "Murray Hidary is an American composer, fine art photographer, and entrepreneur. He studied Music and Composition at New York University and was influenced by minimalist composers like Philip Glass, Terry Riley, and Steve Reich, as well as Baroque counterpoint. Hidary is known for his \"MindTravel\" experience, which combines live piano improvisations with visual art and is designed to promote mindfulness and self-discovery. He has performed in various iconic venues globally and his work often explores themes of the universe, consciousness, and the connection between the inner and outer self.",
+                "summary": "Murray Hidary is an American composer, fine art photographer, and entrepreneur, born in 1971. He studied Music and Composition at New York University and has been influenced by minimalist composers such as Philip Glass, Terry Riley, and Steve Reich, as well as Baroque-era counterpoint. Hidary's music often incorporates mathematical processes and layering techniques to create rich textures. He is also known for his \"MindTravel\" project, an immersive musical experience that combines live piano compositions with visual art installations, often performed in unique settings. Hidary also has a background in technology, having co-founded EarthWeb, which later became Dice Inc., and has been involved in several other tech ventures. He is a board member for various organizations, including ETHEL, a contemporary string quartet.",
                 "genre": [
                     "classical",
                     "experimental"
@@ -243,88 +64,19 @@
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "Young Tuck is a Santa Barbara-based artist known for blending lyricism with pop and hip-hop influences. He is a multi-instrumentalist and music producer with over 15 years of experience, creating music that combines storytelling with energetic beats. His influences range from Justin Bieber to brakence, and his music spans from acoustic pieces to beat-driven anthems. Young Tuck is also known for curating his own shows, including the \"Tuck and Friends Festival.\"",
+                "summary": "Young Tuck is an artist who has curated and produced collaborative albums featuring numerous artists and producers worldwide. He is currently working on \"Tuck + Friends 3,\" with a focus on highlighting emerging local talent from Westmont College and beyond. The \"Tuck and Friends Festival\" aims to provide an immersive night of original music and high-energy performances, fostering connections between artists and the audience.",
                 "genre": [
-                    "pop",
                     "hiphop"
                 ],
                 "top_songs": [
+                    "Shoulda Been There (feat. Jaydes)",
                     "You Know Why",
                     "Puzzle Pieces",
-                    "Crash My Car"
+                    "Crash My Car",
+                    "Pink"
                 ]
             },
             "google_search_link": "https://www.google.com/search?q=Young+Tuck+genre+summary+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-21",
-        "band": "Thomas Csorba",
-        "city": "San Luis Obispo",
-        "time_of_show": "19:00:00",
-        "venue_name": "SLO Brew",
-        "event_name": "Thomas Csorba @ SLO Brew",
-        "ticket_price": "",
-        "street_address": "736 Higuera St",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "35.279185",
-        "longitude": "-120.663549",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "Thomas Csorba is a singer-songwriter whose music often features themes of everyday life, relationships, and personal growth. His sound draws from folk and country influences, characterized by storytelling lyrics and an authentic vocal delivery. He released his album \"Windchimes\" in 2024.",
-                "genre": [
-                    "country",
-                    "folk"
-                ],
-                "top_songs": [
-                    "Goodbye to Goodbye",
-                    "When Did You Leave Heaven",
-                    "Gospel Transistor",
-                    "To Tell The Truth",
-                    "Highway Kid",
-                    "Heartache After Heartache"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=Thomas+Csorba+band+summary+genre+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-21",
-        "band": "Boz Scaggs",
-        "city": "Santa Barbara",
-        "time_of_show": "19:30:00",
-        "venue_name": "Arlington Theatre",
-        "event_name": "Boz Scaggs @ Arlington Theatre",
-        "ticket_price": "",
-        "street_address": "1317 State St",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "34.4245969",
-        "longitude": "-119.7064752",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "Boz Scaggs (born William Royce Scaggs on June 8, 1944) is an American singer, songwriter, and guitarist who first gained fame in the 1960s as a guitarist and occasional lead singer with the Steve Miller Band. He launched his solo career in 1969 and achieved significant commercial success in the 1970s with his album \"Silk Degrees,\" which produced hit singles like \"Lido Shuffle\" and the Grammy-winning \"Lowdown.\" Scaggs' music is a blend of blues, jazz, R&B, and soft rock, characterized by his smooth tenor voice and guitar work. He has continued to record and tour throughout his career, releasing numerous albums and influencing musicians, including those who would go on to form the band Toto.",
-                "genre": [
-                    "blues",
-                    "jazz",
-                    "rnb",
-                    "rock"
-                ],
-                "top_songs": [
-                    "Lowdown",
-                    "Lido Shuffle",
-                    "JoJo",
-                    "We're All Alone",
-                    "What Can I Say",
-                    "Heart of Mine",
-                    "Breakdown Dead Ahead",
-                    "Miss Sun"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=Boz+Scaggs+genre+summary+top+songs"
         }
     },
     {
@@ -343,21 +95,27 @@
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "Pony Bradshaw is a singer-songwriter from North Georgia whose music is often described as Southern Gothic, Roots Rock, Psychedelic Folk, and Americana. His songs are known for their rich narratives, often exploring themes of family, history, and the landscape of Appalachia. Bradshaw's music is characterized by a hybrid, textured sound, frequently featuring fiddle and pedal steel, and drawing influences from bluegrass, country, and even elements of gospel. He is noted for his distinctive vocabulary and his ability to paint vivid, sometimes dark, lyrical portraits.",
+                "summary": "Pony Bradshaw, born James Bradshaw, is a singer-songwriter from Georgia whose music is often described as 'mountain music' or Americana. His songs are known for their storytelling, vivid imagery of Appalachia, and a sound that blends elements of country, rock, and blues, with influences from bluegrass and Southern Gothic. Bradshaw's music often explores themes of place, community, history, and the complexities of Southern life. He gained wider recognition with his album trilogy: 'Calico Jim,' 'North Georgia Rounder,' and 'Thus Spoke the Fool.'",
                 "genre": [
                     "country",
                     "folk",
-                    "rock"
+                    "rock",
+                    "blues"
                 ],
                 "top_songs": [
+                    "Van Gogh",
+                    "Sawtoothed Jericho",
+                    "Foxfire Wine",
                     "North Georgia Rounder",
-                    "Ginseng Daddy",
-                    "The Long Man",
-                    "Viva Appalachia",
-                    "Calico Jim"
+                    "10x10",
+                    "Bad Teeth",
+                    "Shame",
+                    "Go Down, Appalachia",
+                    "Jehovah",
+                    "Charlatan"
                 ]
             },
-            "google_search_link": "https://www.google.com/search?q=Pony+Bradshaw+band+summary+genre"
+            "google_search_link": "https://www.google.com/search?q=Pony+Bradshaw+genre+summary+top+songs"
         }
     },
     {
@@ -376,14 +134,14 @@
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "Murray Hidary is an American composer, pianist, photographer, and entrepreneur known for his 'MindTravel' experience, which combines live improvisational piano music with unique settings and often uses headphones for an immersive, meditative performance. His music is described as post-minimalist, often exploring themes of the universe, emotion, and self-discovery. He studied music composition at New York University and has been influenced by minimalist composers such as Philip Glass and Steve Reich, as well as classical and baroque traditions. Hidary has performed globally in various iconic locations, including Lincoln Center, Antarctica, and on beaches. His work also extends to visual art and composing scores for documentaries.",
+                "summary": "Murray Hidary is an American composer, photographer, and entrepreneur. He majored in Music and Composition at NYU and was influenced by minimalist composers like Philip Glass and composers of the Baroque period. His music often incorporates mathematical processes and layering techniques to create rich textures. He is also known for his \"Mind Travel\" experience, which combines live piano improvisation with visual art installations, aiming to provide a meditative and transformative experience.",
                 "genre": [
                     "classical",
                     "experimental"
                 ],
                 "top_songs": []
             },
-            "google_search_link": "https://www.google.com/search?q=Murray+Hidary"
+            "google_search_link": "https://www.google.com/search?q=Murray+Hidary+music+style"
         }
     },
     {
@@ -402,14 +160,14 @@
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "Big Richard is a neo-acoustic supergroup formed in Colorado, comprised of musicians Bonnie Sims, Joy Adams, Emma Rose, and Eve Panning. They are known for their blend of bluegrass, old-time music, and original songs, often infused with humor and a spirit of \"lady rage.\"",
+                "summary": "Big Richard is a four-woman neo-acoustic supergroup formed in 2021, known for blending bluegrass with elements of folk and Americana, and a touch of \"lady rage.\" The band members are Bonnie Sims (mandolin), Joy Adams (cello), Emma Rose (bass, guitar), and Eve Panning (fiddle). They are recognized for their virtuosic musicianship, rich vocal harmonies, and a stage presence that combines humor with heartfelt performances. Their music often features storytelling and pushes traditional genre boundaries, incorporating influences from classical, jazz, and rock.",
                 "genre": [
-                    "country",
-                    "folk"
+                    "folk",
+                    "country"
                 ],
                 "top_songs": []
             },
-            "google_search_link": "https://www.google.com/search?q=Big+Richard+band+genre+summary+top+songs"
+            "google_search_link": "https://www.google.com/search?q=Big+Richard+band+summary+genre+top+songs"
         }
     },
     {
@@ -428,7 +186,7 @@
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "Pryor Baird is a country-rock artist from Orcutt, California, who gained recognition as a finalist on NBC's \"The Voice.\" He has evolved from a bluesy country solo artist into a soulful country-rock performer, and has performed at the Grand Ole Opry. Baird signed with Black River Entertainment in 2020 and has released several singles, including \"You Are To Me\" and \"Chasin' Shadows.\"",
+                "summary": "Pryor Baird is a country-rock artist from Orcutt, California, who gained national recognition as a finalist on NBC's \"The Voice.\" He learned to play guitar as a toddler and has evolved from a bluesy country solo artist into a soulful country-rock performer. Baird signed with Black River Entertainment in 2020 and has released several singles, including \"You Are To Me\" and \"Chasin' Shadows.\" He made his Grand Ole Opry debut in January 2024.",
                 "genre": [
                     "country",
                     "rock",
@@ -438,11 +196,11 @@
                     "Beauty In The Broken",
                     "The One Left Behind",
                     "Mighta Met A Girl",
-                    "Chasin' Shadows",
-                    "You Are To Me"
+                    "You Are To Me",
+                    "Chasin' Shadows"
                 ]
             },
-            "google_search_link": "https://www.google.com/search?q=Pryor+Baird+band+summary+genre"
+            "google_search_link": "https://www.google.com/search?q=Pryor+Baird+genre+music+style+summary+top+songs"
         }
     },
     {
@@ -461,22 +219,24 @@
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "The Hip Abduction is a St. Petersburg, Florida-based band formed in 2010. Their music is a fusion of West African, reggae, dub, and indie pop influences, characterized by groovy and soulful melodies, uplifting lyrics, and a blend of genres. They often incorporate African stringed instruments, dub-reggae-inspired bass lines, and afro-beat percussion. The band's sound has been described as \"wanderlust-inspired global pop.\"",
+                "summary": "The Hip Abduction is an American reggae band formed in St. Petersburg, Florida, in 2010. Their music is a vibrant fusion of West African rhythms, reggae, dub, and indie pop, characterized by groovy and soulful sounds, uplifting lyrics, and catchy melodies. The band often incorporates instruments like the trumpet and banjo, and their sound has been described as \"wanderlust-inspired global pop.\"",
                 "genre": [
-                    "rock",
-                    "pop",
                     "reggae",
-                    "world"
+                    "world",
+                    "electronic",
+                    "pop",
+                    "rock",
+                    "folk"
                 ],
                 "top_songs": [
                     "Pacific Coast Highway",
                     "We'll Be Alright",
+                    "All I Need",
                     "An Island Still Remains",
-                    "Float",
-                    "Some Say the Ocean"
+                    "Float"
                 ]
             },
-            "google_search_link": "https://www.google.com/search?q=The+Hip+Abduction+genre+summary+top+songs"
+            "google_search_link": "https://www.google.com/search?q=The+Hip+Abduction+band+summary+genre+top+songs"
         }
     },
     {
@@ -485,114 +245,88 @@
         "city": "Ojai",
         "time_of_show": "18:00:00",
         "venue_name": "Ojai Art Center",
-        "event_name": "Miyo @ Ojai Art Center (Story Slam)",
-        "ticket_price": "30",
+        "event_name": "Miyo @ Ojai Art Center",
+        "ticket_price": "",
         "street_address": "113 S Montgomery St",
         "region": "CA",
         "country": "United States",
         "latitude": "34.4471147",
         "longitude": "-119.2436535",
         "description": {
-            "event_type": "comedy",
+            "event_type": "other",
             "band": {
-                "summary": "Miyo is a comedic storyteller based in Los Angeles with a solo show that blends humor with heart.",
-                "genre": [],
-                "top_songs": []
+                "summary": "Miyo is an alternative hip-hop artist from Poland known for blending various genres with emotive lyrics that touch on personal growth and overcoming obstacles. They are recognized for intricate rhythms, unusual melodies, and insightful storytelling. Miyo's music often has a narrative feel that immerses the listener in their world. While one search result describes a Polish hip-hop artist named Miyo, another refers to a Japanese-American comedian and storyteller named Miyo who performs solo shows and co-produces a show featuring immigrant storytellers and comedians. It's unclear if these refer to the same artist.",
+                "genre": [
+                    "hiphop",
+                    "punk"
+                ],
+                "top_songs": [
+                    "Bedzie Lepiej",
+                    "Jungla",
+                    "Choker",
+                    "Caly Swiat",
+                    "Sniadanie w Massachusetts"
+                ]
             },
-            "google_search_link": "https://www.google.com/search?q=Miyo+storyteller+Ojai"
+            "google_search_link": "https://www.google.com/search?q=Miyo+band+Ojai+Art+Center+event"
         }
     },
     {
         "date_of_show": "2025-10-23",
         "band": "Champagne Sunday",
-        "event_name": "Champagne Sunday @ Margarita Villa",
         "city": "Ventura",
         "time_of_show": "18:00:00",
         "venue_name": "Margarita Villa",
+        "event_name": "Champagne Sunday @ Margarita Villa",
+        "ticket_price": "",
         "street_address": "1567 Spinnaker Dr #200",
         "region": "CA",
         "country": "United States",
         "latitude": "34.2408095",
         "longitude": "-119.2646476",
-        "ticket_price": "",
         "description": {
-            "event_type": "local",
+            "event_type": "original",
             "band": {
-                "summary": "Champagne Sunday is a recurring Sunday live-music/entertainment event at Margarita Villa in Ventura Harbor.",
-                "genre": [],
+                "summary": "Champagne Sunday is a DIY band formed in Ventura, CA in 2005 by Jared and Jessi Fredeen. They describe their music as \"Glam-Folk,\" a blend of various influences including musical theater, funk, R&B, grunge, and Americana. Their music is characterized by storytelling, emotional depth, and a positive, inspirational message. The duo has toured extensively and released numerous albums, with their tenth album released in May 2025.",
+                "genre": [
+                    "rock",
+                    "folk",
+                    "rnb",
+                    "country"
+                ],
+                "top_songs": [
+                    "The Elephant",
+                    "Dressed Up",
+                    "I Like You",
+                    "10 Best Dressed"
+                ]
+            },
+            "google_search_link": "https://www.google.com/search?q=Champagne+Sunday+band+summary+genre+top+songs"
+        }
+    },
+    {
+        "date_of_show": "2025-10-23",
+        "band": "THE LONG RUN - Experience The Eagles",
+        "city": "Arroyo Grande",
+        "time_of_show": "19:30:00",
+        "venue_name": "Clark Center For the Performing Arts",
+        "event_name": "THE LONG RUN - Experience The Eagles @ Clark Center For the Performing Arts",
+        "ticket_price": "",
+        "street_address": "487 Fair Oaks Ave",
+        "region": "CA",
+        "country": "United States",
+        "latitude": "35.1163368",
+        "longitude": "-120.5818862",
+        "description": {
+            "event_type": "tribute",
+            "band": {
+                "summary": "The Long Run is a tribute band formed in 1999, dedicated to recreating the music of The Eagles with authentic harmonies and musical arrangements. They are known for their live performances that blend classic sounds with their own style, and are composed of professional musicians who respect The Eagles' legacy. They have been recognized as a premier Eagles tribute band.",
+                "genre": [
+                    "rock"
+                ],
                 "top_songs": []
             },
-            "google_search_link": "https://www.google.com/search?q=Champagne+Sunday+Margarita+Villa+Ventura"
-        }
-    },
-    {
-        "date_of_show": "2025-10-23",
-        "band": "Fetch Tiger",
-        "city": "Isla Vista",
-        "time_of_show": "19:00:00",
-        "venue_name": "Biko House Co-op",
-        "event_name": "Fetch Tiger @ Biko House Co-op",
-        "ticket_price": "",
-        "street_address": "Sueno Rd",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "34.4127851",
-        "longitude": "-119.8592572",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "Fetch Tiger is an indie music duo from Brooklyn, New York, known for their experimental approach that blends elements of rock, indie rock, folk, and funk. Their music often features emotive lyrics and explores themes of self-discovery, relationships, and mental health. The band consists of Lorenzo Montali and Tanner Davis, who collaborate remotely.",
-                "genre": [
-                    "rock",
-                    "punk",
-                    "rock",
-                    "pop"
-                ],
-                "top_songs": [
-                    "Time Alone",
-                    "Our Love Was Fading",
-                    "Hear From You",
-                    "Fighter",
-                    "Everybody Wants A Show"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=Fetch+Tiger+band+genre+summary+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-23",
-        "band": "Lila Downs",
-        "city": "Santa Barbara",
-        "time_of_show": "19:30:00",
-        "venue_name": "Arlington Theatre",
-        "event_name": "Lila Downs @ Arlington Theatre",
-        "ticket_price": "",
-        "street_address": "1317 State St",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "34.4245969",
-        "longitude": "-119.7064752",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "Lila Downs is a Mexican-American singer-songwriter born on September 9, 1968. She performs her own compositions and works by others, blending Mexican traditional and popular music with indigenous influences. Downs has recorded songs in various indigenous languages, including Mixtec, Zapotec, Mayan, Nahuatl, and Pur\u00e9pecha. Her music often incorporates elements of folk, jazz, blues, hip-hop, and rock, with lyrics that address social issues, indigenous rights, and migration. She has received critical acclaim, including a Grammy Award and multiple Latin Grammy Awards.",
-                "genre": [
-                    "latin",
-                    "folk",
-                    "jazz",
-                    "blues",
-                    "world"
-                ],
-                "top_songs": [
-                    "La Llorona",
-                    "Cari\u00f1ito",
-                    "Amor Eterno",
-                    "Paloma Negra",
-                    "La Cigarra",
-                    "Solita Solita"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=Lila+Downs+genre+summary+top+songs"
+            "google_search_link": "https://www.google.com/search?q=THE+LONG+RUN+-+Experience+The+Eagles+band+summary+genre+top+songs"
         }
     },
     {
@@ -611,17 +345,20 @@
         "description": {
             "event_type": "tribute",
             "band": {
-                "summary": "The Long Run is a tribute band dedicated to performing the music of the iconic American rock band, The Eagles. They aim to capture the authentic sound and spirit of The Eagles' classic hits, featuring precise vocal harmonies and instrumental arrangements.",
+                "summary": "The Long Run is a tribute band that faithfully recreates the music of the Eagles. Formed in Colorado in 2009, and also with a lineup in Florida, they are known for their harmonies, guitar work, and energy, aiming to capture the 70s sound of the Eagles. They have performed at various venues, including the Paramount Theatre and Red Rocks Amphitheater.",
                 "genre": [
-                    "rock",
-                    "country"
+                    "rock"
                 ],
                 "top_songs": [
                     "Hotel California",
-                    "Take It Easy",
+                    "Take it Easy",
+                    "Life in the Fast Lane",
+                    "One of These Nights",
                     "Desperado",
                     "Lyin' Eyes",
-                    "Peaceful Easy Feeling"
+                    "Take it to the Limit",
+                    "New Kid in Town",
+                    "Heartache Tonight"
                 ]
             },
             "google_search_link": "https://www.google.com/search?q=The+Long+Run+Eagles+tribute+band"
@@ -640,7 +377,27 @@
         "country": "United States",
         "latitude": "34.423621",
         "longitude": "-119.70549199999999",
-        "description": "Big Richard"
+        "description": {
+            "event_type": "original",
+            "band": {
+                "summary": "Big Richard is a neo-acoustic supergroup formed in 2021, comprised of four accomplished female musicians from Colorado. They are known for their blend of bluegrass, folk, and Americana, characterized by tight vocal harmonies, instrumental virtuosity, and clever arrangements. The band often incorporates humor and a playful, irreverent stage presence into their performances, challenging traditional norms within the bluegrass scene. They have released albums like 'Girl Dinner' and have performed at various festivals across the United States.",
+                "genre": [
+                    "country",
+                    "folk",
+                    "rock"
+                ],
+                "top_songs": [
+                    "The Missing Stair",
+                    "Walls of Time",
+                    "So Long My Friend",
+                    "Town Line",
+                    "Elk River Blues",
+                    "Back Porch Dove",
+                    "Darlin Honey"
+                ]
+            },
+            "google_search_link": "https://www.google.com/search?q=Big+Richard+band+summary+genre+top+songs"
+        }
     },
     {
         "date_of_show": "2025-10-23",
@@ -658,19 +415,19 @@
         "description": {
             "event_type": "dj",
             "band": {
-                "summary": "Paul Michael DelVecchio Jr. (born July 5, 1980), widely known as DJ Pauly D, is an American television personality and DJ. He gained initial fame as a cast member on MTV's reality show \"Jersey Shore.\" DelVecchio began his DJ career at 16 and has since performed at various venues and events, including opening for Britney Spears. He signed a multi-album deal with 50 Cent's G-Unit Records and G-Note Records in 2011. His music often blends top 40 and house music, aiming to create an energetic dance experience.",
+                "summary": "DJ Pauly D, born Paul Delvecchio, is an American television personality and DJ who gained fame as a cast member of MTV's Jersey Shore. He began DJing at age 16 and has since built a career in electronic dance music, signing with G-Unit Records in 2011. He is known for his high-energy sets and crowd interaction.",
                 "genre": [
-                    "electronic",
-                    "pop",
-                    "hiphop"
+                    "electronic"
                 ],
                 "top_songs": [
                     "WYD After",
                     "Back To Love",
-                    "Beat Dat Beat (It's Time To)",
                     "Silver and Gold",
                     "Did You Know",
-                    "Night Of My Life"
+                    "That Boy",
+                    "Pull Me Closer",
+                    "Night Of My Life",
+                    "Beat Dat Beat (It's Time To)"
                 ]
             },
             "google_search_link": "https://www.google.com/search?q=DJ+Pauly+D+genre+summary+top+songs"
@@ -692,19 +449,23 @@
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "The Hip Abduction is an American reggae band formed in St. Petersburg, Florida, in 2010. Their music is a vibrant fusion of West African, early Jamaican reggae/dub, world music, indie rock, and pop. They are known for their groovy and soulful sound, uplifting lyrics, and catchy melodies. The band's sound has been described as a cheery fusion of West African, reggae, and exuberant indie pop.",
+                "summary": "The Hip Abduction is an American reggae band formed in St. Petersburg, Florida, in 2010. Their music is a blend of reggae, world music, dub, indie pop, and pop rock, characterized by a fusion of West African rhythms and Jamaican dub with indie pop sensibilities. The band's sound often incorporates elements of Afrobeat, Soukous, Malian Blues, and American jam/electronic/indie music, with a focus on groovy and soulful melodies, uplifting lyrics, and a distinct use of instruments like the kora and ngoni.",
                 "genre": [
                     "reggae",
                     "world",
                     "electronic",
-                    "punk"
+                    "pop",
+                    "rock",
+                    "funk"
                 ],
                 "top_songs": [
                     "Pacific Coast Highway",
-                    "All I Need",
                     "We'll Be Alright",
-                    "Children of the Sun",
-                    "Pacific Coast Highway (Reggae Remix)"
+                    "All I Need",
+                    "An Island Still Remains",
+                    "Float",
+                    "Some Say the Ocean",
+                    "Time & Space"
                 ]
             },
             "google_search_link": "https://www.google.com/search?q=The+Hip+Abduction+band+summary+genre+top+songs"
@@ -726,47 +487,30 @@
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "Glitterfox is a Portland-based band formed in 2012 by longtime creative partners Solange Igoa and Andrea Walker. Their music fuses garage rock grit, new wave shimmer, southern Americana soul, and a dancefloor pulse. They are known for their raw connection, fearless self-expression, and analog approach to building their career through touring. Their debut full-length album, 'decoder,' was released in August 2025.",
+                "summary": "Glitterfox is a Portland-based band formed in 2012, known for their unique blend of garage rock grit, new wave shimmer, southern Americana soul, and dancefloor rhythms. The band was formed by Solange Igoa and Andrea Walker, who initially met at an open mic in Long Beach, California. Their music often explores themes of queer love, personal transformation, and emotional experiences, with a sound described as \"Lesbian Glam Folk,\" indie rock, and folk rock. Glitterfox has toured extensively and released an EP, multiple singles, and their debut full-length album, \"decoder,\" in 2025.",
                 "genre": [
                     "rock",
                     "folk",
-                    "electronic",
-                    "country"
+                    "punk"
                 ],
                 "top_songs": [
                     "Passenger",
                     "Change Me",
                     "Polaroids",
                     "Wildfires",
-                    "Take Me Back",
-                    "Gamma Ray",
-                    "TV"
+                    "Kentucky Night",
+                    "Married to the Ground",
+                    "Honey",
+                    "Built to Break",
+                    "Fringe",
+                    "Richie's Party",
+                    "Not Fade Away",
+                    "Looking Away",
+                    "TV",
+                    "Take Me Back"
                 ]
             },
-            "google_search_link": "https://www.google.com/search?q=Glitterfox+band+genre+summary+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-24",
-        "band": "David Franz",
-        "city": "Ojai",
-        "time_of_show": "17:00:00",
-        "venue_name": "Ojai Art Center",
-        "event_name": "David Franz @ Ojai Art Center",
-        "ticket_price": "",
-        "street_address": "113 S Montgomery St",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "34.4471147",
-        "longitude": "-119.2436535",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "",
-                "genre": [],
-                "top_songs": []
-            },
-            "google_search_link": "https://www.google.com/search?q=David+Franz+Ojai+Art+Center"
+            "google_search_link": "https://www.google.com/search?q=Glitterfox+band+summary+genre+top+songs"
         }
     },
     {
@@ -785,20 +529,63 @@
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "TD Lind and The Aviators is an indie rock band from Southern California, formed in 2022. The band is known for its old-soul storytelling, powerful vocals, and a sound that blends rock with elements of soul and jazz. Their live performances are described as high-energy and captivating. The band released their live album \"Into the Light\" in 2023 and their debut studio album \"Golden\" in August 2024.",
+                "summary": "TD Lind and The Aviators is an indie rock band from Southern California, formed in 2022. The band is known for its old-soul storytelling, powerful vocals, and dynamic live performances. The lineup includes TD Lind, David Franz, Karl Hunter, Dan Sadin, and Greg Weiser. Their music draws influences from soul, jazz, and rock. They released their live album \"Into the Light\" in 2023 and their debut studio album \"Golden\" in August 2024. They continue to release new music throughout 2025.",
                 "genre": [
                     "rock",
-                    "rnb"
+                    "rnb",
+                    "jazz"
                 ],
                 "top_songs": [
                     "I'm Sorry (Not Sorry)",
                     "Trying Times",
                     "I Will Wait",
                     "If I",
-                    "Save Me"
+                    "Save Me",
+                    "Simply Falling",
+                    "Can't Hold Me Down",
+                    "Golden",
+                    "Rolling Joanna - Live at The Grape",
+                    "Into the Light"
                 ]
             },
-            "google_search_link": "https://www.google.com/search?q=TD+Lind+and+The+Aviators+genre+summary+top+songs"
+            "google_search_link": "https://www.google.com/search?q=TD+Lind+and+The+Aviators+band+summary+genre+top+songs"
+        }
+    },
+    {
+        "date_of_show": "2025-10-24",
+        "band": "David Franz",
+        "city": "Ojai",
+        "time_of_show": "17:00:00",
+        "venue_name": "Ojai Art Center",
+        "event_name": "David Franz @ Ojai Art Center",
+        "ticket_price": "",
+        "street_address": "113 S Montgomery St",
+        "region": "CA",
+        "country": "United States",
+        "latitude": "34.4471147",
+        "longitude": "-119.2436535",
+        "description": {
+            "event_type": "original",
+            "band": {
+                "summary": "David Franz is a Los Angeles-based musician, producer, engineer, multi-instrumentalist, performer, and educator. He is the founder of Underground Sun, an artist development company and music studio, and co-founder of Underground Sol, an EDM artist development and event production company. Franz writes, produces, and engineers music across a wide range of genres including Electronic, Pop, R&B, Hip-hop, Rock, and Americana. His work has been featured in TV shows, movies, and advertisements. He is also the author of books on music production and has taught courses for Berklee College of Music and Lynda.com.",
+                "genre": [
+                    "electronic",
+                    "pop",
+                    "rnb",
+                    "hiphop",
+                    "rock",
+                    "country"
+                ],
+                "top_songs": [
+                    "Truth In Disguise",
+                    "Less Resistance",
+                    "Floating",
+                    "Born To Love You",
+                    "My Greatest Enemy",
+                    "Silver Arrow Sunday"
+                ]
+            },
+            "google_search_link": "https://www.google.com/search?q=David+Franz+band+genre+summary+top+songs+Ojai+Art+Center"
         }
     },
     {
@@ -817,18 +604,21 @@
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "Griffin House is an American singer-songwriter and storyteller who has been touring and making records for over 20 years. His music is often described as folk, pop/rock, acoustic, and adult alternative. He gained recognition after his debut record \"Lost and Found\" was featured on CBS Sunday Morning, and he has since released over 13 albums. His music has been featured on various television shows.",
+                "summary": "Griffin House is an American singer-songwriter and storyteller from Springfield, Ohio, born on April 21, 1980. He began playing guitar and writing songs at age 18, after turning down a golf scholarship to pursue music. His debut album, 'Lost and Found' (2004), garnered significant attention, including praise from music critic Bill Flanagan on 'CBS Sunday Morning.' House has released over 13 albums and is known for his folk, folk rock, and acoustic style, often incorporating elements of Americana. His music has been featured in various television shows, and he has toured extensively, opening for notable artists.",
                 "genre": [
                     "folk",
-                    "rock",
-                    "pop"
+                    "pop",
+                    "rock"
                 ],
                 "top_songs": [
                     "The Guy That Says Goodbye to You Is Out of His Mind",
                     "Better Than Love",
                     "When the Time Is Right",
-                    "Live To Be Free",
-                    "Go Through It"
+                    "Real Love Can't Pretend",
+                    "Go Through It",
+                    "Let Me In",
+                    "Waiting for the Rain to Come Down",
+                    "River City Lights"
                 ]
             },
             "google_search_link": "https://www.google.com/search?q=Griffin+House+band+summary+genre+top+songs"
@@ -850,12 +640,10 @@
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "Caught Red Handed is a band that has been active since at least 1992, initially gaining recognition in the country-western music scene in Ventura County. They are known for their energetic live performances and ability to pack dance floors. While some sources associate them with country music, other releases and mentions suggest they also perform original music and have been associated with punk and alternative genres, with one release specifically categorized under Hip Hop. There are multiple entities with the name \"Caught Red Handed\" across different music genres.",
+                "summary": "The band \"Caught Red Handed\" appears to have released music across different genres, including punk/hardcore based on a YouTube video from 2011 and an album titled 'Repeat Offenders' from 2019 with songs that lean towards country or folk influences. There is also a 2025 R&B/Motown-style song by a group with the same name, and a 2025 single by 'Shameless Band' titled 'Caught Red Handed'. Given the venue, it's most likely a rock or country-leaning band.",
                 "genre": [
-                    "country",
                     "rock",
-                    "hiphop",
-                    "punk"
+                    "country"
                 ],
                 "top_songs": [
                     "Cash on the Barrelhead",
@@ -865,7 +653,7 @@
                     "Quiver"
                 ]
             },
-            "google_search_link": "https://www.google.com/search?q=Caught+Red+Handed+band+summary+genre+top+songs"
+            "google_search_link": "https://www.google.com/search?q=Caught+Red+Handed+band+genre+summary+top+songs"
         }
     },
     {
@@ -884,17 +672,23 @@
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "Strung Out is an American punk rock band formed in Simi Valley, California, in 1991. Their music fuses elements of melodic hardcore, skate punk, and heavy metal, characterized by technical proficiency, fast-paced rhythms, and melodic guitar riffs. They are known for their energetic live performances and have released numerous albums on the Fat Wreck Chords label.",
+                "summary": "Strung Out is an American melodic hardcore band formed in Simi Valley, California, in 1991. Their sound blends melodic hardcore with elements of heavy metal and skate punk, characterized by technical musicianship, fast-paced drumming, and intricate guitar solos. They have released numerous studio albums, live albums, and compilations, often charting on the Billboard 200. The band has toured internationally and participated in the Warped Tour.",
                 "genre": [
                     "punk",
                     "metal"
                 ],
                 "top_songs": [
                     "Razorblade",
+                    "Mephisto",
                     "Cemetery",
                     "Paperwalls",
-                    "Too Close to See",
-                    "Ashes"
+                    "Pleather",
+                    "Lost Motel",
+                    "Gearbox",
+                    "Matchbook",
+                    "Letter Home",
+                    "Vampires",
+                    "Bring Out Your Dead"
                 ]
             },
             "google_search_link": "https://www.google.com/search?q=Strung+Out+band+summary+genre+top+songs"
@@ -916,7 +710,7 @@
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "Agent Orange is an American punk rock band formed in Placentia, California, in 1979. They are considered pioneers of surf punk, blending surf music elements with the fast attack of hardcore punk rock. The band was founded by guitarist and vocalist Mike Palm, who is the sole constant member. Their debut album, 'Living in Darkness' (1981), is a seminal work in the skate punk underground.",
+                "summary": "Agent Orange is an American punk rock band formed in Placentia, California, in 1979. They are considered pioneers of surf punk, blending surf music with hardcore punk rock. The band's sound is characterized by melodic hooks, fuzzy guitars, and an uptempo pace. Their debut album, 'Living in Darkness' (1981), is a seminal work in the skate punk underground. Mike Palm is the sole constant original member.",
                 "genre": [
                     "punk",
                     "rock"
@@ -924,12 +718,12 @@
                 "top_songs": [
                     "Bloodstains",
                     "Everything Turns Grey",
+                    "Miserlou",
                     "Too Young to Die",
-                    "The Last Goodbye",
-                    "No Such Thing"
+                    "The Last Goodbye"
                 ]
             },
-            "google_search_link": "https://www.google.com/search?q=Agent+Orange+band+genre+summary+top+songs"
+            "google_search_link": "https://www.google.com/search?q=Agent+Orange+band+summary+genre"
         }
     },
     {
@@ -948,10 +742,10 @@
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "Rainbow City Park is an indie-rock/dream pop band from Northern California, formed in 2021. They draw inspiration from the 90s alt-rock scene and modern artists like Phoebe Bridgers, Diiv, and Pinegrove. The band's sound features washy guitars, dynamic percussion, and introspective lyrics, often exploring themes of growth, desire, and existentialism. They have released singles such as \"Valentine's Day 1999\" and \"Complicate This,\" and their debut EP \"Fruitless\" was released in early 2025.",
+                "summary": "Rainbow City Park is an indie-rock/dream-pop band from Northern California, formed in 2021. They draw inspiration from the 90s alt-rock scene and modern artists like Phoebe Bridgers, Diiv, and Pinegrove. The band is known for their guitar-driven sound, introspective lyrics, and energetic live performances. They have released singles such as 'Complicate This,' 'Broken Record / Dad Jeans,' and 'Convince You,' and their debut EP 'Fruitless' was released in February 2025.",
                 "genre": [
                     "rock",
-                    "pop"
+                    "punk"
                 ],
                 "top_songs": [
                     "Complicate This",
@@ -959,44 +753,7 @@
                     "Fruitless"
                 ]
             },
-            "google_search_link": "https://www.google.com/search?q=Rainbow+City+Park+band+summary+genre+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-24",
-        "band": "Petty Party (Celebrating the Music of Tom Petty & the Heartbreakers)",
-        "city": "Santa Barbara",
-        "time_of_show": "19:30:00",
-        "venue_name": "Lobero Theatre",
-        "event_name": "Petty Party (Celebrating the Music of Tom Petty & the Heartbreakers) @ Lobero Theatre",
-        "ticket_price": "",
-        "street_address": "33 E Canon Perdido St",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "34.421566",
-        "longitude": "-119.6999893",
-        "description": {
-            "event_type": "tribute",
-            "band": {
-                "summary": "Petty Party is a tribute band celebrating the music of Tom Petty and the Heartbreakers. The band is known for its accurate musical renditions and energetic performances, aiming to capture the essence of Tom Petty's classic hits. They perform songs from Petty's extensive catalog, including well-known tracks that encourage audience sing-alongs. The band was formed out of a deep admiration for Tom Petty's music, with musicians aiming for faithful and respectful performances of his classics.",
-                "genre": [
-                    "rock",
-                    "pop",
-                    "folk"
-                ],
-                "top_songs": [
-                    "American Girl",
-                    "Breakdown",
-                    "Don't Do Me Like That",
-                    "Free Fallin'",
-                    "I Won't Back Down",
-                    "Refugee",
-                    "The Waiting",
-                    "Learning to Fly",
-                    "Running Down a Dream"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=Petty+Party+(Celebrating+the+Music+of+Tom+Petty+%26+the+Heartbreakers)"
+            "google_search_link": "https://www.google.com/search?q=Rainbow+City+Park+band+genre+summary+top+songs"
         }
     },
     {
@@ -1013,9 +770,9 @@
         "latitude": "34.2406983",
         "longitude": "-119.1767442",
         "description": {
-            "event_type": "comedy",
+            "event_type": "other",
             "band": {
-                "summary": "Corey B is a comedian, radio personality, and content creator known for his work in radio for over ten years, with a significant following on TikTok and Facebook. He has also ventured into releasing his own BBQ sauce and has equity in a New York restaurant and cookie company.",
+                "summary": "Corey B is a comedian, radio personality, and content creator known for his work in New York and over ten years in radio. He gained significant popularity on TikTok and Facebook, amassing over 23 million followers. Corey B has also ventured into releasing his own BBQ sauce and has equity in a New York restaurant and cookie company. He co-hosts a podcast and is actively performing stand-up comedy.",
                 "genre": [],
                 "top_songs": []
             },
@@ -1038,14 +795,16 @@
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "Laura Joy is an artist with several releases, including 'Yellow Cardinal' in 2021, featuring songs like 'Magic Right Now' and 'Remember'. Some of her live recordings are available, such as 'The Darkness Knew It Not (Live)' from 2019. She is often categorized with artists like The Withholders and Moxie Starpark.",
+                "summary": "Laura Joy Gold is a singer-songwriter influenced by the artists of the 1960s and 1970s, crafting thoughtful and melodic songs. She began writing songs at the age of 11 and continues to perform many of her older brother's songs, who was also a songwriter. Laura Joy has been active in the music scene since moving to California in 2015.",
                 "genre": [
+                    "folk",
                     "pop"
                 ],
                 "top_songs": [
-                    "The Darkness Knew It Not (Live)",
                     "Magic Right Now",
-                    "Remember"
+                    "Remember",
+                    "Heart",
+                    "The Darkness Knew It Not (Live)"
                 ]
             },
             "google_search_link": "https://www.google.com/search?q=Laura+Joy+band+summary+genre+top+songs"
@@ -1067,54 +826,16 @@
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "Hot 45 is an American R&B group based in San Luis Obispo, CA, fronted by singer-songwriter Reese Galido. The band is known for their dance grooves and love songs, and is composed of musicians from the Central Coast.",
+                "summary": "Hot 45 is an American R&B group based in San Luis Obispo, CA, formed by singer-songwriter Reese Galido. The band is known for their dance grooves and love songs, and they've released singles such as 'Can't Stop' and 'Sleepin'.'",
                 "genre": [
                     "rnb"
                 ],
                 "top_songs": [
                     "Can't Stop",
-                    "Sleepin' (Radio Edit)",
                     "Sleepin'"
                 ]
             },
             "google_search_link": "https://www.google.com/search?q=Hot+45+band+genre+summary+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-24",
-        "band": "Pedro Fern\u00e1ndez",
-        "city": "Santa Barbara",
-        "time_of_show": "20:00:00",
-        "venue_name": "Arlington Theatre",
-        "event_name": "Pedro Fern\u00e1ndez @ Arlington Theatre",
-        "ticket_price": "",
-        "street_address": "1317 State St",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "34.4245969",
-        "longitude": "-119.7064752",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "Pedro Fern\u00e1ndez, born Jos\u00e9 Mart\u00edn Cuevas Cobos on September 28, 1969, is a Mexican singer, actor, songwriter, and television host. He began his international career at the age of seven as Pedrito Fern\u00e1ndez. Over his career, he has recorded over 39 albums, acted in numerous soap operas and films, and won multiple Latin Grammy Awards. His music is known for blending traditional Mexican music with contemporary elements, and his songs often depict themes of love, heartbreak, and daily life.",
-                "genre": [
-                    "latin",
-                    "pop"
-                ],
-                "top_songs": [
-                    "Amarte A La Antigua",
-                    "Mi Forma De Sentir",
-                    "El Aventurero",
-                    "Debajo Del Sombrero",
-                    "Ya Lo Se Que Tu Te Vas",
-                    "Yo No Fui",
-                    "Toquen Mariachis Canten (En Vivo)",
-                    "B\u00e9same Morenita",
-                    "Qui\u00e9n",
-                    "El Sinaloense"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=Pedro+Fern\u00e1ndez+genre+summary+top+songs"
         }
     },
     {
@@ -1133,7 +854,7 @@
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "Danae Hays is an American comedian, musician, and social media influencer known for her witty humor and storytelling. She gained popularity on TikTok for her comedic sketches and relatable content, often featuring her wife. Hays also creates \"comedy country\" music, blending humor with a 90s country sound, and has released singles like \"Rode Hard\" and \"All It Takes.\" She has embarked on comedy tours and appeared in movies.",
+                "summary": "Danae Hays is an American comedian, actress, and musician known for her comedy country music. Her songs often blend humor with a Southern twang, and she has released singles like 'Rode Hard' and 'All It Takes (Is A Woman)'. Hays has gained significant popularity on TikTok and other social media platforms, with a large following and numerous views. She has also embarked on comedy tours and is working on releasing more music, with a style that straddles the line between legitimate country music and satire.",
                 "genre": [
                     "country"
                 ],
@@ -1146,44 +867,6 @@
                 ]
             },
             "google_search_link": "https://www.google.com/search?q=Danae+Hays+music+genre"
-        }
-    },
-    {
-        "date_of_show": "2025-10-24",
-        "band": "Flamingosis",
-        "city": "Santa Barbara",
-        "time_of_show": "21:00:00",
-        "venue_name": "EOS Lounge",
-        "event_name": "Flamingosis @ EOS Lounge",
-        "ticket_price": "",
-        "street_address": "500 Anacapa St",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "34.4181573",
-        "longitude": "-119.6944892",
-        "description": {
-            "event_type": "dj",
-            "band": {
-                "summary": "Flamingosis, the moniker of Aaron Velasquez, is a New Jersey-based electronic music producer, beatboxer, and DJ. The name originates from a freestyle frisbee move invented by his father, a five-time world champion. Velasquez blends old-school soul, funk, and DIY electronic elements, drawing inspiration from beat scene pioneers like J Dilla and a deep love for vintage funk and disco to create fresh takes on classic styles. He has garnered significant streams and acclaim from publications like Pitchfork and MTV, and has collaborated with and performed alongside numerous established artists and festivals.",
-                "genre": [
-                    "electronic",
-                    "funk",
-                    "hiphop"
-                ],
-                "top_songs": [
-                    "Believe in Me",
-                    "Groovin'",
-                    "Feel Yourself",
-                    "Football Head",
-                    "Down for the Fifth Time",
-                    "Flight of the Flamingo",
-                    "Sunset Park",
-                    "Finesse (Hey Baby)",
-                    "Wild Summer",
-                    "Next to You"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=Flamingosis+band+information"
         }
     },
     {
@@ -1202,15 +885,17 @@
         "description": {
             "event_type": "tribute",
             "band": {
-                "summary": "22 & good 4 u is a dance party event that plays music from Taylor Swift and Olivia Rodrigo. It is described as a tribute event for fans of both artists. The event aims to provide a space for fans to dance and enjoy music from these two popular artists.",
+                "summary": "The event '22 & good 4 u' appears to be a tribute event celebrating Taylor Swift's 'TS12' album, potentially titled 'The Life of a Showgirl'. The name 'good 4 u' refers to a popular song by Olivia Rodrigo, which itself has been noted for its influences from artists like Paramore. The '22' likely references Taylor Swift's song of the same name. Therefore, this event is a mashup tribute that combines elements inspired by both Taylor Swift and Olivia Rodrigo, with a focus on themes of performance and celebration.",
                 "genre": [
                     "pop",
-                    "rock",
-                    "punk"
+                    "rock"
                 ],
-                "top_songs": []
+                "top_songs": [
+                    "good 4 u",
+                    "22"
+                ]
             },
-            "google_search_link": "https://www.google.com/search?q=22+%26+good+4+u+band+genre+summary+top+songs"
+            "google_search_link": "https://www.google.com/search?q=22+%26+good+4+u+band+summary+genre+top+songs"
         }
     },
     {
@@ -1229,18 +914,15 @@
         "description": {
             "event_type": "dj",
             "band": {
-                "summary": "DJ Cali Los is a versatile DJ from Southern California with over 17 years of experience. He mixes a wide range of genres including Hip Hop, Funk, R&B, Rock, House, Salsa, and Latin Pop. He has performed at various venues and alongside notable artists like Nappy Roots, Talib Kweli, and Snoop Dogg.",
+                "summary": "DJ Cali Los is a DJ known for mixing hip-hop, R&B, and mash-ups.",
                 "genre": [
                     "hiphop",
-                    "funk",
                     "rnb",
-                    "rock",
-                    "electronic",
-                    "latin"
+                    "electronic"
                 ],
                 "top_songs": []
             },
-            "google_search_link": "https://www.google.com/search?q=DJ+Cali+Los+music+style"
+            "google_search_link": "https://www.google.com/search?q=DJ+Cali+Los+genre+summary+top+songs"
         }
     },
     {
@@ -1259,14 +941,14 @@
         "description": {
             "event_type": "dj",
             "band": {
-                "summary": "DJ J Scratch, whose real name is George Spivey, is an American hip hop DJ and producer from Brooklyn, New York. He is known for his skillful turntable techniques and has produced numerous gold and platinum-certified albums. His unique style blends rock influence, hip hop, and mainstream crossover sounds, creating a dynamic and sought-after DJ experience. He was inspired by artists like Marvin Gaye, Prince, and DJ pioneers like DJ Jazzy Jeff and DJ Alladin.",
+                "summary": "DJ J Scratch, also known as George Spivey, is an American hip-hop DJ and producer from Brooklyn, New York. He is renowned for his turntablism skills, having won multiple DJ championships and awards, including \"Turntablist of the Year\" at the Global Spin Awards for three consecutive years. He gained prominence as the official DJ for the hip-hop group EPMD in 1989 and has since produced for numerous acclaimed artists such as Busta Rhymes, LL Cool J, and The Roots. DJ J Scratch's style is characterized by an eclectic mix of rock influence, hip hop, and mainstream crossover, creating a dynamic and smooth sound.",
                 "genre": [
                     "hiphop",
                     "electronic"
                 ],
                 "top_songs": []
             },
-            "google_search_link": "https://www.google.com/search?q=DJ+J+SCRATCH+Oxnard+Copper+Blues+Rock+Pub+%26+Kitchen+event"
+            "google_search_link": "https://www.google.com/search?q=DJ+J+SCRATCH+Oxnard+Copper+Blues+Rock+Pub+%26+Kitchen"
         }
     },
     {
@@ -1285,18 +967,22 @@
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "Easton Everett is an American singer-songwriter and multi-instrumentalist known for his guitar-woven music that spans multiple genres including folk, blues, jazz, rock, and world beat. His music is described as curious, thoughtful, deliberate, and surprising, with a unique style that moves away from the mainstream. He leads several projects, including The Easton Everett Band and the jazz group Flavor Packet, and has collaborated with notable musicians such as Phil Jones (drummer for Tom Petty) and Elliott Easton (guitarist for The Cars).",
+                "summary": "Easton Everett is an American music artist known for his guitar-woven music that spans multiple genres including folk, rock, jazz, and world beat. His music is described as curious, thoughtful, deliberate, easy to listen to, and surprising, often featuring intricate fingerstyle guitar playing and evocative vocals with poetic lyrics. He leads multiple projects and performs frequently in various settings.",
                 "genre": [
                     "folk",
-                    "blues",
-                    "jazz",
                     "rock",
-                    "country",
+                    "jazz",
                     "world"
                 ],
-                "top_songs": []
+                "top_songs": [
+                    "Blacksmith Briar",
+                    "Only for a Minute",
+                    "Flint and Pitch",
+                    "Bells Toll",
+                    "Rattle in the Wind"
+                ]
             },
-            "google_search_link": "https://www.google.com/search?q=Easton+Everett+band+summary+genre+top+songs"
+            "google_search_link": "https://www.google.com/search?q=Easton+Everett+genre+summary+top+songs"
         }
     },
     {
@@ -1315,17 +1001,19 @@
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "Jeff Dale is an award-winning songwriter and performer born and raised on the south side of Chicago. He is known for his original blues music, and has been performing for over 40 years. Dale has played internationally and received a Living Legend Blues Award from the City of Los Angeles. He was exposed to Chicago blues at a young age and has performed with legendary blues musicians such as Muddy Waters, B.B. King, and Etta James. Dale's music often incorporates elements of jazz, West African rhythms, and R&B, along with his signature sense of humor.",
+                "summary": "Jeff Dale is an award-winning songwriter and performer born and raised on the south side of Chicago. He has over 40 years of experience performing and writing original roots music. Dale's music is deeply rooted in Chicago blues, drawing inspiration from legendary artists like Muddy Waters and Howlin' Wolf. He has accompanied notable blues musicians such as Lowell Fulson, Pee Wee Crayton, and Etta James. Dale has released several albums, including 'Blues From The Southside Of My Soul,' 'Blues Room,' and 'Blues Power,' which have received international acclaim. His music often blends blues with elements of jazz, R&B, and West African rhythms, delivered with a signature sense of humor.",
                 "genre": [
                     "blues"
                 ],
                 "top_songs": [
-                    "I Ain't Mad (40th Anniversary Edition)",
-                    "That's What She Said (40th Anniversary Edition)",
-                    "What It Is (40th Anniversary Edition)"
+                    "I Ain't Mad",
+                    "What It Is",
+                    "Heat Seeking Missile",
+                    "When I Start Drinkin'",
+                    "Seconds Before It Starts To Rain"
                 ]
             },
-            "google_search_link": "https://www.google.com/search?q=Jeff+Dale+blues+genre+band+summary+top+songs"
+            "google_search_link": "https://www.google.com/search?q=Jeff+Dale+music+summary+genre+top+songs"
         }
     },
     {
@@ -1344,20 +1032,22 @@
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "E-40, born Earl Stevens, is a highly prolific and influential rapper from Vallejo, California, known for his significant contributions to West Coast hip-hop and the Bay Area hyphy scene. He is the founder of Sic Wid It Records and has released over 26 solo studio albums, along with collaborative projects, including works with the supergroup Mount Westmore. E-40 is recognized for his distinct voice, choppy flow, and extensive vocabulary.",
+                "summary": "E-40, born Earl Tywone Stevens on November 15, 1967, is an American rapper, entrepreneur, and actor from Vallejo, California. He is a founding member of the rap group The Click and the founder of Sick Wid It Records. Known for his unique slang and distinctive vocal style, E-40 has released numerous studio albums and collaborated with a wide range of artists. He gained wider recognition with his 1995 solo album \"In a Major Way\" and became even more popular in the mid-2000s with hits like \"Tell Me When to Go.\"",
                 "genre": [
                     "hiphop"
                 ],
                 "top_songs": [
                     "U and Dat",
                     "Captain Save a Hoe",
+                    "Tell Me When to Go",
+                    "Choices (Yup)",
                     "Sprinkle Me",
                     "Rapper's Ball",
-                    "Tell Me When to Go",
-                    "Choices (Yup)"
+                    "Dusted 'N' Disgusted",
+                    "1-Luv"
                 ]
             },
-            "google_search_link": "https://www.google.com/search?q=E-40+summary+genre+top+songs"
+            "google_search_link": "https://www.google.com/search?q=E-40+genre+summary+top+songs"
         }
     },
     {
@@ -1376,22 +1066,14 @@
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "Dave Tate is a singer-songwriter whose music blends Folk, Americana, and Pop-Rock influences, often compared to Paul Simon and Jeff Buckley. He is known for his soulful voice, poetic lyrics, and finger-style guitar playing. Tate has released nine studio albums and tours extensively, performing both solo and with his band, Many Miles. His music has been featured in commercials and has received critical acclaim for its relatable and impactful style. He is also a multi-instrumentalist and producer who records at his own Red Earth Recording Studios.",
+                "summary": "Dave Tate is a singer-songwriter whose music blends folk, Americana, and pop-rock influences. Often compared to Paul Simon and Jeff Buckley, his music features soulful vocals, poetic lyrics, and finger-style guitar. He has released nine studio albums and performs over 150 shows annually across the Western U.S. and Europe. Tate's music has been featured in an on-flight commercial for American Airlines and has received praise from various publications. He currently resides on the Central Coast of California.",
                 "genre": [
                     "folk",
-                    "country",
-                    "rock",
-                    "pop"
+                    "country"
                 ],
-                "top_songs": [
-                    "Brave Enough (feat. Dave Tate)",
-                    "Maybe Love (Acoustic) [feat. Dave Tate]",
-                    "Beautiful World (feat. Dave Tate)",
-                    "This Moment (feat. Hilary Watson)",
-                    "This Moment (Live Acoustic)"
-                ]
+                "top_songs": []
             },
-            "google_search_link": "https://www.google.com/search?q=Dave+Tate+band+summary+genre+top+songs"
+            "google_search_link": "https://www.google.com/search?q=Dave+Tate+genre+summary+top+songs"
         }
     },
     {
@@ -1410,21 +1092,28 @@
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "David Franz is a California-based musician, producer, educator, and entrepreneur. His music and content aim to encourage deeper reflection on universal connection and purpose. He has released multiple albums, including 'To The Unknown' and 'Through The Illusion,' and is known for his work as a founder of the Underground Sun and Underground Sol record labels. His musical foundation is in soul, blues, and desert rock, with themes of self-examination, personal growth, and overcoming illusions of separateness [4, 5, 6].",
+                "summary": "David Franz is a California-based musician, producer, educator, and entrepreneur who creates music with a mission to encourage deeper thought and feeling about our connection to the universe. He founded the record label Underground Sun, which features a wide-ranging catalog of genres with a foundation in soul music, including R&B, rock, hip-hop, blues, folk, world, electronic, and jazz. His music has been featured in TV shows, movies, and campaigns worldwide. He also co-founded Underground Sol, an electronic music label.",
                 "genre": [
                     "rnb",
+                    "rock",
+                    "hiphop",
                     "blues",
-                    "rock"
+                    "folk",
+                    "world",
+                    "electronic"
                 ],
                 "top_songs": [
-                    "For My Own Health",
+                    "Truth In Disguise",
+                    "Less Resistance",
                     "Floating",
-                    "Baby Please",
-                    "Trouble With The Truth",
-                    "Born To Love You"
+                    "Born To Love You",
+                    "I'm Here",
+                    "A Better Man",
+                    "For My Own Health",
+                    "Baby Please"
                 ]
             },
-            "google_search_link": "https://www.google.com/search?q=David+Franz+band+genre+summary+top+songs"
+            "google_search_link": "https://www.google.com/search?q=David+Franz+music+genre"
         }
     },
     {
@@ -1443,11 +1132,17 @@
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "Peter Smith is a New York City-based guitarist and pianist known for his work in jazz, Afro-Cuban, and Brazilian styles. He has performed internationally and with various notable artists, including Norah Jones and Michael Feinstein. Smith has released several albums, including \"Santos 4\" with Santos4tet and \"Smitty Straightens Out.\"",
+                "summary": "Peter Smith is a jazz pianist, composer, arranger, recording artist, and singer based in Los Angeles, California. He is known for his work in hard bop, with a style often compared to Art Blakey and the Jazz Messengers and Horace Silver.",
                 "genre": [
                     "jazz"
                 ],
-                "top_songs": []
+                "top_songs": [
+                    "The Myth",
+                    "Astronomical",
+                    "Element",
+                    "Odd Sun",
+                    "What Was Said"
+                ]
             },
             "google_search_link": "https://www.google.com/search?q=Peter+Smith+Music+genre+summary+top+songs"
         }
@@ -1468,14 +1163,12 @@
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "The Black Market Trust is an American pop/vocal jazz band from Los Angeles that blends the styles of legendary American crooners and vocal groups with the fiery energy of gypsy jazz guitarist Django Reinhardt. They are known for their high-energy performances, impeccable musicianship, and ability to combine vintage jazz, swing, and pop with a contemporary flair. The band features intricate vocal harmonies and draws heavily from the Great American Songbook, paying tribute to artists like Sinatra, the Beach Boys, and the Beatles, while also infusing their music with influences from Western Swing and gypsy jazz.",
+                "summary": "The Black Market Trust is an American pop/vocal jazz group from Los Angeles that blends the sounds of legendary American crooners and vocal groups with the energy of gypsy jazz guitarist Django Reinhardt. Consisting of five world-class musicians, they combine vintage jazz, swing, and gypsy jazz with a contemporary flair, creating a sound that is both familiar and fresh. Their music often draws from the Great American Songbook and features intricate vocal harmonies. The band's debut album, released in 2012, is considered a milestone in gypsy jazz, and their sophomore album \"II\" featured a Top Ten hit on the Adult Contemporary charts.",
                 "genre": [
                     "jazz",
                     "pop"
                 ],
-                "top_songs": [
-                    "Route 66"
-                ]
+                "top_songs": []
             },
             "google_search_link": "https://www.google.com/search?q=The+Black+Market+Trust+genre+summary+top+songs"
         }
@@ -1496,13 +1189,12 @@
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "The Bones of J.R. Jones is the musical project of Jonathon Robert Linaberry, a one-man band from central New York. He fuses a blend of soul, blues, roots, folk, and Americana, often characterized by a moody, introspective, and emotionally resonant sound. Linaberry plays all instruments himself, creating a surprisingly full sound both on record and live. He began his musical journey in hardcore and punk bands before exploring gospel, folk, and blues influences. His music has been featured in films and TV shows.",
+                "summary": "The Bones of J.R. Jones is the musical project of Jonathon Linaberry, a singer, guitarist, and songwriter. His music blends blues, folk, rock, and Americana, often described as \"haunting stomp blues tempered with a touch of honey.\" Linaberry's style is characterized by raw energy, emotional depth, and a focus on storytelling, drawing influences from traditional bluesmen, folk artists, and punk rock.",
                 "genre": [
                     "blues",
                     "folk",
-                    "country",
-                    "rnb",
-                    "rock"
+                    "rock",
+                    "country"
                 ],
                 "top_songs": [
                     "The Heat",
@@ -1517,7 +1209,7 @@
                     "Drive"
                 ]
             },
-            "google_search_link": "https://www.google.com/search?q=The+Bones+of+J.R.+Jones+band+summary+genre"
+            "google_search_link": "https://www.google.com/search?q=The+Bones+of+J.R.+Jones+genre+summary+top+songs"
         }
     },
     {
@@ -1536,13 +1228,28 @@
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "Windows is a band known for their funk sound, often playing energetic live sets. Their music is characterized by infectious grooves and a strong rhythm section, drawing influences from classic funk and soul.",
+                "summary": "Windows is a Los Angeles-based band founded in 2018 by Matteo Arias, whose music blends old California country, classic surf rock, and West Coast psychedelia. They have released several singles and an EP, and announced participation in Austin Psych Fest 2025.",
                 "genre": [
-                    "funk"
+                    "country",
+                    "rock",
+                    "punk",
+                    "pop",
+                    "electronic"
                 ],
-                "top_songs": []
+                "top_songs": [
+                    "Light in the Dark",
+                    "That's When",
+                    "Upstairs",
+                    "Up All Night",
+                    "High Sierra Lows",
+                    "S. R. 89",
+                    "The Ballad Of Whiskey Pete",
+                    "Long-While",
+                    "Wanted to Know",
+                    "Raindrops"
+                ]
             },
-            "google_search_link": "https://www.google.com/search?q=Windows+band+funk"
+            "google_search_link": "https://www.google.com/search?q=Windows+band+genre+summary+top+songs"
         }
     },
     {
@@ -1561,16 +1268,14 @@
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "Emily V is a Los Angeles-based rock and roll violinist known for her unique and energetic style, often compared to guitarists like Jimmy Page and Jimi Hendrix. Classically trained, she incorporates elements of rock, blues, and world percussion into her performances. She has collaborated with numerous established artists and bands, toured the USA, and performs both solo and with other musicians, creating a dramatic and electrifying live experience.",
+                "summary": "Emily V is an LA-based rock 'n' roll violinist known for her unique, eccentric, and exciting style, often compared to guitarists like Jimmy Page and Jimi Hendrix. She performs as a solo act, looping her instruments to create a dramatic rock show. Emily has toured extensively and performed with numerous notable musicians across various genres. Her musical background includes classical training, with studies in music theory, composition, and world percussion.",
                 "genre": [
                     "rock",
-                    "blues",
-                    "classical",
-                    "world"
+                    "metal"
                 ],
                 "top_songs": []
             },
-            "google_search_link": "https://www.google.com/search?q=Emily+V+band+summary+genre+top+songs"
+            "google_search_link": "https://www.google.com/search?q=Emily+V+band+genre+summary+top+songs"
         }
     },
     {
@@ -1589,13 +1294,13 @@
         "description": {
             "event_type": "dj",
             "band": {
-                "summary": "Sploinky Rave is a touring event that delivers electrifying DJ sets with a focus on bass music, immersive lights, and high energy. They aim to provide an unforgettable experience with \"face-melting music\" at parties across the US.",
+                "summary": "Sploinky Rave is a nationwide event series that delivers electrifying DJ sets with a focus on electronic and bass music. It aims to create an immersive experience with strong sound and visuals, appealing to a wide audience. The brand is associated with Slacker Media Group, which also curates other music and lifestyle events.",
                 "genre": [
                     "electronic"
                 ],
                 "top_songs": []
             },
-            "google_search_link": "https://www.google.com/search?q=Sploinky+Rave+band+genre+summary+top+songs"
+            "google_search_link": "https://www.google.com/search?q=Sploinky+Rave+DJ+sets+electronic+music"
         }
     },
     {
@@ -1614,7 +1319,7 @@
         "description": {
             "event_type": "dj",
             "band": {
-                "summary": "DJ Solo is an artist associated with Chicago Juke music and Footwork genres, with releases dating back to 2007. His music often features electronic beats and can be found on platforms like Apple Music and Beatport.",
+                "summary": "DJ Solo is an artist known for electronic and dance music, particularly within the Chicago Footwork and Juke genres. He has released several albums and singles, with notable releases including 'Gas Pack' (2025), 'Smoke the Earth' (2023), and 'Project BustDown 5' (2023). His music often features energetic beats and is popular in club settings.",
                 "genre": [
                     "electronic"
                 ],
@@ -1623,10 +1328,13 @@
                     "Break Yo Back",
                     "Drop N Shake",
                     "Pop That Big Ole Thang",
-                    "Girl What That Booty Do"
+                    "Girl What That Booty Do",
+                    "Booty Drop",
+                    "Booty Time",
+                    "What Have You Done"
                 ]
             },
-            "google_search_link": "https://www.google.com/search?q=DJ+Solo+genre+summary+top+songs"
+            "google_search_link": "https://www.google.com/search?q=DJ+Solo+Oxnard+Copper+Blues+Rock+Pub+%26+Kitchen+October+25+2025"
         }
     },
     {
@@ -1645,17 +1353,11 @@
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "Talie Copen is a solo artist known for her original compositions and performances that often blend folk, Americana, country, and blues influences. She also performs with various groups, including Talie & James, Talie's Trailer Park Revival, and Talie & The Troublemakers, showcasing a diverse range of styles from 80s rock and 90s alternative to contemporary hits. Her music is characterized by heartfelt storytelling and soulful vocals, often accompanied by skillful instrumentation.",
-                "genre": [
-                    "folk",
-                    "country",
-                    "blues",
-                    "rock",
-                    "pop"
-                ],
+                "summary": "Talie Copen is a solo artist performing at The Clubhouse Grill at Sea Pines, located in Baywood-Los Osos, CA. Information regarding her genre, specific top songs, or a detailed band summary is not readily available through web searches.",
+                "genre": [],
                 "top_songs": []
             },
-            "google_search_link": "https://www.google.com/search?q=Talie+Copen+band+summary+genre+top+songs"
+            "google_search_link": "https://www.google.com/search?q=Talie+Copen+genre+summary+top+songs"
         }
     },
     {
@@ -1674,25 +1376,14 @@
         "description": {
             "event_type": "dj",
             "band": {
-                "summary": "DJ Scratch, born George Spivey, is a Grammy-nominated DJ and producer from Brooklyn, New York. He is known for his exceptional turntable skills and for crafting beats for artists such as Busta Rhymes, LL Cool J, and EPMD. He has won multiple DJ championship titles and was a protege of Jam Master Jay.",
+                "summary": "DJ Scratch is a highly acclaimed turntablist and producer, widely recognized for his innovative scratching techniques and his work within the hip-hop genre. He is known for his technical skill and contributions to the art of turntablism, often collaborating with various artists and producing beats. He has been noted for his sampling and beat-making abilities, flipping old sounds into new creations.",
                 "genre": [
                     "hiphop",
                     "electronic"
                 ],
-                "top_songs": [
-                    "The Unforgiven",
-                    "Respect The Architect",
-                    "Team Storch (feat. DJ Scratch)",
-                    "Kaiju",
-                    "Saturday Afternoon Kung Fu Theater, Pt. 1",
-                    "Never Love Again",
-                    "Fate of the World",
-                    "Gettin Up (feat. Busta Rhymes) (DJ Scratch Remix)",
-                    "Pugilism",
-                    "Fisherman"
-                ]
+                "top_songs": []
             },
-            "google_search_link": "https://www.google.com/search?q=DJ+Scratch+biography+genre+top+songs"
+            "google_search_link": "https://www.google.com/search?q=DJ+Scratch+genre+summary+top+songs"
         }
     },
     {
@@ -1711,20 +1402,27 @@
         "description": {
             "event_type": "tribute",
             "band": {
-                "summary": "Belinda Davids is a South African singer known for her tribute show to Whitney Houston, 'The Greatest Love of All'. She possesses a four-octave vocal range and has performed internationally, appearing on shows like 'Britain's Got Talent' and 'Showtime at the Apollo'. Davids began her professional career at age 14 and cites R&B artists like Aretha Franklin and Anita Baker, as well as Whitney Houston, as major inspirations.",
+                "summary": "Belinda Davids is a South African singer known for her tribute show to Whitney Houston, 'The Greatest Love of All'. She began performing professionally at age 14 and possesses a four-octave vocal range. Davids was inspired by artists like Aretha Franklin, Anita Baker, and particularly Whitney Houston, whose music she honors in her performances. Her rendition of Houston's songs has earned her international recognition, including an appearance on \"Showtime at the Apollo\".",
                 "genre": [
-                    "pop",
-                    "rnb"
+                    "rnb",
+                    "gospel"
                 ],
                 "top_songs": [
                     "I Will Always Love You",
                     "I Wanna Dance With Somebody",
                     "How Will I Know",
+                    "One Moment in Time",
+                    "I Have Nothing",
+                    "Run to You",
+                    "Didn't We Almost Have It All",
                     "Greatest Love of All",
-                    "One Moment in Time"
+                    "I'm Every Woman",
+                    "Queen of the Night",
+                    "Exhale (Shoop Shoop)",
+                    "Million Dollar Bill"
                 ]
             },
-            "google_search_link": "https://www.google.com/search?q=Belinda+Davids+%40+Clark+Center+For+the+Performing+Arts"
+            "google_search_link": "https://www.google.com/search?q=Belinda+Davids+tribute+to+Whitney+Houston+genre"
         }
     },
     {
@@ -1743,14 +1441,42 @@
         "description": {
             "event_type": "tribute",
             "band": {
-                "summary": "Pink Talking Fish is a hybrid tribute act that performs music from Pink Floyd, The Talking Heads, and Phish, creating a unique experience for fans of these bands. They are known for their genre-bending approach and challenging musical expectations within the rock and progressive rock genres.",
+                "summary": "Pink Talking Fish is a hybrid tribute band that fuses the music of Pink Floyd, Talking Heads, and Phish. The band is known for creating unique live experiences by blending songs and compositional structures from these three iconic artists, often resulting in seamless segues and improvisational jams. They aim to celebrate the love of this music by presenting it in fresh and exciting ways, with no two shows ever being the same.",
                 "genre": [
                     "rock",
-                    "punk"
+                    "rock"
                 ],
                 "top_songs": []
             },
-            "google_search_link": "https://www.google.com/search?q=Pink+Talking+Fish+genre+summary+top+songs"
+            "google_search_link": "https://www.google.com/search?q=Pink+Talking+Fish+band+summary+genre+top+songs"
+        }
+    },
+    {
+        "date_of_show": "2025-10-27",
+        "band": "Derinkuyu",
+        "city": "Santa Barbara",
+        "time_of_show": "17:00:00",
+        "venue_name": "Soho Restaurant & Music Club",
+        "event_name": "Derinkuyu @ Soho Restaurant & Music Club",
+        "ticket_price": "",
+        "street_address": "1221 State St #205",
+        "region": "CA",
+        "country": "United States",
+        "latitude": "34.423621",
+        "longitude": "-119.70549199999999",
+        "description": {
+            "event_type": "original",
+            "band": {
+                "summary": "Derinkuyu is a Santa Barbara-based band led by John Ajao, featuring Mr. Beenie and Sister Alla. Their music is influenced by Afro-beat, Reggae, Dancehall, and Soul.",
+                "genre": [
+                    "african",
+                    "reggae",
+                    "funk",
+                    "rnb"
+                ],
+                "top_songs": []
+            },
+            "google_search_link": "https://www.google.com/search?q=Derinkuyu+band+summary+genre+top+songs"
         }
     }
 ]
