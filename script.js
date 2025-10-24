@@ -112,7 +112,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     // Handle form submission
-    form.addEventListener('submit', function(e) {
+    form.addEventListener('submit', async function(e) {
         e.preventDefault();
         
         if (validateEmail()) {
@@ -120,14 +120,47 @@ document.addEventListener('DOMContentLoaded', function() {
             errorMessage.textContent = '';
             emailInput.classList.remove('error');
             
-            // Show success message
-            successMessage.textContent = '✓ Thank you for signing up! Check your email for confirmation.';
-            
-            // Reset form after 3 seconds
-            setTimeout(function() {
-                form.reset();
-                successMessage.textContent = '';
-            }, 3000);
+            try {
+                // Fetch client IP address
+                const ipResponse = await fetch('https://api.ipify.org?format=json');
+                const ipData = await ipResponse.json();
+                const clientIp = ipData.ip;
+
+                const email = emailInput.value.trim();
+
+                // Prepare data as JSON
+                const payload = {
+                    email: email,
+                    clientIp: clientIp
+                };
+
+                const deploymentId = 'AKfycbxs5CqsM3fOVYiqIZUmp41D4v6UaNoMSEEQ6AlfF_wrl7vFprjF_LeHGsoDe6aM7UA_9g';
+                const url = `https://script.google.com/macros/s/${deploymentId}/exec?action=addRecord`; // Apps Script endpoint
+
+                // Send data using fetch API
+                const response = await fetch(url, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(payload)
+                });
+                
+                const data = await response.json();
+
+                if (data.status === 'success') {
+                    successMessage.textContent = '✓ Thank you for signing up! Check your email for confirmation.';
+                    form.reset();
+                    setTimeout(() => successMessage.textContent = '', 3000);
+                } else {
+                    errorMessage.textContent = data.message || 'An error occurred. Please try again.';
+                    emailInput.classList.add('error');
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                errorMessage.textContent = 'Network error. Please try again later.';
+                emailInput.classList.add('error');
+            }
         }
     });
 
