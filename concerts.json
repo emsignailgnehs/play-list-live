@@ -1,881 +1,108 @@
 [
     {
-        "date_of_show": "2025-10-21",
-        "band": "Taco Tuesday",
-        "city": "Oxnard",
-        "time_of_show": "15:00:00",
-        "venue_name": "Oxnard Copper Blues Rock Pub & Kitchen",
-        "event_name": "Taco Tuesday @ Oxnard Copper Blues Rock Pub & Kitchen",
-        "ticket_price": "",
-        "street_address": "581 Collections Blvd",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "34.240229",
-        "longitude": "-119.176274",
-        "description": {
-            "event_type": "local",
-            "band": {
-                "summary": "",
-                "genre": [],
-                "top_songs": []
-            },
-            "google_search_link": "https://www.google.com/search?q=Taco+Tuesday+Oxnard+Copper+Blues+Rock+Pub+%26+Kitchen+event+type"
-        }
-    },
-    {
-        "date_of_show": "2025-10-21",
-        "band": "Murray Hidary",
-        "city": "Oxnard",
-        "time_of_show": "18:00:00",
-        "venue_name": "Oxnard Beach Park",
-        "event_name": "Murray Hidary @ Oxnard Beach Park",
-        "ticket_price": "",
-        "street_address": "1601 Harbor Blvd",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "34.1825073",
-        "longitude": "-119.2367115",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "Murray Hidary is an American composer, fine art photographer, and entrepreneur, born in 1971. He studied Music and Composition at New York University and has been influenced by minimalist composers such as Philip Glass, Terry Riley, and Steve Reich, as well as Baroque-era counterpoint. Hidary's music often incorporates mathematical processes and layering techniques to create rich textures. He is also known for his \"MindTravel\" project, an immersive musical experience that combines live piano compositions with visual art installations, often performed in unique settings. Hidary also has a background in technology, having co-founded EarthWeb, which later became Dice Inc., and has been involved in several other tech ventures. He is a board member for various organizations, including ETHEL, a contemporary string quartet.",
-                "genre": [
-                    "classical",
-                    "experimental"
-                ],
-                "top_songs": []
-            },
-            "google_search_link": "https://www.google.com/search?q=Murray+Hidary+music+genre"
-        }
-    },
-    {
-        "date_of_show": "2025-10-21",
-        "band": "Young Tuck",
-        "city": "Santa Barbara",
+        "date_of_show": "2025-11-21",
+        "band": "Pete Pidgeon & Arcoda",
+        "city": "San Luis Obispo",
         "time_of_show": "18:30:00",
-        "venue_name": "Soho Restaurant & Music Club",
-        "event_name": "Young Tuck @ Soho Restaurant & Music Club",
+        "venue_name": "SLO Brew Rock",
+        "event_name": "Pete Pidgeon & Arcoda @ SLO Brew Rock",
         "ticket_price": "",
-        "street_address": "1221 State St #205",
+        "street_address": "855 Aerovista Ln",
         "region": "CA",
         "country": "United States",
-        "latitude": "34.423621",
-        "longitude": "-119.70549199999999",
+        "latitude": "35.24168",
+        "longitude": "-120.64115900000002",
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "Young Tuck is an artist who has curated and produced collaborative albums featuring numerous artists and producers worldwide. He is currently working on \"Tuck + Friends 3,\" with a focus on highlighting emerging local talent from Westmont College and beyond. The \"Tuck and Friends Festival\" aims to provide an immersive night of original music and high-energy performances, fostering connections between artists and the audience.",
-                "genre": [
-                    "hiphop"
-                ],
-                "top_songs": [
-                    "Shoulda Been There (feat. Jaydes)",
-                    "You Know Why",
-                    "Puzzle Pieces",
-                    "Crash My Car",
-                    "Pink"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=Young+Tuck+genre+summary+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-21",
-        "band": "Pony Bradshaw",
-        "city": "San Luis Obispo",
-        "time_of_show": "20:00:00",
-        "venue_name": "SLO Brew",
-        "event_name": "Pony Bradshaw @ SLO Brew",
-        "ticket_price": "",
-        "street_address": "736 Higuera St",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "35.279185",
-        "longitude": "-120.663549",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "Pony Bradshaw, born James Bradshaw, is a singer-songwriter from Georgia whose music is often described as 'mountain music' or Americana. His songs are known for their storytelling, vivid imagery of Appalachia, and a sound that blends elements of country, rock, and blues, with influences from bluegrass and Southern Gothic. Bradshaw's music often explores themes of place, community, history, and the complexities of Southern life. He gained wider recognition with his album trilogy: 'Calico Jim,' 'North Georgia Rounder,' and 'Thus Spoke the Fool.'",
+                "summary": "Pete Pidgeon & Arcoda is a band whose music is described as 'progressive Americana songwriting' that combines poignant lyrics with complex harmonic structures, R&B undercurrents, and spiritual ambiance. Pete Pidgeon has collaborated with notable musicians and his work has received Grammy ballot appearances. The band's music spans various genres including Americana, R&B, soul, jazz, and funk.",
                 "genre": [
                     "country",
-                    "folk",
-                    "rock",
-                    "blues"
-                ],
-                "top_songs": [
-                    "Van Gogh",
-                    "Sawtoothed Jericho",
-                    "Foxfire Wine",
-                    "North Georgia Rounder",
-                    "10x10",
-                    "Bad Teeth",
-                    "Shame",
-                    "Go Down, Appalachia",
-                    "Jehovah",
-                    "Charlatan"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=Pony+Bradshaw+genre+summary+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-22",
-        "band": "Murray Hidary",
-        "city": "Pismo Beach",
-        "time_of_show": "18:00:00",
-        "venue_name": "Pismo Beach",
-        "event_name": "Murray Hidary @ Pismo Beach",
-        "ticket_price": "",
-        "street_address": "100 Pomeroy Ave",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "35.14016220000001",
-        "longitude": "-120.6418345",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "Murray Hidary is an American composer, photographer, and entrepreneur. He majored in Music and Composition at NYU and was influenced by minimalist composers like Philip Glass and composers of the Baroque period. His music often incorporates mathematical processes and layering techniques to create rich textures. He is also known for his \"Mind Travel\" experience, which combines live piano improvisation with visual art installations, aiming to provide a meditative and transformative experience.",
-                "genre": [
-                    "classical",
-                    "experimental"
-                ],
-                "top_songs": []
-            },
-            "google_search_link": "https://www.google.com/search?q=Murray+Hidary+music+style"
-        }
-    },
-    {
-        "date_of_show": "2025-10-22",
-        "band": "Big Richard",
-        "city": "Morro Bay",
-        "time_of_show": "19:00:00",
-        "venue_name": "The Siren",
-        "event_name": "Big Richard @ The Siren",
-        "ticket_price": "",
-        "street_address": "900 Main St",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "35.36703819999999",
-        "longitude": "-120.84976619999998",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "Big Richard is a four-woman neo-acoustic supergroup formed in 2021, known for blending bluegrass with elements of folk and Americana, and a touch of \"lady rage.\" The band members are Bonnie Sims (mandolin), Joy Adams (cello), Emma Rose (bass, guitar), and Eve Panning (fiddle). They are recognized for their virtuosic musicianship, rich vocal harmonies, and a stage presence that combines humor with heartfelt performances. Their music often features storytelling and pushes traditional genre boundaries, incorporating influences from classical, jazz, and rock.",
-                "genre": [
-                    "folk",
-                    "country"
-                ],
-                "top_songs": []
-            },
-            "google_search_link": "https://www.google.com/search?q=Big+Richard+band+summary+genre+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-22",
-        "band": "Pryor Baird",
-        "city": "Santa Barbara",
-        "time_of_show": "19:30:00",
-        "venue_name": "Soho Restaurant & Music Club",
-        "event_name": "Pryor Baird @ Soho Restaurant & Music Club",
-        "ticket_price": "",
-        "street_address": "1221 State St #205",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "34.423621",
-        "longitude": "-119.70549199999999",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "Pryor Baird is a country-rock artist from Orcutt, California, who gained national recognition as a finalist on NBC's \"The Voice.\" He learned to play guitar as a toddler and has evolved from a bluesy country solo artist into a soulful country-rock performer. Baird signed with Black River Entertainment in 2020 and has released several singles, including \"You Are To Me\" and \"Chasin' Shadows.\" He made his Grand Ole Opry debut in January 2024.",
-                "genre": [
-                    "country",
-                    "rock",
-                    "blues"
-                ],
-                "top_songs": [
-                    "Beauty In The Broken",
-                    "The One Left Behind",
-                    "Mighta Met A Girl",
-                    "You Are To Me",
-                    "Chasin' Shadows"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=Pryor+Baird+genre+music+style+summary+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-22",
-        "band": "The Hip Abduction",
-        "city": "Ventura",
-        "time_of_show": "20:00:00",
-        "venue_name": "Ventura Music Hall",
-        "event_name": "The Hip Abduction @ Ventura Music Hall",
-        "ticket_price": "",
-        "street_address": "1888 E Thompson Blvd",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "34.2745925",
-        "longitude": "-119.2730736",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "The Hip Abduction is an American reggae band formed in St. Petersburg, Florida, in 2010. Their music is a vibrant fusion of West African rhythms, reggae, dub, and indie pop, characterized by groovy and soulful sounds, uplifting lyrics, and catchy melodies. The band often incorporates instruments like the trumpet and banjo, and their sound has been described as \"wanderlust-inspired global pop.\"",
-                "genre": [
-                    "reggae",
-                    "world",
-                    "electronic",
-                    "pop",
-                    "rock",
-                    "folk"
-                ],
-                "top_songs": [
-                    "Pacific Coast Highway",
-                    "We'll Be Alright",
-                    "All I Need",
-                    "An Island Still Remains",
-                    "Float"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=The+Hip+Abduction+band+summary+genre+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-23",
-        "band": "Miyo",
-        "city": "Ojai",
-        "time_of_show": "18:00:00",
-        "venue_name": "Ojai Art Center",
-        "event_name": "Miyo @ Ojai Art Center",
-        "ticket_price": "",
-        "street_address": "113 S Montgomery St",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "34.4471147",
-        "longitude": "-119.2436535",
-        "description": {
-            "event_type": "other",
-            "band": {
-                "summary": "Miyo is an alternative hip-hop artist from Poland known for blending various genres with emotive lyrics that touch on personal growth and overcoming obstacles. They are recognized for intricate rhythms, unusual melodies, and insightful storytelling. Miyo's music often has a narrative feel that immerses the listener in their world. While one search result describes a Polish hip-hop artist named Miyo, another refers to a Japanese-American comedian and storyteller named Miyo who performs solo shows and co-produces a show featuring immigrant storytellers and comedians. It's unclear if these refer to the same artist.",
-                "genre": [
-                    "hiphop",
-                    "punk"
-                ],
-                "top_songs": [
-                    "Bedzie Lepiej",
-                    "Jungla",
-                    "Choker",
-                    "Caly Swiat",
-                    "Sniadanie w Massachusetts"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=Miyo+band+Ojai+Art+Center+event"
-        }
-    },
-    {
-        "date_of_show": "2025-10-23",
-        "band": "Champagne Sunday",
-        "city": "Ventura",
-        "time_of_show": "18:00:00",
-        "venue_name": "Margarita Villa",
-        "event_name": "Champagne Sunday @ Margarita Villa",
-        "ticket_price": "",
-        "street_address": "1567 Spinnaker Dr #200",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "34.2408095",
-        "longitude": "-119.2646476",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "Champagne Sunday is a DIY band formed in Ventura, CA in 2005 by Jared and Jessi Fredeen. They describe their music as \"Glam-Folk,\" a blend of various influences including musical theater, funk, R&B, grunge, and Americana. Their music is characterized by storytelling, emotional depth, and a positive, inspirational message. The duo has toured extensively and released numerous albums, with their tenth album released in May 2025.",
-                "genre": [
-                    "rock",
-                    "folk",
                     "rnb",
-                    "country"
-                ],
-                "top_songs": [
-                    "The Elephant",
-                    "Dressed Up",
-                    "I Like You",
-                    "10 Best Dressed"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=Champagne+Sunday+band+summary+genre+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-23",
-        "band": "THE LONG RUN - Experience The Eagles",
-        "city": "Arroyo Grande",
-        "time_of_show": "19:30:00",
-        "venue_name": "Clark Center For the Performing Arts",
-        "event_name": "THE LONG RUN - Experience The Eagles @ Clark Center For the Performing Arts",
-        "ticket_price": "",
-        "street_address": "487 Fair Oaks Ave",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "35.1163368",
-        "longitude": "-120.5818862",
-        "description": {
-            "event_type": "tribute",
-            "band": {
-                "summary": "The Long Run is a tribute band formed in 1999, dedicated to recreating the music of The Eagles with authentic harmonies and musical arrangements. They are known for their live performances that blend classic sounds with their own style, and are composed of professional musicians who respect The Eagles' legacy. They have been recognized as a premier Eagles tribute band.",
-                "genre": [
-                    "rock"
-                ],
-                "top_songs": []
-            },
-            "google_search_link": "https://www.google.com/search?q=THE+LONG+RUN+-+Experience+The+Eagles+band+summary+genre+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-23",
-        "band": "The Long Run",
-        "city": "Arroyo Grande",
-        "time_of_show": "19:30:00",
-        "venue_name": "Clark Center For the Performing Arts",
-        "event_name": "The Long Run @ Clark Center For the Performing Arts",
-        "ticket_price": "",
-        "street_address": "487 Fair Oaks Ave",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "35.1163368",
-        "longitude": "-120.5818862",
-        "description": {
-            "event_type": "tribute",
-            "band": {
-                "summary": "The Long Run is a tribute band that faithfully recreates the music of the Eagles. Formed in Colorado in 2009, and also with a lineup in Florida, they are known for their harmonies, guitar work, and energy, aiming to capture the 70s sound of the Eagles. They have performed at various venues, including the Paramount Theatre and Red Rocks Amphitheater.",
-                "genre": [
-                    "rock"
-                ],
-                "top_songs": [
-                    "Hotel California",
-                    "Take it Easy",
-                    "Life in the Fast Lane",
-                    "One of These Nights",
-                    "Desperado",
-                    "Lyin' Eyes",
-                    "Take it to the Limit",
-                    "New Kid in Town",
-                    "Heartache Tonight"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=The+Long+Run+Eagles+tribute+band"
-        }
-    },
-    {
-        "date_of_show": "2025-10-23",
-        "band": "Big Richard",
-        "city": "Santa Barbara",
-        "time_of_show": "20:00:00",
-        "venue_name": "Soho Restaurant & Music Club",
-        "event_name": "Big Richard @ Soho Restaurant & Music Club",
-        "ticket_price": "",
-        "street_address": "1221 State St #205",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "34.423621",
-        "longitude": "-119.70549199999999",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "Big Richard is a neo-acoustic supergroup formed in 2021, comprised of four accomplished female musicians from Colorado. They are known for their blend of bluegrass, folk, and Americana, characterized by tight vocal harmonies, instrumental virtuosity, and clever arrangements. The band often incorporates humor and a playful, irreverent stage presence into their performances, challenging traditional norms within the bluegrass scene. They have released albums like 'Girl Dinner' and have performed at various festivals across the United States.",
-                "genre": [
-                    "country",
-                    "folk",
-                    "rock"
-                ],
-                "top_songs": [
-                    "The Missing Stair",
-                    "Walls of Time",
-                    "So Long My Friend",
-                    "Town Line",
-                    "Elk River Blues",
-                    "Back Porch Dove",
-                    "Darlin Honey"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=Big+Richard+band+summary+genre+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-23",
-        "band": "DJ Pauly D",
-        "city": "Ventura",
-        "time_of_show": "20:00:00",
-        "venue_name": "The Majestic Ventura Theater",
-        "event_name": "DJ Pauly D @ The Majestic Ventura Theater",
-        "ticket_price": "",
-        "street_address": "26 S Chestnut St",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "34.28030489999999",
-        "longitude": "-119.291439",
-        "description": {
-            "event_type": "dj",
-            "band": {
-                "summary": "DJ Pauly D, born Paul Delvecchio, is an American television personality and DJ who gained fame as a cast member of MTV's Jersey Shore. He began DJing at age 16 and has since built a career in electronic dance music, signing with G-Unit Records in 2011. He is known for his high-energy sets and crowd interaction.",
-                "genre": [
-                    "electronic"
-                ],
-                "top_songs": [
-                    "WYD After",
-                    "Back To Love",
-                    "Silver and Gold",
-                    "Did You Know",
-                    "That Boy",
-                    "Pull Me Closer",
-                    "Night Of My Life",
-                    "Beat Dat Beat (It's Time To)"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=DJ+Pauly+D+genre+summary+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-23",
-        "band": "The Hip Abduction",
-        "city": "San Luis Obispo",
-        "time_of_show": "20:00:00",
-        "venue_name": "Fremont Theater",
-        "event_name": "The Hip Abduction @ Fremont Theater",
-        "ticket_price": "",
-        "street_address": "1035 Monterey St",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "35.281867",
-        "longitude": "-120.6605319",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "The Hip Abduction is an American reggae band formed in St. Petersburg, Florida, in 2010. Their music is a blend of reggae, world music, dub, indie pop, and pop rock, characterized by a fusion of West African rhythms and Jamaican dub with indie pop sensibilities. The band's sound often incorporates elements of Afrobeat, Soukous, Malian Blues, and American jam/electronic/indie music, with a focus on groovy and soulful melodies, uplifting lyrics, and a distinct use of instruments like the kora and ngoni.",
-                "genre": [
-                    "reggae",
-                    "world",
-                    "electronic",
-                    "pop",
-                    "rock",
+                    "jazz",
                     "funk"
                 ],
                 "top_songs": [
-                    "Pacific Coast Highway",
-                    "We'll Be Alright",
-                    "All I Need",
-                    "An Island Still Remains",
-                    "Float",
-                    "Some Say the Ocean",
-                    "Time & Space"
+                    "Tonight I'll Be Staying Here With You (feat. Levon Helm of The Band)",
+                    "The Ways We Change (feat. Chris Pandolfi of Infamous Stringdusters)",
+                    "Rocka Bye (feat. Sarah Perrotta)"
                 ]
             },
-            "google_search_link": "https://www.google.com/search?q=The+Hip+Abduction+band+summary+genre+top+songs"
+            "google_search_link": "https://www.google.com/search?q=Pete+Pidgeon+%26+Arcoda+genre+summary+top+songs"
         }
     },
     {
-        "date_of_show": "2025-10-24",
-        "band": "Glitterfox",
-        "city": "Morro Bay",
-        "time_of_show": "15:30:00",
-        "venue_name": "The Siren",
-        "event_name": "Glitterfox @ The Siren",
+        "date_of_show": "2025-11-21",
+        "band": "Todd Rundgren",
+        "city": "Ojai",
+        "time_of_show": "19:00:00",
+        "venue_name": "Libbey Bowl",
+        "event_name": "Todd Rundgren @ Libbey Bowl",
         "ticket_price": "",
-        "street_address": "900 Main St",
+        "street_address": "210 S Signal St",
         "region": "CA",
         "country": "United States",
-        "latitude": "35.36703819999999",
-        "longitude": "-120.84976619999998",
+        "latitude": "34.4457383",
+        "longitude": "-119.2457301",
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "Glitterfox is a Portland-based band formed in 2012, known for their unique blend of garage rock grit, new wave shimmer, southern Americana soul, and dancefloor rhythms. The band was formed by Solange Igoa and Andrea Walker, who initially met at an open mic in Long Beach, California. Their music often explores themes of queer love, personal transformation, and emotional experiences, with a sound described as \"Lesbian Glam Folk,\" indie rock, and folk rock. Glitterfox has toured extensively and released an EP, multiple singles, and their debut full-length album, \"decoder,\" in 2025.",
+                "summary": "Todd Rundgren is an American musician, singer, songwriter, and record producer known for his diverse musical styles, sophisticated and often unconventional music, and early adoption of computer technologies. He began his career in the 1960s with the psychedelic band Nazz before pursuing a successful solo career. Rundgren is recognized as a pioneer in electronic music, progressive rock, and music videos.",
                 "genre": [
                     "rock",
-                    "folk",
-                    "punk"
-                ],
-                "top_songs": [
-                    "Passenger",
-                    "Change Me",
-                    "Polaroids",
-                    "Wildfires",
-                    "Kentucky Night",
-                    "Married to the Ground",
-                    "Honey",
-                    "Built to Break",
-                    "Fringe",
-                    "Richie's Party",
-                    "Not Fade Away",
-                    "Looking Away",
-                    "TV",
-                    "Take Me Back"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=Glitterfox+band+summary+genre+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-24",
-        "band": "TD Lind and The Aviators",
-        "city": "Ojai",
-        "time_of_show": "17:00:00",
-        "venue_name": "Ojai Art Center",
-        "event_name": "TD Lind and The Aviators @ Ojai Art Center",
-        "ticket_price": "",
-        "street_address": "113 S Montgomery St",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "34.4471147",
-        "longitude": "-119.2436535",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "TD Lind and The Aviators is an indie rock band from Southern California, formed in 2022. The band is known for its old-soul storytelling, powerful vocals, and dynamic live performances. The lineup includes TD Lind, David Franz, Karl Hunter, Dan Sadin, and Greg Weiser. Their music draws influences from soul, jazz, and rock. They released their live album \"Into the Light\" in 2023 and their debut studio album \"Golden\" in August 2024. They continue to release new music throughout 2025.",
-                "genre": [
-                    "rock",
-                    "rnb",
-                    "jazz"
-                ],
-                "top_songs": [
-                    "I'm Sorry (Not Sorry)",
-                    "Trying Times",
-                    "I Will Wait",
-                    "If I",
-                    "Save Me",
-                    "Simply Falling",
-                    "Can't Hold Me Down",
-                    "Golden",
-                    "Rolling Joanna - Live at The Grape",
-                    "Into the Light"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=TD+Lind+and+The+Aviators+band+summary+genre+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-24",
-        "band": "David Franz",
-        "city": "Ojai",
-        "time_of_show": "17:00:00",
-        "venue_name": "Ojai Art Center",
-        "event_name": "David Franz @ Ojai Art Center",
-        "ticket_price": "",
-        "street_address": "113 S Montgomery St",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "34.4471147",
-        "longitude": "-119.2436535",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "David Franz is a Los Angeles-based musician, producer, engineer, multi-instrumentalist, performer, and educator. He is the founder of Underground Sun, an artist development company and music studio, and co-founder of Underground Sol, an EDM artist development and event production company. Franz writes, produces, and engineers music across a wide range of genres including Electronic, Pop, R&B, Hip-hop, Rock, and Americana. His work has been featured in TV shows, movies, and advertisements. He is also the author of books on music production and has taught courses for Berklee College of Music and Lynda.com.",
-                "genre": [
+                    "pop",
+                    "experimental",
                     "electronic",
-                    "pop",
-                    "rnb",
-                    "hiphop",
-                    "rock",
-                    "country"
+                    "rnb"
                 ],
                 "top_songs": [
-                    "Truth In Disguise",
-                    "Less Resistance",
-                    "Floating",
-                    "Born To Love You",
-                    "My Greatest Enemy",
-                    "Silver Arrow Sunday"
+                    "Hello It's Me",
+                    "I Saw the Light",
+                    "Bang the Drum All Day",
+                    "Can We Still Be Friends",
+                    "We Gotta Get You a Woman"
                 ]
             },
-            "google_search_link": "https://www.google.com/search?q=David+Franz+band+genre+summary+top+songs+Ojai+Art+Center"
+            "google_search_link": "https://www.google.com/search?q=Todd+Rundgren+genre%2C+summary%2C+top+songs"
         }
     },
     {
-        "date_of_show": "2025-10-24",
-        "band": "Griffin House",
-        "city": "Santa Barbara",
-        "time_of_show": "19:00:00",
-        "venue_name": "Soho Restaurant & Music Club",
-        "event_name": "Griffin House @ Soho Restaurant & Music Club",
-        "ticket_price": "",
-        "street_address": "1221 State St #205",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "34.423621",
-        "longitude": "-119.70549199999999",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "Griffin House is an American singer-songwriter and storyteller from Springfield, Ohio, born on April 21, 1980. He began playing guitar and writing songs at age 18, after turning down a golf scholarship to pursue music. His debut album, 'Lost and Found' (2004), garnered significant attention, including praise from music critic Bill Flanagan on 'CBS Sunday Morning.' House has released over 13 albums and is known for his folk, folk rock, and acoustic style, often incorporating elements of Americana. His music has been featured in various television shows, and he has toured extensively, opening for notable artists.",
-                "genre": [
-                    "folk",
-                    "pop",
-                    "rock"
-                ],
-                "top_songs": [
-                    "The Guy That Says Goodbye to You Is Out of His Mind",
-                    "Better Than Love",
-                    "When the Time Is Right",
-                    "Real Love Can't Pretend",
-                    "Go Through It",
-                    "Let Me In",
-                    "Waiting for the Rain to Come Down",
-                    "River City Lights"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=Griffin+House+band+summary+genre+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-24",
-        "band": "Caught Red Handed",
-        "city": "Oxnard",
-        "time_of_show": "19:00:00",
-        "venue_name": "Oxnard Copper Blues Rock Pub & Kitchen",
-        "event_name": "Caught Red Handed @ Oxnard Copper Blues Rock Pub & Kitchen",
-        "ticket_price": "",
-        "street_address": "581 Collections Blvd",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "34.240229",
-        "longitude": "-119.176274",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "The band \"Caught Red Handed\" appears to have released music across different genres, including punk/hardcore based on a YouTube video from 2011 and an album titled 'Repeat Offenders' from 2019 with songs that lean towards country or folk influences. There is also a 2025 R&B/Motown-style song by a group with the same name, and a 2025 single by 'Shameless Band' titled 'Caught Red Handed'. Given the venue, it's most likely a rock or country-leaning band.",
-                "genre": [
-                    "rock",
-                    "country"
-                ],
-                "top_songs": [
-                    "Cash on the Barrelhead",
-                    "Hold Whatcha Got",
-                    "Prairie Lullabye",
-                    "Turkey in the Yard-Turkey in the Straw",
-                    "Quiver"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=Caught+Red+Handed+band+genre+summary+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-24",
-        "band": "Strung Out",
-        "city": "Ventura",
-        "time_of_show": "19:00:00",
-        "venue_name": "Ventura Music Hall",
-        "event_name": "Strung Out @ Ventura Music Hall",
-        "ticket_price": "",
-        "street_address": "1888 E Thompson Blvd",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "34.2745925",
-        "longitude": "-119.2730736",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "Strung Out is an American melodic hardcore band formed in Simi Valley, California, in 1991. Their sound blends melodic hardcore with elements of heavy metal and skate punk, characterized by technical musicianship, fast-paced drumming, and intricate guitar solos. They have released numerous studio albums, live albums, and compilations, often charting on the Billboard 200. The band has toured internationally and participated in the Warped Tour.",
-                "genre": [
-                    "punk",
-                    "metal"
-                ],
-                "top_songs": [
-                    "Razorblade",
-                    "Mephisto",
-                    "Cemetery",
-                    "Paperwalls",
-                    "Pleather",
-                    "Lost Motel",
-                    "Gearbox",
-                    "Matchbook",
-                    "Letter Home",
-                    "Vampires",
-                    "Bring Out Your Dead"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=Strung+Out+band+summary+genre+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-24",
-        "band": "Agent Orange",
-        "city": "Paso Robles",
-        "time_of_show": "19:00:00",
-        "venue_name": "The Pour House",
-        "event_name": "Agent Orange @ The Pour House",
-        "ticket_price": "",
-        "street_address": "525 Pine St",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "35.596337",
-        "longitude": "-120.693951",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "Agent Orange is an American punk rock band formed in Placentia, California, in 1979. They are considered pioneers of surf punk, blending surf music with hardcore punk rock. The band's sound is characterized by melodic hooks, fuzzy guitars, and an uptempo pace. Their debut album, 'Living in Darkness' (1981), is a seminal work in the skate punk underground. Mike Palm is the sole constant original member.",
-                "genre": [
-                    "punk",
-                    "rock"
-                ],
-                "top_songs": [
-                    "Bloodstains",
-                    "Everything Turns Grey",
-                    "Miserlou",
-                    "Too Young to Die",
-                    "The Last Goodbye"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=Agent+Orange+band+summary+genre"
-        }
-    },
-    {
-        "date_of_show": "2025-10-24",
-        "band": "Rainbow City Park",
+        "date_of_show": "2025-11-21",
+        "band": "Hot 45",
         "city": "San Luis Obispo",
         "time_of_show": "19:00:00",
-        "venue_name": "Libertine Brewing Company",
-        "event_name": "Rainbow City Park @ Libertine Brewing Company",
+        "venue_name": "SLO Brew Rock",
+        "event_name": "Hot 45 @ SLO Brew Rock",
         "ticket_price": "",
-        "street_address": "1234 Broad St",
+        "street_address": "855 Aerovista Ln",
         "region": "CA",
         "country": "United States",
-        "latitude": "35.2776921",
-        "longitude": "-120.663135",
+        "latitude": "35.24168",
+        "longitude": "-120.64115900000002",
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "Rainbow City Park is an indie-rock/dream-pop band from Northern California, formed in 2021. They draw inspiration from the 90s alt-rock scene and modern artists like Phoebe Bridgers, Diiv, and Pinegrove. The band is known for their guitar-driven sound, introspective lyrics, and energetic live performances. They have released singles such as 'Complicate This,' 'Broken Record / Dad Jeans,' and 'Convince You,' and their debut EP 'Fruitless' was released in February 2025.",
-                "genre": [
-                    "rock",
-                    "punk"
-                ],
-                "top_songs": [
-                    "Complicate This",
-                    "Valentine's Day 1999",
-                    "Fruitless"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=Rainbow+City+Park+band+genre+summary+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-24",
-        "band": "Corey B",
-        "city": "Oxnard",
-        "time_of_show": "19:30:00",
-        "venue_name": "Oxnard Levity Live",
-        "event_name": "Corey B @ Oxnard Levity Live",
-        "ticket_price": "",
-        "street_address": "591 Collections Blvd",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "34.2406983",
-        "longitude": "-119.1767442",
-        "description": {
-            "event_type": "other",
-            "band": {
-                "summary": "Corey B is a comedian, radio personality, and content creator known for his work in New York and over ten years in radio. He gained significant popularity on TikTok and Facebook, amassing over 23 million followers. Corey B has also ventured into releasing his own BBQ sauce and has equity in a New York restaurant and cookie company. He co-hosts a podcast and is actively performing stand-up comedy.",
-                "genre": [],
-                "top_songs": []
-            },
-            "google_search_link": "https://www.google.com/search?q=Corey+B+band+summary+genre+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-24",
-        "band": "Laura Joy",
-        "city": "Thousand Oaks",
-        "time_of_show": "19:30:00",
-        "venue_name": "Pedals & Pints Brewing Company",
-        "event_name": "Laura Joy @ Pedals & Pints Brewing Company",
-        "ticket_price": "",
-        "street_address": "156 W Hillcrest Dr",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "34.1813228",
-        "longitude": "-118.8829361",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "Laura Joy Gold is a singer-songwriter influenced by the artists of the 1960s and 1970s, crafting thoughtful and melodic songs. She began writing songs at the age of 11 and continues to perform many of her older brother's songs, who was also a songwriter. Laura Joy has been active in the music scene since moving to California in 2015.",
-                "genre": [
-                    "folk",
-                    "pop"
-                ],
-                "top_songs": [
-                    "Magic Right Now",
-                    "Remember",
-                    "Heart",
-                    "The Darkness Knew It Not (Live)"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=Laura+Joy+band+summary+genre+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-24",
-        "band": "Hot 45",
-        "city": "Morro Bay",
-        "time_of_show": "19:30:00",
-        "venue_name": "The Siren",
-        "event_name": "Hot 45 @ The Siren",
-        "ticket_price": "",
-        "street_address": "900 Main St",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "35.36703819999999",
-        "longitude": "-120.84976619999998",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "Hot 45 is an American R&B group based in San Luis Obispo, CA, formed by singer-songwriter Reese Galido. The band is known for their dance grooves and love songs, and they've released singles such as 'Can't Stop' and 'Sleepin'.'",
+                "summary": "Hot 45 is an American R&B group based in San Luis Obispo, CA, formed by singer-songwriter Reese Galido. The band is known for its dance grooves and love songs, and is composed of accomplished musicians from the Central Coast.",
                 "genre": [
                     "rnb"
                 ],
                 "top_songs": [
+                    "Sleepin'",
                     "Can't Stop",
-                    "Sleepin'"
+                    "Mushroom Yesterday",
+                    "Sposta"
                 ]
             },
-            "google_search_link": "https://www.google.com/search?q=Hot+45+band+genre+summary+top+songs"
+            "google_search_link": "https://www.google.com/search?q=Hot+45+band"
         }
     },
     {
-        "date_of_show": "2025-10-24",
-        "band": "Danae Hays",
-        "city": "San Luis Obispo",
-        "time_of_show": "20:00:00",
-        "venue_name": "Fremont Theater",
-        "event_name": "Danae Hays @ Fremont Theater",
-        "ticket_price": "",
-        "street_address": "1035 Monterey St",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "35.281867",
-        "longitude": "-120.6605319",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "Danae Hays is an American comedian, actress, and musician known for her comedy country music. Her songs often blend humor with a Southern twang, and she has released singles like 'Rode Hard' and 'All It Takes (Is A Woman)'. Hays has gained significant popularity on TikTok and other social media platforms, with a large following and numerous views. She has also embarked on comedy tours and is working on releasing more music, with a style that straddles the line between legitimate country music and satire.",
-                "genre": [
-                    "country"
-                ],
-                "top_songs": [
-                    "Dick in My Nightstand",
-                    "Rode Hard",
-                    "F**k It",
-                    "All It Takes",
-                    "Broken Condoms"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=Danae+Hays+music+genre"
-        }
-    },
-    {
-        "date_of_show": "2025-10-24",
-        "band": "22 & good 4 u",
+        "date_of_show": "2025-11-21",
+        "band": "Evann McIntosh",
         "city": "Santa Barbara",
-        "time_of_show": "21:30:00",
+        "time_of_show": "20:00:00",
         "venue_name": "Soho Restaurant & Music Club",
-        "event_name": "22 & good 4 u @ Soho Restaurant & Music Club",
+        "event_name": "Evann McIntosh @ Soho Restaurant & Music Club",
         "ticket_price": "",
         "street_address": "1221 State St #205",
         "region": "CA",
@@ -883,342 +110,96 @@
         "latitude": "34.423621",
         "longitude": "-119.70549199999999",
         "description": {
-            "event_type": "tribute",
+            "event_type": "original",
             "band": {
-                "summary": "The event '22 & good 4 u' appears to be a tribute event celebrating Taylor Swift's 'TS12' album, potentially titled 'The Life of a Showgirl'. The name 'good 4 u' refers to a popular song by Olivia Rodrigo, which itself has been noted for its influences from artists like Paramore. The '22' likely references Taylor Swift's song of the same name. Therefore, this event is a mashup tribute that combines elements inspired by both Taylor Swift and Olivia Rodrigo, with a focus on themes of performance and celebration.",
+                "summary": "Evann McIntosh is an artist who blends dark alt-pop with R&B, incorporating elements of hip-hop, jazz, and funk. Their music explores themes of growth, gender identity, sexuality, and self-expression, characterized by insightful and unpredictable lyrics, as well as adventurous production. McIntosh's work is often described as intimate and a poignant portrait of modern adolescence. Their EP 'MOJO' gained significant traction, partly due to the viral TikTok success of the single \"What Dreams Are Made Of.\"",
                 "genre": [
                     "pop",
+                    "rnb",
+                    "hiphop",
+                    "jazz",
+                    "funk"
+                ],
+                "top_songs": [
+                    "What Dreams Are Made Of",
+                    "Yours",
+                    "Do U Mind?",
+                    "WIYULD",
+                    "Gorilla in a Skillet"
+                ]
+            },
+            "google_search_link": "https://www.google.com/search?q=Evann+McIntosh+genre+summary+top+songs"
+        }
+    },
+    {
+        "date_of_show": "2025-11-21",
+        "band": "San Lyon",
+        "city": "Santa Barbara",
+        "time_of_show": "20:00:00",
+        "venue_name": "Historic Carrillo Ballroom",
+        "event_name": "San Lyon @ Historic Carrillo Ballroom",
+        "ticket_price": "",
+        "street_address": "100 E Carrillo St",
+        "region": "CA",
+        "country": "United States",
+        "latitude": "34.4225586",
+        "longitude": "-119.7004444",
+        "description": {
+            "event_type": "original",
+            "band": {
+                "summary": "San Lyon is a Los Angeles-based Swing Jazz Quartet that performs a blend of early 20th-century Parisian Gypsy Jazz and American Jazz standards, as well as original vintage-inspired songs. The band has been playing together since 2019 and has recorded several albums. The current members include Paige Herschell on vocals, kazoo, and melodica; Jenna Colombet on vocals, violin, and standup bass; Katie Cavera on vocals, standup bass, banjo, and guitar; and Dani Vargas on guitar, bass, and vocals.",
+                "genre": [
+                    "jazz",
+                    "folk"
+                ],
+                "top_songs": [
+                    "Piel Canela (feat. San Lyon)",
+                    "Canciones Hermosas (feat. San Lyon)",
+                    "El Reloj (feat. San Lyon)"
+                ]
+            },
+            "google_search_link": "https://www.google.com/search?q=San+Lyon+band+genre+summary+top+songs"
+        }
+    },
+    {
+        "date_of_show": "2025-11-21",
+        "band": "Jenna Colombet",
+        "city": "Santa Barbara",
+        "time_of_show": "20:30:00",
+        "venue_name": "Historic Carrillo Ballroom",
+        "event_name": "Jenna Colombet @ Historic Carrillo Ballroom",
+        "ticket_price": "",
+        "street_address": "100 E Carrillo St",
+        "region": "CA",
+        "country": "United States",
+        "latitude": "34.4225586",
+        "longitude": "-119.7004444",
+        "description": {
+            "event_type": "original",
+            "band": {
+                "summary": "Jenna Colombet is a Franco-American violinist, singer, bassist, and composer known for her versatile performances that blend swing jazz, folk, and classical music. She is a founding member and violinist of San Lyon, a swing jazz quartet based in Los Angeles, and has also played bass in the rock band Thou Shall Doubt. Colombet is also a composer, having written music for the musical tale \"Vasilisa.\"",
+                "genre": [
+                    "jazz",
+                    "folk",
+                    "classical",
                     "rock"
                 ],
                 "top_songs": [
-                    "good 4 u",
-                    "22"
+                    "Vassilissa - conte musical russe (Version Fran\u00e7aise)",
+                    "Herself La Que Sabe",
+                    "Rise Up"
                 ]
             },
-            "google_search_link": "https://www.google.com/search?q=22+%26+good+4+u+band+summary+genre+top+songs"
+            "google_search_link": "https://www.google.com/search?q=Jenna+Colombet+Historic+Carrillo+Ballroom"
         }
     },
     {
-        "date_of_show": "2025-10-24",
-        "band": "DJ Cali Los",
-        "city": "Oxnard",
-        "time_of_show": "22:00:00",
-        "venue_name": "Oxnard Copper Blues Rock Pub & Kitchen",
-        "event_name": "DJ Cali Los @ Oxnard Copper Blues Rock Pub & Kitchen",
-        "ticket_price": "",
-        "street_address": "581 Collections Blvd",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "34.240229",
-        "longitude": "-119.176274",
-        "description": {
-            "event_type": "dj",
-            "band": {
-                "summary": "DJ Cali Los is a DJ known for mixing hip-hop, R&B, and mash-ups.",
-                "genre": [
-                    "hiphop",
-                    "rnb",
-                    "electronic"
-                ],
-                "top_songs": []
-            },
-            "google_search_link": "https://www.google.com/search?q=DJ+Cali+Los+genre+summary+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-25",
-        "band": "DJ J SCRATCH",
-        "city": "Oxnard",
-        "time_of_show": "12:00:00",
-        "venue_name": "Oxnard Copper Blues Rock Pub & Kitchen",
-        "event_name": "DJ J SCRATCH @ Oxnard Copper Blues Rock Pub & Kitchen",
-        "ticket_price": "",
-        "street_address": "581 Collections Blvd",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "34.240229",
-        "longitude": "-119.176274",
-        "description": {
-            "event_type": "dj",
-            "band": {
-                "summary": "DJ J Scratch, also known as George Spivey, is an American hip-hop DJ and producer from Brooklyn, New York. He is renowned for his turntablism skills, having won multiple DJ championships and awards, including \"Turntablist of the Year\" at the Global Spin Awards for three consecutive years. He gained prominence as the official DJ for the hip-hop group EPMD in 1989 and has since produced for numerous acclaimed artists such as Busta Rhymes, LL Cool J, and The Roots. DJ J Scratch's style is characterized by an eclectic mix of rock influence, hip hop, and mainstream crossover, creating a dynamic and smooth sound.",
-                "genre": [
-                    "hiphop",
-                    "electronic"
-                ],
-                "top_songs": []
-            },
-            "google_search_link": "https://www.google.com/search?q=DJ+J+SCRATCH+Oxnard+Copper+Blues+Rock+Pub+%26+Kitchen"
-        }
-    },
-    {
-        "date_of_show": "2025-10-25",
-        "band": "Easton Everett",
-        "city": "Paso Robles",
-        "time_of_show": "13:00:00",
-        "venue_name": "Grey Wolf Cellars & Barton Family Wines",
-        "event_name": "Easton Everett @ Grey Wolf Cellars & Barton Family Wines",
-        "ticket_price": "",
-        "street_address": "2174 CA-46",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "35.5732449",
-        "longitude": "-120.7350846",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "Easton Everett is an American music artist known for his guitar-woven music that spans multiple genres including folk, rock, jazz, and world beat. His music is described as curious, thoughtful, deliberate, easy to listen to, and surprising, often featuring intricate fingerstyle guitar playing and evocative vocals with poetic lyrics. He leads multiple projects and performs frequently in various settings.",
-                "genre": [
-                    "folk",
-                    "rock",
-                    "jazz",
-                    "world"
-                ],
-                "top_songs": [
-                    "Blacksmith Briar",
-                    "Only for a Minute",
-                    "Flint and Pitch",
-                    "Bells Toll",
-                    "Rattle in the Wind"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=Easton+Everett+genre+summary+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-25",
-        "band": "Jeff Dale",
-        "city": "Ventura",
-        "time_of_show": "14:00:00",
-        "venue_name": "The Grape",
-        "event_name": "Jeff Dale @ The Grape",
-        "ticket_price": "",
-        "street_address": "2733 E Main St",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "34.2736015",
-        "longitude": "-119.2593536",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "Jeff Dale is an award-winning songwriter and performer born and raised on the south side of Chicago. He has over 40 years of experience performing and writing original roots music. Dale's music is deeply rooted in Chicago blues, drawing inspiration from legendary artists like Muddy Waters and Howlin' Wolf. He has accompanied notable blues musicians such as Lowell Fulson, Pee Wee Crayton, and Etta James. Dale has released several albums, including 'Blues From The Southside Of My Soul,' 'Blues Room,' and 'Blues Power,' which have received international acclaim. His music often blends blues with elements of jazz, R&B, and West African rhythms, delivered with a signature sense of humor.",
-                "genre": [
-                    "blues"
-                ],
-                "top_songs": [
-                    "I Ain't Mad",
-                    "What It Is",
-                    "Heat Seeking Missile",
-                    "When I Start Drinkin'",
-                    "Seconds Before It Starts To Rain"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=Jeff+Dale+music+summary+genre+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-25",
-        "band": "E-40",
-        "city": "Avila Beach",
-        "time_of_show": "16:00:00",
-        "venue_name": "Avila Beach Golf Resort",
-        "event_name": "E-40 @ Avila Beach Golf Resort",
-        "ticket_price": "",
-        "street_address": "6464 Ana Bay Rd",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "35.181976",
-        "longitude": "-120.739112",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "E-40, born Earl Tywone Stevens on November 15, 1967, is an American rapper, entrepreneur, and actor from Vallejo, California. He is a founding member of the rap group The Click and the founder of Sick Wid It Records. Known for his unique slang and distinctive vocal style, E-40 has released numerous studio albums and collaborated with a wide range of artists. He gained wider recognition with his 1995 solo album \"In a Major Way\" and became even more popular in the mid-2000s with hits like \"Tell Me When to Go.\"",
-                "genre": [
-                    "hiphop"
-                ],
-                "top_songs": [
-                    "U and Dat",
-                    "Captain Save a Hoe",
-                    "Tell Me When to Go",
-                    "Choices (Yup)",
-                    "Sprinkle Me",
-                    "Rapper's Ball",
-                    "Dusted 'N' Disgusted",
-                    "1-Luv"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=E-40+genre+summary+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-25",
-        "band": "Dave Tate",
-        "city": "Avila Beach",
-        "time_of_show": "16:00:00",
-        "venue_name": "Flying Flags Avila Beach",
-        "event_name": "Dave Tate @ Flying Flags Avila Beach",
-        "ticket_price": "",
-        "street_address": "6450 Babe Ln",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "35.1768233",
-        "longitude": "-120.7520771",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "Dave Tate is a singer-songwriter whose music blends folk, Americana, and pop-rock influences. Often compared to Paul Simon and Jeff Buckley, his music features soulful vocals, poetic lyrics, and finger-style guitar. He has released nine studio albums and performs over 150 shows annually across the Western U.S. and Europe. Tate's music has been featured in an on-flight commercial for American Airlines and has received praise from various publications. He currently resides on the Central Coast of California.",
-                "genre": [
-                    "folk",
-                    "country"
-                ],
-                "top_songs": []
-            },
-            "google_search_link": "https://www.google.com/search?q=Dave+Tate+genre+summary+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-25",
-        "band": "David Franz",
-        "city": "Ojai",
-        "time_of_show": "17:30:00",
-        "venue_name": "Ojai Art Center",
-        "event_name": "David Franz @ Ojai Art Center",
-        "ticket_price": "",
-        "street_address": "113 S Montgomery St",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "34.4471147",
-        "longitude": "-119.2436535",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "David Franz is a California-based musician, producer, educator, and entrepreneur who creates music with a mission to encourage deeper thought and feeling about our connection to the universe. He founded the record label Underground Sun, which features a wide-ranging catalog of genres with a foundation in soul music, including R&B, rock, hip-hop, blues, folk, world, electronic, and jazz. His music has been featured in TV shows, movies, and campaigns worldwide. He also co-founded Underground Sol, an electronic music label.",
-                "genre": [
-                    "rnb",
-                    "rock",
-                    "hiphop",
-                    "blues",
-                    "folk",
-                    "world",
-                    "electronic"
-                ],
-                "top_songs": [
-                    "Truth In Disguise",
-                    "Less Resistance",
-                    "Floating",
-                    "Born To Love You",
-                    "I'm Here",
-                    "A Better Man",
-                    "For My Own Health",
-                    "Baby Please"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=David+Franz+music+genre"
-        }
-    },
-    {
-        "date_of_show": "2025-10-25",
-        "band": "Peter Smith Music",
-        "city": "Paso Robles",
-        "time_of_show": "18:30:00",
-        "venue_name": "LIBRETTO",
-        "event_name": "Peter Smith Music @ LIBRETTO",
-        "ticket_price": "",
-        "street_address": "1242 Park St",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "35.6275933",
-        "longitude": "-120.6900447",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "Peter Smith is a jazz pianist, composer, arranger, recording artist, and singer based in Los Angeles, California. He is known for his work in hard bop, with a style often compared to Art Blakey and the Jazz Messengers and Horace Silver.",
-                "genre": [
-                    "jazz"
-                ],
-                "top_songs": [
-                    "The Myth",
-                    "Astronomical",
-                    "Element",
-                    "Odd Sun",
-                    "What Was Said"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=Peter+Smith+Music+genre+summary+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-25",
-        "band": "The Black Market Trust",
-        "city": "Arroyo Grande",
-        "time_of_show": "19:00:00",
-        "venue_name": "Clark Center For the Performing Arts",
-        "event_name": "The Black Market Trust @ Clark Center For the Performing Arts",
-        "ticket_price": "",
-        "street_address": "487 Fair Oaks Ave",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "35.1163368",
-        "longitude": "-120.5818862",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "The Black Market Trust is an American pop/vocal jazz group from Los Angeles that blends the sounds of legendary American crooners and vocal groups with the energy of gypsy jazz guitarist Django Reinhardt. Consisting of five world-class musicians, they combine vintage jazz, swing, and gypsy jazz with a contemporary flair, creating a sound that is both familiar and fresh. Their music often draws from the Great American Songbook and features intricate vocal harmonies. The band's debut album, released in 2012, is considered a milestone in gypsy jazz, and their sophomore album \"II\" featured a Top Ten hit on the Adult Contemporary charts.",
-                "genre": [
-                    "jazz",
-                    "pop"
-                ],
-                "top_songs": []
-            },
-            "google_search_link": "https://www.google.com/search?q=The+Black+Market+Trust+genre+summary+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-25",
-        "band": "The Bones of J.R. Jones",
-        "city": "Morro Bay",
-        "time_of_show": "19:00:00",
-        "venue_name": "The Siren",
-        "event_name": "The Bones of J.R. Jones @ The Siren",
-        "ticket_price": "",
-        "street_address": "900 Main St",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "35.36703819999999",
-        "longitude": "-120.84976619999998",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "The Bones of J.R. Jones is the musical project of Jonathon Linaberry, a singer, guitarist, and songwriter. His music blends blues, folk, rock, and Americana, often described as \"haunting stomp blues tempered with a touch of honey.\" Linaberry's style is characterized by raw energy, emotional depth, and a focus on storytelling, drawing influences from traditional bluesmen, folk artists, and punk rock.",
-                "genre": [
-                    "blues",
-                    "folk",
-                    "rock",
-                    "country"
-                ],
-                "top_songs": [
-                    "The Heat",
-                    "Hammers and Nails",
-                    "Trouble",
-                    "Bless Your Soul",
-                    "Hearts Racing",
-                    "Ticket Home",
-                    "St. James' bed",
-                    "Bad Moves",
-                    "Sing Sing",
-                    "Drive"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=The+Bones+of+J.R.+Jones+genre+summary+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-25",
-        "band": "Windows",
+        "date_of_show": "2025-11-21",
+        "band": "John Splithoff",
         "city": "Santa Barbara",
-        "time_of_show": "20:00:00",
+        "time_of_show": "21:00:00",
         "venue_name": "Soho Restaurant & Music Club",
-        "event_name": "Windows @ Soho Restaurant & Music Club",
+        "event_name": "John Splithoff @ Soho Restaurant & Music Club",
         "ticket_price": "",
         "street_address": "1221 State St #205",
         "region": "CA",
@@ -1228,37 +209,104 @@
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "Windows is a Los Angeles-based band founded in 2018 by Matteo Arias, whose music blends old California country, classic surf rock, and West Coast psychedelia. They have released several singles and an EP, and announced participation in Austin Psych Fest 2025.",
+                "summary": "John Splithoff is an American singer-songwriter, multi-instrumentalist, and music producer from Chicago, now based in Los Angeles. His music blends pop, neo-soul, and indie pop, characterized by soulful vocals, memorable melodies, and energetic rhythms. He released his debut album 'All In' in 2021 and his second album 'Far From Here' in March 2025. Splithoff has collaborated with various artists and achieved success with singles like 'Sing to You', which reached the Billboard Top 10.",
                 "genre": [
-                    "country",
-                    "rock",
-                    "punk",
                     "pop",
-                    "electronic"
+                    "rnb"
                 ],
                 "top_songs": [
-                    "Light in the Dark",
-                    "That's When",
-                    "Upstairs",
-                    "Up All Night",
-                    "High Sierra Lows",
-                    "S. R. 89",
-                    "The Ballad Of Whiskey Pete",
-                    "Long-While",
-                    "Wanted to Know",
-                    "Raindrops"
+                    "Sing to You",
+                    "Show Me (feat. Madison Ryann Ward)",
+                    "Raye",
+                    "Sing to You - Acoustic",
+                    "Make It Happen",
+                    "Night Drive",
+                    "Stepping Stone",
+                    "What If She Wants You",
+                    "Fahrenheit",
+                    "Hold Me Back"
                 ]
             },
-            "google_search_link": "https://www.google.com/search?q=Windows+band+genre+summary+top+songs"
+            "google_search_link": "https://www.google.com/search?q=John+Splithoff+summary+genre+top+songs"
         }
     },
     {
-        "date_of_show": "2025-10-25",
-        "band": "Emily V",
+        "date_of_show": "2025-11-21",
+        "band": "The California Honeydrops",
+        "city": "Ventura",
+        "time_of_show": "21:00:00",
+        "venue_name": "Ventura Music Hall",
+        "event_name": "The California Honeydrops @ Ventura Music Hall",
+        "ticket_price": "",
+        "street_address": "1888 E Thompson Blvd",
+        "region": "CA",
+        "country": "United States",
+        "latitude": "34.2745925",
+        "longitude": "-119.2730736",
+        "description": {
+            "event_type": "original",
+            "band": {
+                "summary": "The California Honeydrops are an American R&B and soul band formed in Oakland, California, in 2007. Their music is characterized by a blend of blues, gospel, and R&B traditions, featuring brass instruments, harmonica, an upright bass, and drums. They are known for their soulful vocal harmonies and energetic live performances, often incorporating improvisation and audience interaction.",
+                "genre": [
+                    "rnb",
+                    "blues",
+                    "funk"
+                ],
+                "top_songs": [
+                    "When It Was Wrong",
+                    "All Day, All Night",
+                    "In My Baby's Arms",
+                    "Brokedown- Parts 1 and 2",
+                    "Don't Let the Green Grass Fool You (Live)",
+                    "Live Learn",
+                    "Crazy Girls",
+                    "Lead Me Home",
+                    "Long Way",
+                    "Tumblin'"
+                ]
+            },
+            "google_search_link": "https://www.google.com/search?q=The+California+Honeydrops+genre+summary+top+songs"
+        }
+    },
+    {
+        "date_of_show": "2025-11-22",
+        "band": "The Gamble",
+        "city": "Oxnard",
+        "time_of_show": "19:00:00",
+        "venue_name": "Oxnard Copper Blues Rock Pub & Kitchen",
+        "event_name": "The Gamble @ Oxnard Copper Blues Rock Pub & Kitchen",
+        "ticket_price": "",
+        "street_address": "581 Collections Blvd",
+        "region": "CA",
+        "country": "United States",
+        "latitude": "34.240229",
+        "longitude": "-119.176274",
+        "description": {
+            "event_type": "original",
+            "band": {
+                "summary": "The Gamble is a rock band that released the album 'Any Where but Home' in 2019. They also have a folk project named 'The Gamble Folk' which released the album 'Sharing' in 1974.",
+                "genre": [
+                    "rock",
+                    "folk"
+                ],
+                "top_songs": [
+                    "Lifeforce",
+                    " \uc2eb\uc5b4\ub3c4 \uc0ac\ub791\ud574 I Hate You But I Love You (feat. The Gamble) [Hiphop Version]",
+                    "The Gamble",
+                    "Out of Nowhere",
+                    "Party Doll"
+                ]
+            },
+            "google_search_link": "https://www.google.com/search?q=The+Gamble+band+summary+genre+top+songs"
+        }
+    },
+    {
+        "date_of_show": "2025-11-22",
+        "band": "Talie Copen",
         "city": "Paso Robles",
-        "time_of_show": "20:00:00",
+        "time_of_show": "19:00:00",
         "venue_name": "The Pour House",
-        "event_name": "Emily V @ The Pour House",
+        "event_name": "Talie Copen @ The Pour House",
         "ticket_price": "",
         "street_address": "525 Pine St",
         "region": "CA",
@@ -1268,100 +316,236 @@
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "Emily V is an LA-based rock 'n' roll violinist known for her unique, eccentric, and exciting style, often compared to guitarists like Jimmy Page and Jimi Hendrix. She performs as a solo act, looping her instruments to create a dramatic rock show. Emily has toured extensively and performed with numerous notable musicians across various genres. Her musical background includes classical training, with studies in music theory, composition, and world percussion.",
+                "summary": "Talie Copen is a musician active on California's Central Coast, known for various projects including \"Talie & The Troublemakers,\" \"Talie & James,\" \"Talie & Sarah,\" and \"Talie's Trailer Park Revival.\" Her music often features original compositions, with styles described as folk americana, country, blues, and 80s/90s rock-infused alternative.",
                 "genre": [
+                    "folk",
+                    "country",
+                    "blues",
                     "rock",
-                    "metal"
+                    "pop"
                 ],
-                "top_songs": []
-            },
-            "google_search_link": "https://www.google.com/search?q=Emily+V+band+genre+summary+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-25",
-        "band": "Sploinky Rave",
-        "city": "San Luis Obispo",
-        "time_of_show": "21:00:00",
-        "venue_name": "Fremont Theater",
-        "event_name": "Sploinky Rave @ Fremont Theater",
-        "ticket_price": "",
-        "street_address": "1035 Monterey St",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "35.281867",
-        "longitude": "-120.6605319",
-        "description": {
-            "event_type": "dj",
-            "band": {
-                "summary": "Sploinky Rave is a nationwide event series that delivers electrifying DJ sets with a focus on electronic and bass music. It aims to create an immersive experience with strong sound and visuals, appealing to a wide audience. The brand is associated with Slacker Media Group, which also curates other music and lifestyle events.",
-                "genre": [
-                    "electronic"
-                ],
-                "top_songs": []
-            },
-            "google_search_link": "https://www.google.com/search?q=Sploinky+Rave+DJ+sets+electronic+music"
-        }
-    },
-    {
-        "date_of_show": "2025-10-25",
-        "band": "DJ Solo",
-        "city": "Oxnard",
-        "time_of_show": "22:00:00",
-        "venue_name": "Oxnard Copper Blues Rock Pub & Kitchen",
-        "event_name": "DJ Solo @ Oxnard Copper Blues Rock Pub & Kitchen",
-        "ticket_price": "",
-        "street_address": "581 Collections Blvd",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "34.240229",
-        "longitude": "-119.176274",
-        "description": {
-            "event_type": "dj",
-            "band": {
-                "summary": "DJ Solo is an artist known for electronic and dance music, particularly within the Chicago Footwork and Juke genres. He has released several albums and singles, with notable releases including 'Gas Pack' (2025), 'Smoke the Earth' (2023), and 'Project BustDown 5' (2023). His music often features energetic beats and is popular in club settings.",
-                "genre": [
-                    "electronic"
-                ],
-                "top_songs": [
-                    "Let Me See You Bounce",
-                    "Break Yo Back",
-                    "Drop N Shake",
-                    "Pop That Big Ole Thang",
-                    "Girl What That Booty Do",
-                    "Booty Drop",
-                    "Booty Time",
-                    "What Have You Done"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=DJ+Solo+Oxnard+Copper+Blues+Rock+Pub+%26+Kitchen+October+25+2025"
-        }
-    },
-    {
-        "date_of_show": "2025-10-26",
-        "band": "Talie Copen",
-        "city": "Baywood-Los Osos",
-        "time_of_show": "11:00:00",
-        "venue_name": "The Clubhouse Grill @ Sea Pines",
-        "event_name": "Talie Copen @ The Clubhouse Grill @ Sea Pines",
-        "ticket_price": "",
-        "street_address": "250 Howard Ave",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "35.3153136",
-        "longitude": "-120.8542414",
-        "description": {
-            "event_type": "original",
-            "band": {
-                "summary": "Talie Copen is a solo artist performing at The Clubhouse Grill at Sea Pines, located in Baywood-Los Osos, CA. Information regarding her genre, specific top songs, or a detailed band summary is not readily available through web searches.",
-                "genre": [],
                 "top_songs": []
             },
             "google_search_link": "https://www.google.com/search?q=Talie+Copen+genre+summary+top+songs"
         }
     },
     {
-        "date_of_show": "2025-10-26",
+        "date_of_show": "2025-11-22",
+        "band": "Of The Betrayer",
+        "city": "San Luis Obispo",
+        "time_of_show": "19:00:00",
+        "venue_name": "Humdinger Brewing SLO Taproom",
+        "event_name": "Of The Betrayer @ Humdinger Brewing SLO Taproom",
+        "ticket_price": "",
+        "street_address": "855 Capitolio Way STE 1",
+        "region": "CA",
+        "country": "United States",
+        "latitude": "35.2578997",
+        "longitude": "-120.6428572",
+        "description": {
+            "event_type": "original",
+            "band": {
+                "summary": "Of the Betrayer is a blackened deathcore/symphonic deathcore band from Los Angeles, California. They formed in 2023. The band's music is characterized by heavy guitar riffs, blast beats, and harsh vocals, often incorporating symphonic elements. They have released singles and EPs, and are known for their intense live performances.",
+                "genre": [
+                    "metal"
+                ],
+                "top_songs": []
+            },
+            "google_search_link": "https://www.google.com/search?q=Of+The+Betrayer+band+summary+genre+top+songs"
+        }
+    },
+    {
+        "date_of_show": "2025-11-22",
+        "band": "Katie Kadan",
+        "city": "Arroyo Grande",
+        "time_of_show": "19:30:00",
+        "venue_name": "Clark Center For the Performing Arts",
+        "event_name": "Katie Kadan @ Clark Center For the Performing Arts",
+        "ticket_price": "",
+        "street_address": "487 Fair Oaks Ave",
+        "region": "CA",
+        "country": "United States",
+        "latitude": "35.1163368",
+        "longitude": "-120.5818862",
+        "description": {
+            "event_type": "original",
+            "band": {
+                "summary": "Katie Kadan is a Chicago-born singer known for her powerful, soulful voice that blends gospel, blues, and soul with a modern twist. She gained national recognition on Season 17 of The Voice, where she became a finalist, impressing judges with her vocal range and emotional delivery. Kadan's music is characterized by heartfelt lyrics and a commanding stage presence.",
+                "genre": [
+                    "rnb",
+                    "blues",
+                    "pop"
+                ],
+                "top_songs": [
+                    "All Better - The Voice Performance",
+                    "Without You",
+                    "I Do",
+                    "Fire in Me",
+                    "My Man",
+                    "Rolling In The Deep",
+                    "Lady Marmalade"
+                ]
+            },
+            "google_search_link": "https://www.google.com/search?q=Katie+Kadan+genre+top+songs+summary"
+        }
+    },
+    {
+        "date_of_show": "2025-11-22",
+        "band": "Jakobs Castle",
+        "city": "Ventura",
+        "time_of_show": "20:00:00",
+        "venue_name": "Ventura Music Hall",
+        "event_name": "Jakobs Castle @ Ventura Music Hall",
+        "ticket_price": "",
+        "street_address": "1888 E Thompson Blvd",
+        "region": "CA",
+        "country": "United States",
+        "latitude": "34.2745925",
+        "longitude": "-119.2730736",
+        "description": {
+            "event_type": "original",
+            "band": {
+                "summary": "Jakobs Castle, the project of Jakob Nowell (son of Sublime's Bradley Nowell), blends various genres including ska-punk, alternative rock, electropop, and power pop. His music is described as a modern interpretation of punk, incorporating elements of reggae and pop, inspired by both California's musical history and contemporary internet underground culture. The project aims to create cutting-edge music that is also palatable and infiltrates different scenes.",
+                "genre": [
+                    "rock",
+                    "punk",
+                    "reggae",
+                    "electronic",
+                    "pop"
+                ],
+                "top_songs": [
+                    "Garden Grove",
+                    "EL CAMINO (FEAT. JAKOB NOWELL)",
+                    "Less and Less",
+                    "Close Enough",
+                    "2 Hours Ago",
+                    "Emodub",
+                    "Time Traveler",
+                    "Pretend (feat. Killer Mike)"
+                ]
+            },
+            "google_search_link": "https://www.google.com/search?q=Jakobs+Castle+genre+summary+top+songs"
+        }
+    },
+    {
+        "date_of_show": "2025-11-22",
+        "band": "Alfred Robles",
+        "city": "San Luis Obispo",
+        "time_of_show": "20:00:00",
+        "venue_name": "Fremont Theater",
+        "event_name": "Alfred Robles @ Fremont Theater",
+        "ticket_price": "",
+        "street_address": "1035 Monterey St",
+        "region": "CA",
+        "country": "United States",
+        "latitude": "35.281867",
+        "longitude": "-120.6605319",
+        "description": {
+            "event_type": "other",
+            "band": {
+                "summary": "Alfred Robles is a Filipino-American stand-up comedian known for his relatable and observational humor often drawing from his experiences as a child of immigrants and his upbringing in Southern California. He has been featured on various comedy specials and television shows, and tours extensively.",
+                "genre": [],
+                "top_songs": []
+            },
+            "google_search_link": "https://www.google.com/search?q=Alfred+Robles+comedian"
+        }
+    },
+    {
+        "date_of_show": "2025-11-22",
+        "band": "Nekromantix",
+        "city": "Morro Bay",
+        "time_of_show": "20:00:00",
+        "venue_name": "The Siren",
+        "event_name": "Nekromantix @ The Siren",
+        "ticket_price": "",
+        "street_address": "900 Main St",
+        "region": "CA",
+        "country": "United States",
+        "latitude": "35.36703819999999",
+        "longitude": "-120.84976619999998",
+        "description": {
+            "event_type": "original",
+            "band": {
+                "summary": "Nekromantix is a Danish psychobilly band formed in Copenhagen in 1989 by Kim Nekroman. Their music often features horror and monster themes, and their distinctive image includes Nekroman's signature coffin-shaped bass. The band gained international recognition after signing with Hellcat Records in the early 2000s and has released several albums exploring their unique blend of punk, rockabilly, and horror.",
+                "genre": [
+                    "rock",
+                    "metal",
+                    "punk"
+                ],
+                "top_songs": [
+                    "Who Killed the Cheerleader",
+                    "Nice Day for a Resurrection",
+                    "Gargoyles over Copenhagen",
+                    "Haunted Cathouse",
+                    "Trick or Treat"
+                ]
+            },
+            "google_search_link": "https://www.google.com/search?q=Nekromantix+genre+summary+top+songs"
+        }
+    },
+    {
+        "date_of_show": "2025-11-22",
+        "band": "Hot 45",
+        "city": "San Luis Obispo",
+        "time_of_show": "20:00:00",
+        "venue_name": "SLO Brew Rock",
+        "event_name": "Hot 45 @ SLO Brew Rock",
+        "ticket_price": "",
+        "street_address": "855 Aerovista Ln",
+        "region": "CA",
+        "country": "United States",
+        "latitude": "35.24168",
+        "longitude": "-120.64115900000002",
+        "description": {
+            "event_type": "original",
+            "band": {
+                "summary": "Hot 45 is an R&B band based in San Luis Obispo, California, known for their dance grooves and love songs. The band was formed by singer-songwriter Reese Galido and features musicians from the Central Coast.",
+                "genre": [
+                    "rnb"
+                ],
+                "top_songs": [
+                    "Sleepin'",
+                    "Can't Stop"
+                ]
+            },
+            "google_search_link": "https://www.google.com/search?q=Hot+45+band+genre+summary+top+songs"
+        }
+    },
+    {
+        "date_of_show": "2025-11-22",
+        "band": "DJ Blu",
+        "city": "Oxnard",
+        "time_of_show": "22:00:00",
+        "venue_name": "Oxnard Copper Blues Rock Pub & Kitchen",
+        "event_name": "DJ Blu @ Oxnard Copper Blues Rock Pub & Kitchen",
+        "ticket_price": "",
+        "street_address": "581 Collections Blvd",
+        "region": "CA",
+        "country": "United States",
+        "latitude": "34.240229",
+        "longitude": "-119.176274",
+        "description": {
+            "event_type": "dj",
+            "band": {
+                "summary": "DJ Blu is an American DJ and producer known for their versatile style, blending commercial dance, Top 40, and hip-hop. Hailing from the Memphis, TN area, DJ Blu has been spinning since the age of 11 and founded Blu Light Ent. in 1999. They have performed extensively across the southeastern United States and have had residencies on Rebel Radio. DJ Blu's music is often described as experimental and raw bass-influenced, incorporating elements of trap, hip hop, and dubstep.",
+                "genre": [
+                    "electronic",
+                    "hiphop",
+                    "rnb"
+                ],
+                "top_songs": [
+                    "Stop Gurl",
+                    "Bahd To the Bone",
+                    "Slow Down",
+                    "Ambitious",
+                    "Aint No Sunshine"
+                ]
+            },
+            "google_search_link": "https://www.google.com/search?q=DJ+Blu+summary+genre+top+songs"
+        }
+    },
+    {
+        "date_of_show": "2025-11-23",
         "band": "DJ Scratch",
         "city": "Oxnard",
         "time_of_show": "17:00:00",
@@ -1376,107 +560,384 @@
         "description": {
             "event_type": "dj",
             "band": {
-                "summary": "DJ Scratch is a highly acclaimed turntablist and producer, widely recognized for his innovative scratching techniques and his work within the hip-hop genre. He is known for his technical skill and contributions to the art of turntablism, often collaborating with various artists and producing beats. He has been noted for his sampling and beat-making abilities, flipping old sounds into new creations.",
+                "summary": "DJ Scratch is a prominent figure in the hip-hop and turntablism scene, known for his innovative scratching techniques and his work as a producer and DJ for various artists. He has been influential in the development of DJ culture, with his work cited in discussions of essential scratch records and turntablism techniques.",
                 "genre": [
                     "hiphop",
                     "electronic"
                 ],
-                "top_songs": []
+                "top_songs": [
+                    "Lost Souls (feat. DJ Scratch)",
+                    "Kaiju",
+                    "Saturday Afternoon Kung Fu Theater, Pt. 1",
+                    "I Got A Story To Tell (DJ Scratch Remix)",
+                    "Real Hip Hop (DJ Scratch Unusual Remix)"
+                ]
             },
             "google_search_link": "https://www.google.com/search?q=DJ+Scratch+genre+summary+top+songs"
         }
     },
     {
-        "date_of_show": "2025-10-26",
-        "band": "Belinda Davids",
-        "city": "Arroyo Grande",
-        "time_of_show": "19:00:00",
-        "venue_name": "Clark Center For the Performing Arts",
-        "event_name": "Belinda Davids @ Clark Center For the Performing Arts",
-        "ticket_price": "",
-        "street_address": "487 Fair Oaks Ave",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "35.1163368",
-        "longitude": "-120.5818862",
-        "description": {
-            "event_type": "tribute",
-            "band": {
-                "summary": "Belinda Davids is a South African singer known for her tribute show to Whitney Houston, 'The Greatest Love of All'. She began performing professionally at age 14 and possesses a four-octave vocal range. Davids was inspired by artists like Aretha Franklin, Anita Baker, and particularly Whitney Houston, whose music she honors in her performances. Her rendition of Houston's songs has earned her international recognition, including an appearance on \"Showtime at the Apollo\".",
-                "genre": [
-                    "rnb",
-                    "gospel"
-                ],
-                "top_songs": [
-                    "I Will Always Love You",
-                    "I Wanna Dance With Somebody",
-                    "How Will I Know",
-                    "One Moment in Time",
-                    "I Have Nothing",
-                    "Run to You",
-                    "Didn't We Almost Have It All",
-                    "Greatest Love of All",
-                    "I'm Every Woman",
-                    "Queen of the Night",
-                    "Exhale (Shoop Shoop)",
-                    "Million Dollar Bill"
-                ]
-            },
-            "google_search_link": "https://www.google.com/search?q=Belinda+Davids+tribute+to+Whitney+Houston+genre"
-        }
-    },
-    {
-        "date_of_show": "2025-10-26",
-        "band": "Pink Talking Fish",
+        "date_of_show": "2025-11-23",
+        "band": "The California Honeydrops",
         "city": "San Luis Obispo",
         "time_of_show": "19:00:00",
-        "venue_name": "SLO Brew",
-        "event_name": "Pink Talking Fish @ SLO Brew",
+        "venue_name": "Fremont Theater",
+        "event_name": "The California Honeydrops @ Fremont Theater",
         "ticket_price": "",
-        "street_address": "736 Higuera St",
+        "street_address": "1035 Monterey St",
         "region": "CA",
         "country": "United States",
-        "latitude": "35.279185",
-        "longitude": "-120.663549",
-        "description": {
-            "event_type": "tribute",
-            "band": {
-                "summary": "Pink Talking Fish is a hybrid tribute band that fuses the music of Pink Floyd, Talking Heads, and Phish. The band is known for creating unique live experiences by blending songs and compositional structures from these three iconic artists, often resulting in seamless segues and improvisational jams. They aim to celebrate the love of this music by presenting it in fresh and exciting ways, with no two shows ever being the same.",
-                "genre": [
-                    "rock",
-                    "rock"
-                ],
-                "top_songs": []
-            },
-            "google_search_link": "https://www.google.com/search?q=Pink+Talking+Fish+band+summary+genre+top+songs"
-        }
-    },
-    {
-        "date_of_show": "2025-10-27",
-        "band": "Derinkuyu",
-        "city": "Santa Barbara",
-        "time_of_show": "17:00:00",
-        "venue_name": "Soho Restaurant & Music Club",
-        "event_name": "Derinkuyu @ Soho Restaurant & Music Club",
-        "ticket_price": "",
-        "street_address": "1221 State St #205",
-        "region": "CA",
-        "country": "United States",
-        "latitude": "34.423621",
-        "longitude": "-119.70549199999999",
+        "latitude": "35.281867",
+        "longitude": "-120.6605319",
         "description": {
             "event_type": "original",
             "band": {
-                "summary": "Derinkuyu is a Santa Barbara-based band led by John Ajao, featuring Mr. Beenie and Sister Alla. Their music is influenced by Afro-beat, Reggae, Dancehall, and Soul.",
+                "summary": "The California Honeydrops are an American R&B and soul band formed in Oakland, California, in 2007. Their music is characterized by a fusion of blues, gospel, and R&B, often featuring brass instruments, harmonica, upright bass, and drums. They are known for their soulful vocal harmonies and improvisational live performances.",
                 "genre": [
-                    "african",
-                    "reggae",
-                    "funk",
-                    "rnb"
+                    "rnb",
+                    "blues"
+                ],
+                "top_songs": [
+                    "When It Was Wrong",
+                    "All Day, All Night",
+                    "In My Baby's Arms",
+                    "Brokedown- Parts 1 and 2",
+                    "Live Learn",
+                    "Good Times"
+                ]
+            },
+            "google_search_link": "https://www.google.com/search?q=The+California+Honeydrops+genre+summary+top+songs"
+        }
+    },
+    {
+        "date_of_show": "2025-11-23",
+        "band": "Nekromantix",
+        "city": "Ventura",
+        "time_of_show": "20:00:00",
+        "venue_name": "Ventura Music Hall",
+        "event_name": "Nekromantix @ Ventura Music Hall",
+        "ticket_price": "",
+        "street_address": "1888 E Thompson Blvd",
+        "region": "CA",
+        "country": "United States",
+        "latitude": "34.2745925",
+        "longitude": "-119.2730736",
+        "description": {
+            "event_type": "original",
+            "band": {
+                "summary": "Nekromantix is a Danish-horror-punk band formed in 1999, known for their distinctive psychobilly sound and macabre lyrics. The band is fronted by Kim Nekroman, who plays a custom-built coffin-shaped bass guitar. Their music often features themes of horror, death, and the supernatural, delivered with high-energy performances. They have released several albums and toured extensively worldwide.",
+                "genre": [
+                    "rock",
+                    "punk",
+                    "metal"
+                ],
+                "top_songs": [
+                    "Gargoyles Over Copenhagen",
+                    "Who Killed the Cheerleader",
+                    "Come On Everybody"
+                ]
+            },
+            "google_search_link": "https://www.google.com/search?q=Nekromantix+band+genre+songs+summary"
+        }
+    },
+    {
+        "date_of_show": "2025-11-26",
+        "band": "David Franz",
+        "city": "Ojai",
+        "time_of_show": "18:00:00",
+        "venue_name": "Ojai Valley Brewery",
+        "event_name": "David Franz @ Ojai Valley Brewery",
+        "ticket_price": "",
+        "street_address": "307 Bryant St",
+        "region": "CA",
+        "country": "United States",
+        "latitude": "34.4462553",
+        "longitude": "-119.2374895",
+        "description": {
+            "event_type": "original",
+            "band": {
+                "summary": "David Franz is a California-based musician, producer, educator, and entrepreneur known for his work across various genres, including R&B, rock, hip-hop, blues, folk, world, and electronic music. He founded the record label Underground Sun, which aims to support emerging artists with a foundation in soul music. Franz also co-founded Underground Sol, dedicated to electronic music. His music often explores themes of personal transformation, connection, and seeking meaning.",
+                "genre": [
+                    "rnb",
+                    "rock",
+                    "hiphop",
+                    "blues",
+                    "folk",
+                    "world",
+                    "electronic"
+                ],
+                "top_songs": [
+                    "Baby Please",
+                    "Truth In Disguise",
+                    "Floating",
+                    "Born To Love You",
+                    "A Better Man"
+                ]
+            },
+            "google_search_link": "https://www.google.com/search?q=David+Franz+music+genre+summary+top+songs"
+        }
+    },
+    {
+        "date_of_show": "2025-11-26",
+        "band": "TD Lind and The Aviators",
+        "city": "Ojai",
+        "time_of_show": "18:00:00",
+        "venue_name": "Ojai Valley Brewery",
+        "event_name": "TD Lind and The Aviators @ Ojai Valley Brewery",
+        "ticket_price": "",
+        "street_address": "307 Bryant St",
+        "region": "CA",
+        "country": "United States",
+        "latitude": "34.4462553",
+        "longitude": "-119.2374895",
+        "description": {
+            "event_type": "original",
+            "band": {
+                "summary": "",
+                "genre": [],
+                "top_songs": []
+            },
+            "google_search_link": "https://www.google.com/search?q=TD+Lind+and+The+Aviators+Ojai+Valley+Brewery"
+        }
+    },
+    {
+        "date_of_show": "2025-11-28",
+        "band": "Fan Halen",
+        "city": "Morro Bay",
+        "time_of_show": "19:30:00",
+        "venue_name": "The Siren",
+        "event_name": "Fan Halen @ The Siren",
+        "ticket_price": "",
+        "street_address": "900 Main St",
+        "region": "CA",
+        "country": "United States",
+        "latitude": "35.36703819999999",
+        "longitude": "-120.84976619999998",
+        "description": {
+            "event_type": "tribute",
+            "band": {
+                "summary": "Fan Halen is recognized as the world's number one Van Halen tribute band, known for their authentic replication of Van Halen's look, sound, and energetic performances. They have performed internationally and opened for numerous established rock bands, and have been featured on AXS-TV's \"The World's Greatest Tribute Bands.\"",
+                "genre": [
+                    "rock",
+                    "metal"
+                ],
+                "top_songs": [
+                    "Jump",
+                    "Panama",
+                    "Runnin' with the Devil",
+                    "Eruption",
+                    "Ain't Talking About Love",
+                    "Dance the Night Away",
+                    "You Really Got Me"
+                ]
+            },
+            "google_search_link": "https://www.google.com/search?q=Fan+Halen+band+genre+summary+top+songs"
+        }
+    },
+    {
+        "date_of_show": "2025-11-28",
+        "band": "Black Star",
+        "city": "Ventura",
+        "time_of_show": "20:00:00",
+        "venue_name": "The Majestic Ventura Theater",
+        "event_name": "Black Star @ The Majestic Ventura Theater",
+        "ticket_price": "",
+        "street_address": "26 S Chestnut St",
+        "region": "CA",
+        "country": "United States",
+        "latitude": "34.28030489999999",
+        "longitude": "-119.291439",
+        "description": {
+            "event_type": "original",
+            "band": {
+                "summary": "Black Star is an American hip-hop duo formed in 1996, composed of rappers Yasiin Bey (formerly Mos Def) and Talib Kweli. They emerged from the underground hip-hop scene of the late 1990s, associated with Rawkus Records. Their critically acclaimed debut album, \"Mos Def & Talib Kweli Are Black Star,\" was released in 1998, known for its conscious lyrics and alternative hip-hop sound. They have since released a second album, \"No Fear of Time,\" in 2022.",
+                "genre": [
+                    "hiphop",
+                    "punk"
+                ],
+                "top_songs": [
+                    "Definition",
+                    "Respiration",
+                    "Thieves In The Night",
+                    "Brown Skin Lady",
+                    "Astronomy (8th Light)"
+                ]
+            },
+            "google_search_link": "https://www.google.com/search?q=Black+Star+band+summary+genre+top+songs"
+        }
+    },
+    {
+        "date_of_show": "2025-11-28",
+        "band": "Brian Swartz",
+        "city": "Ventura",
+        "time_of_show": "20:00:00",
+        "venue_name": "The Grape",
+        "event_name": "Brian Swartz @ The Grape",
+        "ticket_price": "",
+        "street_address": "2733 E Main St",
+        "region": "CA",
+        "country": "United States",
+        "latitude": "34.2736015",
+        "longitude": "-119.2593536",
+        "description": {
+            "event_type": "original",
+            "band": {
+                "summary": "Brian Swartz is a versatile and accomplished trumpeter, composer, arranger, and vocalist with a career spanning diverse musical landscapes including jazz, pop, and film scores. He has collaborated with numerous acclaimed artists and appeared on multiple Grammy-winning and nominated recordings. Swartz has released five jazz albums as a leader and is known for his original compositions and arrangements of jazz standards.",
+                "genre": [
+                    "jazz"
                 ],
                 "top_songs": []
             },
-            "google_search_link": "https://www.google.com/search?q=Derinkuyu+band+summary+genre+top+songs"
+            "google_search_link": "https://www.google.com/search?q=Brian+Swartz+band+genre"
+        }
+    },
+    {
+        "date_of_show": "2025-11-28",
+        "band": "Matte Blvck",
+        "city": "Ventura",
+        "time_of_show": "20:00:00",
+        "venue_name": "Ventura Music Hall",
+        "event_name": "Matte Blvck @ Ventura Music Hall",
+        "ticket_price": "",
+        "street_address": "1888 E Thompson Blvd",
+        "region": "CA",
+        "country": "United States",
+        "latitude": "34.2745925",
+        "longitude": "-119.2730736",
+        "description": {
+            "event_type": "original",
+            "band": {
+                "summary": "Matte Blvck is a San Diego-based electronic music trio formed in March 2020. They are known for blending brooding beats with an industrial edge, exploring genres such as breakbeats, industrial, darkwave, and cinematic dark pop. Their music is characterized by pulsing synths, mechanical percussion, and shadowy vocals, creating soundscapes that are both physical and introspective, existing between the club and the confessional. They have released two albums, 'I'm Waving, Not Drowning' (2020) and 'Vows' (2024), and have collaborated with artists like Clan of Xymox and Aaron Short. Their live performances are known for merging analogue and digital energy with striking visuals.",
+                "genre": [
+                    "electronic"
+                ],
+                "top_songs": [
+                    "Soulless",
+                    "Pure",
+                    "Monumental",
+                    "Midnight & Angel",
+                    "Vows"
+                ]
+            },
+            "google_search_link": "https://www.google.com/search?q=Matte+Blvck+genre+summary+top+songs"
+        }
+    },
+    {
+        "date_of_show": "2025-11-28",
+        "band": "Mari Nobre",
+        "city": "Oxnard",
+        "time_of_show": "20:00:00",
+        "venue_name": "Copper Blues Oxnard",
+        "event_name": "Mari Nobre @ Copper Blues Oxnard",
+        "ticket_price": "",
+        "street_address": "591 Collection Blvd",
+        "region": "CA",
+        "country": "United States",
+        "latitude": "34.2407425",
+        "longitude": "-119.176728",
+        "description": {
+            "event_type": "original",
+            "band": {
+                "summary": "Mari Nobre is a versatile Jazz and Latin pop singer originally from Italy, who is also a Billboard-charted artist and has received a Latin Grammy certificate. She is known for her multilingual performances in English, Spanish, Portuguese, Italian, and French. Nobre is also the official singer for \"Joyas Prestadas,\" the original band of Jenni Rivera. Her music blends Latin rhythms with pop and jazz influences, often featuring heartfelt lyrics and captivating beats. She has released albums such as \"Sobran las Palabras\" and \"La Madrina.\"",
+                "genre": [
+                    "latin",
+                    "jazz",
+                    "pop"
+                ],
+                "top_songs": [
+                    "Vida (Remix)",
+                    "Vida",
+                    "Windows",
+                    "Luna Vieja",
+                    "Dolce Maria",
+                    "Sobran las Palabras",
+                    "La Calle Del Sol y Las Fresas",
+                    "Ven, Dame una Noche de Amor",
+                    "Senor Amor",
+                    "Una Nota Mas"
+                ]
+            },
+            "google_search_link": "https://www.google.com/search?q=Mari+Nobre+genre+summary+top+songs"
+        }
+    },
+    {
+        "date_of_show": "2025-11-28",
+        "band": "Jimmy Failla",
+        "city": "San Luis Obispo",
+        "time_of_show": "20:00:00",
+        "venue_name": "Fremont Theater",
+        "event_name": "Jimmy Failla @ Fremont Theater",
+        "ticket_price": "",
+        "street_address": "1035 Monterey St",
+        "region": "CA",
+        "country": "United States",
+        "latitude": "35.281867",
+        "longitude": "-120.6605319",
+        "description": {
+            "event_type": "other",
+            "band": {
+                "summary": "Jimmy Failla is an American stand-up comedian, television personality, and radio host. He is known for his work on \"Fox & Friends\" and his \"Fox Across America\" radio show.",
+                "genre": [],
+                "top_songs": []
+            },
+            "google_search_link": "https://www.google.com/search?q=Jimmy+Failla+comedian"
+        }
+    },
+    {
+        "date_of_show": "2025-11-28",
+        "band": "Jane Monheit",
+        "city": "Paso Robles",
+        "time_of_show": "20:30:00",
+        "venue_name": "LIBRETTO",
+        "event_name": "Jane Monheit @ LIBRETTO",
+        "ticket_price": "",
+        "street_address": "1242 Park St",
+        "region": "CA",
+        "country": "United States",
+        "latitude": "35.6275933",
+        "longitude": "-120.6900447",
+        "description": {
+            "event_type": "original",
+            "band": {
+                "summary": "Jane Monheit (born November 3, 1977) is an American jazz and traditional pop singer. She began her professional career at age 22 with her debut album \"Never Never Land\" in 2000, which became an instant success and established her as a prominent figure in jazz. Her singing has often been compared to Ella Fitzgerald, whom she cites as an influence. Monheit's repertoire includes jazz standards, classic pop songs, and Brazilian rhythms.",
+                "genre": [
+                    "jazz",
+                    "pop"
+                ],
+                "top_songs": [
+                    "On a Clear Day You Can See Forever",
+                    "The Man With The Bag",
+                    "Merry Christmas Darling",
+                    "In The Still of the Night",
+                    "Moon River",
+                    "Blame It On My Youth",
+                    "Over the Rainbow"
+                ]
+            },
+            "google_search_link": "https://www.google.com/search?q=Jane+Monheit+genre+summary+top+songs"
+        }
+    },
+    {
+        "date_of_show": "2025-11-28",
+        "band": "Dj SlicVic",
+        "city": "Oxnard",
+        "time_of_show": "22:00:00",
+        "venue_name": "Oxnard Copper Blues Rock Pub & Kitchen",
+        "event_name": "Dj SlicVic @ Oxnard Copper Blues Rock Pub & Kitchen",
+        "ticket_price": "",
+        "street_address": "581 Collections Blvd",
+        "region": "CA",
+        "country": "United States",
+        "latitude": "34.240229",
+        "longitude": "-119.176274",
+        "description": {
+            "event_type": "dj",
+            "band": {
+                "summary": "Information regarding the specific DJ, Dj SlicVic, could not be found.",
+                "genre": [],
+                "top_songs": []
+            },
+            "google_search_link": "https://www.google.com/search?q=Dj+SlicVic+genre+summary+top+songs"
         }
     }
 ]
